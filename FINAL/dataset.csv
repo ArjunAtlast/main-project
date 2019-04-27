@@ -1,0 +1,774 @@
+abs,brand,compression_ratio,coupe_type,cylinder_bore,doors,fuel_tank_volume,fuel_type,generation,kerb_weight,model,number_of_cylinders,number_of_gears,number_of_valves_per_cylinder,piston_stroke,position_of_cylinders,power,seats,torque,wheelbase,hashtags,sentiment
+1,Acura,5,0,4,4,4,0,RLX,5,RLX,6,6,4,4,2,5,5,5,6,#acurarlx|#rlx|#arlx|#rlxrlx|#acurarlxrlx|#arlxrlx,0.303968254
+0,Ariel,4,11,4,5,0,0,Atom 4,0,Atom,4,6,4,4,1,6,2,5,0,#arielatom|#atom|#aatom|#atomatom|#arielatomatom|#aatomatom,0
+1,AC,0,6,3,2,6,0,Ace,3,ACE,8,4,2,1,2,5,2,6,1,#acace|#ace|#aace|#aceace|#acaceace|#aaceace,0.375
+1,Acura,5,0,4,4,4,0,TL (2013),5,TL,6,6,4,4,2,5,5,3,5,#acuratl|#tl|#atl|#tltl|#acuratltl|#atltl,-0.0925
+1,BMW,3,0,5,4,6,0,7er (G11),0,7er,8,8,4,5,2,1,5,2,2,#bmw7er|#7er|#b7er|#7er7er|#bmw7er7er|#b7er7er,0.081607744
+0,AC,1,6,3,2,5,0,Cobra (Mk IV),0,Cobra,8,6,2,1,2,6,2,2,0,#accobra|#cobra|#acobra|#cobracobra|#accobracobra|#acobracobra,0.166666667
+0,Acura,1,0,2,4,1,0,RSX II,2,RSX,4,4,4,5,1,2,5,0,2,#acurarsx|#rsx|#arsx|#rsxrsx|#acurarsxrsx|#arsxrsx,0.202777778
+1,Acura,5,0,5,4,4,0,TLX I (facelift 2017),5,TLX,6,9,4,6,2,5,5,5,5,#acuratlx|#tlx|#atlx|#tlxtlx|#acuratlxtlx|#atlxtlx,0.3475
+0,Acura,3,0,4,4,4,0,TSX II (Cu2),5,TSX,4,6,4,1,1,4,5,2,4,#acuratsx|#tsx|#atsx|#tsxtsx|#acuratsxtsx|#atsxtsx,0.249404762
+1,Acura,6,2,5,5,6,0,SLX,6,SLX,6,5,4,5,2,3,5,3,5,#acuraslx|#slx|#aslx|#slxslx|#acuraslxslx|#aslxslx,0.25
+1,BMW,3,5,5,5,6,0,X6 M (E71),0,X6 M,8,6,4,5,2,1,4,2,6,#bmwx6m|#x6m|#bx6m|#x6mx6|#bmwx6mx6|#bx6mx6,0.375
+1,BMW,2,5,5,5,6,0,X5 (F15),0,X5,8,8,4,5,2,1,5,2,6,#bmwx5|#x5|#bx5|#x5x5|#bmwx5x5|#bx5x5,0
+1,BMW,2,5,5,5,6,0,X6 (F16),0,X6,8,8,4,5,2,1,5,2,6,#bmwx6|#x6|#bx6|#x6x6|#bmwx6x6|#bx6x6,0.5
+1,BMW,5,3,4,2,2,0,Z4 M Coupe (2009),3,Z4,6,6,4,6,1,6,2,5,1,#bmwz4|#z4|#bz4|#z4z4|#bmwz4z4|#bz4z4,0.136111111
+1,BMW,5,3,4,3,2,0,Z3 M Coupe (E36/7),2,Z3,6,5,4,6,1,6,2,4,1,#bmwz3|#z3|#bz3|#z3z3|#bmwz3z3|#bz3z3,0
+1,BMW,4,6,6,2,5,0,Z8 (E52),4,Z8,8,6,4,5,2,6,2,6,1,#bmwz8|#z8|#bz8|#z8z8|#bmwz8z8|#bz8z8,0.155164743
+1,BMW,0,0,3,4,3,1,"3er Sedan (F30 LCI, Facelift 2015)",6,3er,4,6,4,5,1,4,5,6,5,#bmw3er|#3er|#b3er|#3er3er|#bmw3er3er|#b3er3er,0.152083333
+1,BMW,4,6,2,2,2,0,"2er Convertible (F23 LCI, facelift 2017)",6,2er,4,8,4,1,1,4,4,3,4,#bmw2er|#2er|#b2er|#2er2er|#bmw2er2er|#b2er2er,0
+1,BMW,4,3,2,4,3,0,"4er Gran Coupe (F36, facelift 2017)",0,4er,6,8,4,1,1,6,5,6,5,#bmw4er|#4er|#b4er|#4er4er|#bmw4er4er|#b4er4er,0
+1,BMW,2,3,4,2,4,0,8er (E31),6,8er,12,6,2,1,2,6,4,6,4,#bmw8er|#8er|#b8er|#8er8er|#bmw8er8er|#b8er8er,0.136363636
+1,BMW,2,6,5,2,4,0,"6er Convertible (F12 LCI, facelift 2015)",0,6er,8,8,4,5,2,1,4,2,6,#bmw6er|#6er|#b6er|#6er6er|#bmw6er6er|#b6er6er,0
+1,BMW,6,0,5,4,3,0,M3 (E90),4,M3,8,6,4,0,2,6,5,5,5,#bmwm3|#m3|#bm3|#m3m3|#bmwm3m3|#bm3m3,0
+1,BMW,3,6,5,2,6,0,M6 Convertible (F12M),6,M6,8,7,4,5,2,1,4,2,6,#bmwm6|#m6|#bm6|#m6m6|#bmwm6m6|#bm6m6,0.114772727
+1,BMW,3,2,6,5,4,0,M5 Touring (E34),5,M5,6,5,4,5,1,6,5,5,5,#bmwm5|#m5|#bm5|#m5m5|#bmwm5m5|#bm5m5,0.178099174
+1,Alpina,0,10,3,5,4,1,XD3 (F25),6,XD3,6,8,4,5,1,6,5,2,5,#alpinaxd3|#xd3|#axd3|#xd3xd3|#alpinaxd3xd3|#axd3xd3,0
+1,Alpina,3,6,4,2,2,0,Roadster S,2,Roadster S,6,5,4,1,1,5,2,5,1,#alpinaroadsters|#roadsters|#aroadsters|#roadstersroadster|#alpinaroadstersroadster|#aroadstersroadster,0.55
+1,Apollo,1,3,6,2,4,0,IE,1,IE,12,6,4,5,2,1,2,2,4,#apolloie|#ie|#aie|#ieie|#apolloieie|#aieie,-0.268939394
+1,Alpina,0,0,3,4,3,1,D3 (E90),3,D3,4,6,4,5,1,4,5,5,5,#alpinad3|#d3|#ad3|#d3d3|#alpinad3d3|#ad3d3,0.18
+1,Alpina,0,0,3,4,4,1,D10 (E39),4,D10,6,5,4,5,1,5,5,6,6,#alpinad10|#d10|#ad10|#d10d10|#alpinad10d10|#ad10d10,0
+1,Alpina,0,0,3,4,4,1,D5 I Sedan (F10),5,D5,6,8,4,5,1,6,5,2,2,#alpinad5|#d5|#ad5|#d5d5|#alpinad5d5|#ad5d5,0.3
+0,Aro,0,8,3,5,4,0,24,5,24,4,4,4,3,1,1,5,1,0,#aro24|#24|#a24|#2424|#aro2424|#a2424,0.456060606
+0,Aro,0,8,1,3,1,0,10,3,10,4,5,2,1,1,0,5,0,0,#aro10|#10|#a10|#1010|#aro1010|#a1010,0
+1,BMW,3,1,2,3,2,0,"1er Hatchback (F21 LCI, facelift 2017)",6,1er,4,8,4,1,1,4,5,4,4,#bmw1er|#1er|#b1er|#1er1er|#bmw1er1er|#b1er1er,0
+1,Alpina,1,2,5,5,4,0,B5 Touring (F11),6,B5,8,8,4,5,2,1,5,2,2,#alpinab5|#b5|#ab5|#b5b5|#alpinab5b5|#ab5b5,0.5
+1,Acura,3,5,4,5,5,2,MDX III (facelift 2017),6,MDX,6,7,4,4,2,6,5,5,5,#acuramdx|#mdx|#amdx|#mdxmdx|#acuramdxmdx|#amdxmdx,0.45
+1,Alpina,3,0,3,4,3,0,B3 (F30),4,B3,6,8,4,5,1,6,5,2,5,#alpinab3|#b3|#ab3|#b3b3|#alpinab3b3|#ab3b3,0.125
+1,Acura,2,3,5,2,3,2,NSX II,5,NSX,6,9,4,5,2,1,2,2,3,#acuransx|#nsx|#ansx|#nsxnsx|#acuransxnsx|#ansxnsx,0.516666667
+1,Alpina,3,2,6,5,4,0,B10 Touring (E39),5,B10,8,5,4,3,2,6,5,6,6,#alpinab10|#b10|#ab10|#b10b10|#alpinab10b10|#ab10b10,0.35
+1,Alpina,3,0,4,4,4,0,B12 (E38),6,B12,12,5,2,1,2,6,5,6,6,#alpinab12|#b12|#ab12|#b12b12|#alpinab12b12|#ab12b12,-0.2
+1,Alpina,3,0,6,4,4,0,B8 (E36),3,B8,8,6,4,3,2,6,5,6,4,#alpinab8|#b8|#ab8|#b8b8|#alpinab8b8|#ab8b8,0
+1,Alpina,2,6,5,2,4,1,B6 Cabrio (F13),6,B6,8,8,4,5,2,1,4,2,6,#alpinab6|#b6|#ab6|#b6b6|#alpinab6b6|#ab6b6,0.333333333
+1,Alpina,2,0,5,4,6,0,B7 (F01),6,B7,8,8,4,5,2,1,5,2,2,#alpinab7|#b7|#ab7|#b7b7|#alpinab7b7|#ab7b7,0.188888889
+0,Alfa Romeo,2,3,6,2,4,0,SZ,2,SZ,6,5,4,0,2,4,2,3,1,#alfaromeosz|#sz|#asz|#szsz|#alfaromeoszsz|#aszsz,0.159090909
+1,Acura,6,0,4,4,1,0,ILX (facelift 2019),3,ILX,4,8,4,1,1,4,5,3,4,#acurailx|#ilx|#ailx|#ilxilx|#acurailxilx|#ailxilx,0.217921094
+0,Acura,4,0,2,4,1,0,Integra III Sedan,1,Integra,4,5,4,5,1,4,5,2,3,#acuraintegra|#integra|#aintegra|#integraintegra|#acuraintegraintegra|#aintegraintegra,0.066666667
+1,Alfa Romeo,1,3,3,2,0,0,4C  (facelift 2017),1,4C,4,6,4,1,1,4,2,4,0,#alfaromeo4c|#4c|#a4c|#4c4c|#alfaromeo4c4c|#a4c4c,0.174826389
+0,Zastava,1,1,1,3,0,0,Yugo Koral,0,Yugo,4,5,2,0,1,0,5,0,0,#zastavayugo|#yugo|#zyugo|#yugoyugo|#zastavayugoyugo|#zyugoyugo,0
+0,ZAZ,2,1,0,5,1,0,Sens Hatchback,1,Sens,4,5,2,0,1,0,5,0,2,#zazsens|#sens|#zsens|#senssens|#zazsenssens|#zsenssens,0.317261905
+0,ZAZ,0,0,0,2,0,0,966,0,966,4,4,2,0,2,0,5,0,0,#zaz966|#966|#z966|#966966|#zaz966966|#z966966,0.2
+1,Zenvo,0,3,4,2,4,0,TS1,4,TS1,8,7,4,4,2,1,2,2,6,#zenvots1|#ts1|#zts1|#ts1ts1|#zenvots1ts1|#zts1ts1,0.223484848
+1,Zotye,1,0,0,4,2,0,Z560,3,Z560,4,0,4,3,1,3,5,2,5,#zotyez560|#z560|#zz560|#z560z560|#zotyez560z560|#zz560z560,0
+1,Zenvo,0,3,4,2,4,0,ST1,4,ST1,8,7,4,4,2,1,2,2,2,#zenvost1|#st1|#zst1|#st1st1|#zenvost1st1|#zst1st1,0.099785156
+1,Alfa Romeo,1,2,3,5,4,0,159 Sportwagon,3,159,4,6,4,1,1,4,5,4,4,#alfaromeo159|#159|#a159|#159159|#alfaromeo159159|#a159159,0.06875
+1,Vector,0,3,3,2,4,0,W8 Twin Turbo,4,W8 Twin Turbo,8,3,2,6,2,1,2,2,3,#vectorw8twinturbo|#w8twinturbo|#vw8twinturbo|#w8twinturbow8|#vectorw8twinturbow8|#vw8twinturbow8,0
+1,VUHL,2,11,1,5,0,0,5,0,5,4,6,4,2,1,6,2,6,0,#vuhl5|#5|#v5|#55|#vuhl55|#v55,0.2
+0,UAZ,0,2,5,5,6,0,469,4,469,4,4,2,6,1,0,7,2,0,#uaz469|#469|#u469|#469469|#uaz469469|#u469469,0.25
+1,Venturi,0,3,6,2,4,0,400,0,400,6,5,4,0,2,6,2,6,1,#venturi400|#400|#v400|#400400|#venturi400400|#v400400,0.064806548
+1,Toyota,5,0,1,4,1,0,Yaris Sedan (facelift 2019),1,Yaris,4,6,4,2,1,1,5,1,2,#toyotayaris|#yaris|#tyaris|#yarisyaris|#toyotayarisyaris|#tyarisyaris,0.367171717
+1,Toyota,6,7,0,5,0,0,Sienta II (facelift 2018),2,Sienta,4,10,4,3,1,1,5,2,5,#toyotasienta|#sienta|#tsienta|#sientasienta|#toyotasientasienta|#tsientasienta,0.243181818
+0,Toyota,3,7,0,5,1,0,Sparky,1,Sparky,4,6,4,0,1,1,7,0,1,#toyotasparky|#sparky|#tsparky|#sparkysparky|#toyotasparkysparky|#tsparkysparky,0.572943723
+1,Toyota,0,3,4,3,4,0,Supra (A8),3,Supra,6,6,4,4,1,6,4,6,1,#toyotasupra|#supra|#tsupra|#suprasupra|#toyotasuprasupra|#tsuprasupra,0.595833333
+0,Toyota,1,3,2,2,1,0,Sprinter Trueno,0,Sprinter,4,6,4,1,1,1,5,1,1,#toyotasprinter|#sprinter|#tsprinter|#sprintersprinter|#toyotasprintersprinter|#tsprintersprinter,0.401953125
+1,Toyota,6,4,6,4,4,0,Tundra II Double Cab Long Bed,0,Tundra,8,6,4,1,2,6,6,6,2,#toyotatundra|#tundra|#ttundra|#tundratundra|#toyotatundratundra|#ttundratundra,-0.375
+1,Toyota,0,1,0,3,0,0,Starlet II (P8),0,Starlet,4,4,4,1,1,2,5,1,0,#toyotastarlet|#starlet|#tstarlet|#starletstarlet|#toyotastarletstarlet|#tstarletstarlet,0.033333333
+0,Toyota,4,8,4,5,4,0,Venza,5,Venza,6,6,4,4,2,5,5,4,0,#toyotavenza|#venza|#tvenza|#venzavenza|#toyotavenzavenza|#tvenzavenza,0.65625
+0,Toyota,6,7,3,4,2,1,Town Ace Noah,3,Town Ace,4,5,4,3,1,1,6,2,4,#toyotatownace|#townace|#ttownace|#townacetown|#toyotatownacetown|#ttownacetown,0.170454545
+1,Toyota,6,4,6,2,6,0,Tacoma III Access Cab,5,Tacoma,6,6,4,2,2,5,4,5,2,#toyotatacoma|#tacoma|#ttacoma|#tacomatacoma|#toyotatacomatacoma|#ttacomatacoma,0.533333333
+1,Toyota,0,0,4,4,4,0,Verossa,3,Verossa,6,4,4,0,1,5,5,5,5,#toyotaverossa|#verossa|#tverossa|#verossaverossa|#toyotaverossaverossa|#tverossaverossa,0
+1,Toyota,0,9,0,5,1,1,Verso-S II,1,Verso-S,4,6,2,2,1,1,5,2,2,#toyotaversos|#versos|#tversos|#versosversos|#toyotaversosversos|#tversosversos,0.35
+0,Toyota,5,0,0,4,1,0,Vios III (facelift 2018),0,Vios,4,0,4,1,1,1,5,0,2,#toyotavios|#vios|#tvios|#viosvios|#toyotaviosvios|#tviosvios,0.136363636
+0,Toyota,0,0,4,4,4,0,Vista (V20),1,Vista,4,4,4,4,2,1,5,1,2,#toyotavista|#vista|#tvista|#vistavista|#toyotavistavista|#tvistavista,0.1
+1,Toyota,3,1,0,5,1,0,Vitz II,0,Vitz,4,4,4,0,1,1,5,1,0,#toyotavitz|#vitz|#tvitz|#vitzvitz|#toyotavitzvitz|#tvitzvitz,0.5
+1,Toyota,3,7,0,5,1,0,Ractis I,1,Ractis,4,6,4,3,1,1,5,1,2,#toyotaractis|#ractis|#tractis|#ractisractis|#toyotaractisractis|#tractisractis,0
+1,Toyota,6,1,0,5,0,2,Prius c,1,Prius,4,10,4,3,1,1,5,2,2,#toyotaprius|#prius|#tprius|#priusprius|#toyotapriusprius|#tpriusprius,0.238475379
+0,Toyota,0,7,4,5,4,1,Regius Ace,3,Regius,4,6,2,3,1,1,5,2,0,#toyotaregius|#regius|#tregius|#regiusregius|#toyotaregiusregius|#tregiusregius,0.011979167
+1,Toyota,3,5,5,5,3,0,RAV 4 IV (facelift 2015),4,RAV 4,4,6,4,1,1,3,5,3,3,#toyotarav4|#rav4|#trav4|#rav4rav|#toyotarav4rav|#trav4rav,0
+1,Toyota,2,8,6,5,4,0,Sequoia II,0,Sequoia,8,5,4,3,2,5,7,6,2,#toyotasequoia|#sequoia|#tsequoia|#sequoiasequoia|#toyotasequoiasequoia|#tsequoiasequoia,0.384693878
+1,Toyota,5,7,4,5,5,0,Sienna III (facelift 2018),6,Sienna,6,8,4,4,2,5,5,5,2,#toyotasienna|#sienna|#tsienna|#siennasienna|#toyotasiennasienna|#tsiennasienna,0.461111111
+1,Toyota,2,6,1,2,1,0,MR-S,1,MR-S,4,5,4,6,1,2,2,1,1,#toyotamrs|#mrs|#tmrs|#mrsmrs|#toyotamrsmrs|#tmrsmrs,0.085576178
+1,Toyota,0,8,3,5,4,1,Mega Cruiser (BXD20),0,Mega Cruiser,4,4,2,1,1,3,6,5,2,#toyotamegacruiser|#megacruiser|#tmegacruiser|#megacruisermega|#toyotamegacruisermega|#tmegacruisermega,0
+1,Toyota,3,8,6,5,6,0,Land Cruiser Prado (150 facelift 2018) 5Door,6,Land Cruiser,6,6,4,1,2,5,5,5,5,#toyotalandcruiser|#landcruiser|#tlandcruiser|#landcruiserland|#toyotalandcruiserland|#tlandcruiserland,0.15
+1,Toyota,0,2,4,5,4,0,Mark II Wagon Blit,4,Mark II,6,5,4,0,1,5,5,5,5,#toyotamarkii|#markii|#tmarkii|#markiimark|#toyotamarkiimark|#tmarkiimark,0.35
+0,Toyota,2,1,5,5,1,0,Matrix II,3,Matrix,4,6,4,1,1,3,5,2,3,#toyotamatrix|#matrix|#tmatrix|#matrixmatrix|#toyotamatrixmatrix|#tmatrixmatrix,-1
+1,Toyota,2,6,1,2,1,0,MR 2 (_W3_),1,MR 2,4,5,4,6,1,2,2,1,1,#toyotamr2|#mr2|#tmr2|#mr2mr|#toyotamr2mr|#tmr2mr,0.125
+0,Toyota,2,7,4,5,4,0,Noah,3,Noah,4,6,4,4,1,3,8,2,6,#toyotanoah|#noah|#tnoah|#noahnoah|#toyotanoahnoah|#tnoahnoah,0
+0,Toyota,2,12,4,5,4,0,Picnic,3,Picnic,4,6,4,4,1,3,5,2,2,#toyotapicnic|#picnic|#tpicnic|#picnicpicnic|#toyotapicnicpicnic|#tpicnicpicnic,0.349305556
+1,Toyota,2,1,0,5,0,0,Passo,0,Passo,4,4,4,0,1,0,5,0,1,#toyotapasso|#passo|#tpasso|#passopasso|#toyotapassopasso|#tpassopasso,0
+0,Toyota,1,12,6,5,6,0,Granvia,6,Granvia,4,6,4,1,1,3,5,3,2,#toyotagranvia|#granvia|#tgranvia|#granviagranvia|#toyotagranviagranvia|#tgranviagranvia,0.5
+1,Toyota,6,3,4,2,1,0,GT 86,1,GT 86,4,6,4,4,0,4,4,2,2,#toyotagt86|#gt86|#tgt86|#gt86gt|#toyotagt86gt|#tgt86gt,0.18
+1,Toyota,0,7,3,4,6,1,Hiace,0,Hiace,4,6,2,1,1,2,8,3,0,#toyotahiace|#hiace|#thiace|#hiacehiace|#toyotahiacehiace|#thiacehiace,0.069393939
+1,Toyota,5,5,4,5,3,0,"Harrier III (XU60, facelift 2017)",4,Harrier,4,6,4,4,1,4,5,4,3,#toyotaharrier|#harrier|#tharrier|#harrierharrier|#toyotaharrierharrier|#tharrierharrier,0
+1,Toyota,0,4,5,2,6,1,Hilux Extra Cab VIII (facelift 2017),6,Hilux,4,6,4,1,1,3,4,6,2,#toyotahilux|#hilux|#thilux|#hiluxhilux|#toyotahiluxhilux|#thiluxhilux,0.2875
+1,Toyota,4,5,6,5,5,0,Highlander III (facelift 2016),6,Highlander,6,8,4,2,2,5,8,5,5,#toyotahighlander|#highlander|#thighlander|#highlanderhighlander|#toyotahighlanderhighlander|#thighlanderhighlander,0.330618687
+1,Toyota,6,7,3,5,2,1,Innova II,5,Innova,4,5,4,3,1,3,5,4,5,#toyotainnova|#innova|#tinnova|#innovainnova|#toyotainnovainnova|#tinnovainnova,0.357142857
+1,Toyota,5,1,0,3,0,0,iQ,0,iQ,4,6,4,1,1,1,4,0,0,#toyotaiq|#iq|#tiq|#iqiq|#toyotaiqiq|#tiqiq,-0.05
+1,Toyota,5,0,2,4,1,0,Corolla XII (E210),2,Corolla,4,10,4,2,1,2,5,1,4,#toyotacorolla|#corolla|#tcorolla|#corollacorolla|#toyotacorollacorolla|#tcorollacorolla,0.207752525
+1,Toyota,0,2,4,5,2,1,Corolla Verso III,3,Corolla Verso,4,6,4,1,1,3,7,5,3,#toyotacorollaverso|#corollaverso|#tcorollaverso|#corollaversocorolla|#toyotacorollaversocorolla|#tcorollaversocorolla,0
+1,Toyota,3,0,6,4,4,2,Crown XV (S220),6,Crown,6,10,4,2,2,6,5,6,6,#toyotacrown|#crown|#tcrown|#crowncrown|#toyotacrowncrown|#tcrowncrown,0.5
+1,Toyota,4,2,2,5,1,0,Auris II Touring Sports,1,Auris,4,6,4,1,1,2,5,1,2,#toyotaauris|#auris|#tauris|#aurisauris|#toyotaaurisauris|#taurisauris,0.183333333
+1,Toyota,6,0,2,4,1,2,Avalon V (XX50),4,Avalon,4,10,4,2,1,4,5,4,6,#toyotaavalon|#avalon|#tavalon|#avalonavalon|#toyotaavalonavalon|#tavalonavalon,0.516666667
+1,Toyota,6,9,0,5,1,0,Avanza II,1,Avanza,4,4,4,6,1,1,7,1,3,#toyotaavanza|#avanza|#tavanza|#avanzaavanza|#toyotaavanzaavanza|#tavanzaavanza,0.175
+1,Toyota,0,2,4,5,4,1,Avensis III Wagon (facelift 2011),3,Avensis,4,6,4,1,1,3,5,4,4,#toyotaavensis|#avensis|#tavensis|#avensisavensis|#toyotaavensisavensis|#tavensisavensis,0
+1,Toyota,3,1,0,5,0,0,Aygo (Facelift 2009),0,Aygo,3,5,4,3,1,0,5,0,0,#toyotaaygo|#aygo|#taygo|#aygoaygo|#toyotaaygoaygo|#taygoaygo,0.310797459
+0,Toyota,3,0,0,4,0,0,Belta,1,Belta,4,4,4,3,1,1,5,1,2,#toyotabelta|#belta|#tbelta|#beltabelta|#toyotabeltabelta|#tbeltabelta,0.4
+1,Toyota,4,1,6,5,3,0,Blade,1,Blade,6,6,4,2,2,5,5,2,2,#toyotablade|#blade|#tblade|#bladeblade|#toyotabladeblade|#tbladeblade,0.633333333
+0,Toyota,2,2,1,5,2,0,Carib,3,Carib,4,6,4,6,1,2,5,1,2,#toyotacarib|#carib|#tcarib|#caribcarib|#toyotacaribcarib|#tcaribcarib,0.081818182
+1,Toyota,3,0,5,4,4,0,"Camry VII (XV50, facelift 2014)",3,Camry,4,6,4,1,1,4,5,2,5,#toyotacamry|#camry|#tcamry|#camrycamry|#toyotacamrycamry|#tcamrycamry,0.150631313
+0,Toyota,2,0,4,4,3,0,Carina (T21),1,Carina,4,5,4,4,1,2,5,2,2,#toyotacarina|#carina|#tcarina|#carinacarina|#toyotacarinacarina|#tcarinacarina,0.8
+1,UAZ,0,8,3,5,6,0,3163 Patriot,6,3163 Patriot,4,5,4,1,1,2,5,2,5,#uaz3163patriot|#3163patriot|#u3163patriot|#3163patriot3163|#uaz3163patriot3163|#u3163patriot3163,0
+0,Toyota,3,12,0,5,1,0,Allex,2,Allex,4,6,4,3,1,1,5,1,2,#toyotaallex|#allex|#tallex|#allexallex|#toyotaallexallex|#tallexallex,0.507142857
+1,Toyota,3,5,6,5,4,0,4runner V,0,4runner,6,5,4,1,2,5,5,5,5,#toyota4runner|#4runner|#t4runner|#4runner4runner|#toyota4runner4runner|#t4runner4runner,0.071434584
+1,Toyota,2,7,6,5,5,0,Alphard III (facelift 2017),0,Alphard,6,8,4,2,2,5,7,5,2,#toyotaalphard|#alphard|#talphard|#alphardalphard|#toyotaalphardalphard|#talphardalphard,-0.088888889
+1,Toyota,0,0,4,4,6,0,Aristo (S14),4,Aristo,6,3,4,4,1,6,5,6,5,#toyotaaristo|#aristo|#taristo|#aristoaristo|#toyotaaristoaristo|#taristoaristo,0.205618687
+1,Vanderhall,1,11,0,5,0,0,Venice,0,Venice,4,6,4,2,1,4,2,3,2,#vanderhallvenice|#venice|#vvenice|#venicevenice|#vanderhallvenicevenice|#vvenicevenice,0.3203125
+1,Venturi,0,6,5,2,6,0,210 Cabrio,2,210,6,5,2,0,2,4,2,3,0,#venturi210|#210|#v210|#210210|#venturi210210|#v210210,-0.175
+1,Venturi,0,3,5,2,4,0,260,2,260,6,5,2,0,2,5,2,6,0,#venturi260|#260|#v260|#260260|#venturi260260|#v260260,0
+1,Venturi,0,3,6,2,4,0,300,1,300,6,5,2,0,2,5,2,5,1,#venturi300|#300|#v300|#300300|#venturi300300|#v300300,0.075
+1,Trumpchi,5,9,4,5,4,0,GM8,6,GM8,4,6,4,4,1,4,7,4,2,#trumpchigm8|#gm8|#tgm8|#gm8gm8|#trumpchigm8gm8|#tgm8gm8,-0.1875
+1,TVR,2,6,6,2,6,0,450,1,450,8,5,2,1,2,6,2,5,0,#tvr450|#450|#t450|#450450|#tvr450450|#t450450,0.35
+1,TVR,2,3,4,2,4,0,Cerbera,1,Cerbera,8,5,2,4,2,6,4,6,2,#tvrcerbera|#cerbera|#tcerbera|#cerberacerbera|#tvrcerberacerbera|#tcerberacerbera,0.125
+1,TVR,0,11,6,2,3,0,Chimaera,1,Chimaera,8,5,2,1,2,5,2,5,0,#tvrchimaera|#chimaera|#tchimaera|#chimaerachimaera|#tvrchimaerachimaera|#tchimaerachimaera,0.224088542
+1,TVR,0,6,6,2,3,0,Griffith,0,Griffith,8,5,2,1,2,5,2,5,0,#tvrgriffith|#griffith|#tgriffith|#griffithgriffith|#tvrgriffithgriffith|#tgriffithgriffith,0.446428571
+0,UAZ,0,12,3,5,4,0,3153,6,3153,4,6,2,6,1,1,5,2,2,#uaz3153|#3153|#u3153|#31533153|#uaz31533153|#u31533153,0
+1,Vauxhall,0,0,4,4,5,0,Senator B,3,Senator,6,4,2,4,2,3,5,2,5,#vauxhallsenator|#senator|#vsenator|#senatorsenator|#vauxhallsenatorsenator|#vsenatorsenator,0.137037037
+0,Vauxhall,0,0,3,4,2,0,Victor FD,1,Victor,4,4,4,0,1,1,4,2,2,#vauxhallvictor|#victor|#vvictor|#victorvictor|#vauxhallvictorvictor|#vvictorvictor,0.45
+0,Vauxhall,0,0,3,5,6,0,Viva HC,0,Viva,4,4,4,1,1,1,4,2,1,#vauxhallviva|#viva|#vviva|#vivaviva|#vauxhallvivaviva|#vvivaviva,0.5
+0,Vauxhall,3,0,3,4,2,0,VX,1,VX,4,4,4,1,4,2,4,2,4,#vauxhallvx|#vx|#vvx|#vxvx|#vauxhallvxvx|#vvxvx,0.338535354
+0,UAZ,0,2,5,5,6,0,3151,4,3151,4,4,2,6,1,1,7,1,0,#uaz3151|#3151|#u3151|#31513151|#uaz31513151|#u31513151,0.227693603
+0,UAZ,0,4,3,4,6,0,23632 Pickup,6,23632 Pickup,4,5,4,1,1,2,5,2,2,#uaz23632pickup|#23632pickup|#u23632pickup|#23632pickup23632|#uaz23632pickup23632|#u23632pickup23632,0
+1,Vauxhall,2,2,0,5,1,0,Astra Mk VII Sports Tourer,6,Astra,4,6,4,2,1,3,5,3,3,#vauxhallastra|#astra|#vastra|#astraastra|#vauxhallastraastra|#vastraastra,-0.1953125
+1,Vauxhall,0,1,1,3,1,0,Corsa E,4,Corsa,4,6,4,2,1,4,5,2,1,#vauxhallcorsa|#corsa|#vcorsa|#corsacorsa|#vauxhallcorsacorsa|#vcorsacorsa,0.35
+0,Vauxhall,1,0,4,4,5,0,Royale,2,Royale,6,4,2,4,2,3,5,3,4,#vauxhallroyale|#royale|#vroyale|#royaleroyale|#vauxhallroyaleroyale|#vroyaleroyale,0.019893743
+1,Volkswagen,6,7,4,5,4,0,Sharan II (facelift 2015),0,Sharan,4,6,4,4,1,4,5,4,6,#volkswagensharan|#sharan|#vsharan|#sharansharan|#volkswagensharansharan|#vsharansharan,0.333333333
+1,Volkswagen,5,5,3,5,3,0,Tayron,4,Tayron,4,7,4,3,1,4,5,4,5,#volkswagentayron|#tayron|#vtayron|#tayrontayron|#volkswagentayrontayron|#vtayrontayron,0
+1,Volkswagen,5,5,2,5,1,0,T-Roc,5,T-Roc,4,7,4,2,1,3,5,3,2,#volkswagentroc|#troc|#vtroc|#troctroc|#volkswagentroctroc|#vtroctroc,0.298912338
+1,Volkswagen,5,5,3,5,3,0,Tharu,4,Tharu,4,7,4,3,1,4,5,4,4,#volkswagentharu|#tharu|#vtharu|#tharutharu|#volkswagentharutharu|#vtharutharu,0
+1,Volkswagen,5,5,3,5,3,0,Tiguan II,0,Tiguan,4,7,4,3,1,4,5,4,4,#volkswagentiguan|#tiguan|#vtiguan|#tiguantiguan|#volkswagentiguantiguan|#vtiguantiguan,0.158170996
+1,Volkswagen,6,7,3,5,3,1,Touran II,0,Touran,4,6,4,3,1,3,5,4,5,#volkswagentouran|#touran|#vtouran|#tourantouran|#volkswagentourantouran|#vtourantouran,0.121022727
+1,Volkswagen,5,1,1,4,0,0,Cross Up! (facelift 2016),2,Up!,3,5,4,1,1,1,4,1,1,#volkswagenup|#up|#vup|#upcross|#volkswagenupcross|#vupcross,0
+1,Volkswagen,6,1,2,5,1,1,Golf VII (facelift 2016),5,Golf,4,6,4,2,1,3,5,4,3,#volkswagengolf|#golf|#vgolf|#golfgolf|#volkswagengolfgolf|#vgolfgolf,0.328484848
+1,Volkswagen,5,0,2,4,1,0,Lamando,2,Lamando,4,7,4,2,1,3,5,3,3,#volkswagenlamando|#lamando|#vlamando|#lamandolamando|#volkswagenlamandolamando|#vlamandolamando,0
+1,Volkswagen,2,0,0,4,1,0,Jetta VII,2,Jetta,4,8,4,1,1,3,5,3,4,#volkswagenjetta|#jetta|#vjetta|#jettajetta|#volkswagenjettajetta|#vjettajetta,0.417708333
+1,Volkswagen,6,7,5,5,6,0,Multivan (T6) Long,0,Multivan,4,7,4,4,1,4,5,4,2,#volkswagenmultivan|#multivan|#vmultivan|#multivanmultivan|#volkswagenmultivanmultivan|#vmultivanmultivan,-0.0625
+1,Volkswagen,5,2,4,5,4,0,Passat Variant (B8),0,Passat,4,6,4,3,1,4,5,4,5,#volkswagenpassat|#passat|#vpassat|#passatpassat|#volkswagenpassatpassat|#vpassatpassat,0.214994589
+1,Volkswagen,6,0,3,4,5,0,Phideon,6,Phideon,6,7,4,5,2,5,5,6,2,#volkswagenphideon|#phideon|#vphideon|#phideonphideon|#volkswagenphideonphideon|#vphideonphideon,0
+1,Volkswagen,3,1,2,5,3,0,Polo VI,1,Polo,4,5,4,0,1,5,5,5,2,#volkswagenpolo|#polo|#vpolo|#polopolo|#volkswagenpolopolo|#vpolopolo,0.513333333
+1,Volkswagen,5,0,1,4,1,1,Ameo,1,Ameo,4,5,4,1,1,1,5,3,1,#volkswagenameo|#ameo|#vameo|#ameoameo|#volkswagenameoameo|#vameoameo,0.184472656
+1,Volvo,4,2,3,5,4,0,XC70 III,5,XC70,6,6,4,1,1,4,5,4,5,#volvoxc70|#xc70|#vxc70|#xc70xc70|#volvoxc70xc70|#vxc70xc70,0
+1,Volvo,1,5,2,5,4,0,XC60 I (2013 facelift),5,XC60,6,6,4,6,1,5,5,6,5,#volvoxc60|#xc60|#vxc60|#xc60xc60|#volvoxc60xc60|#vxc60xc60,0.409833333
+1,Volvo,3,5,5,5,6,0,XC90 (facelift 2007),6,XC90,8,6,4,4,2,6,7,6,6,#volvoxc90|#xc90|#vxc90|#xc90xc90|#volvoxc90xc90|#vxc90xc90,0.613787879
+1,Volkswagen,2,1,2,5,4,0,Arteon,0,Arteon,4,7,4,6,1,5,5,4,6,#volkswagenarteon|#arteon|#varteon|#arteonarteon|#volkswagenarteonarteon|#varteonarteon,0.357749369
+1,Volkswagen,0,6,2,2,2,1,Beetle Convertible (A5),6,Beetle,4,6,4,1,1,3,4,4,2,#volkswagenbeetle|#beetle|#vbeetle|#beetlebeetle|#volkswagenbeetlebeetle|#vbeetlebeetle,0.155208333
+1,Volkswagen,0,7,1,5,3,1,Caddy Maxi (Typ 2K facelift 2010),0,Caddy,4,5,4,1,1,1,5,3,2,#volkswagencaddy|#caddy|#vcaddy|#caddycaddy|#volkswagencaddycaddy|#vcaddycaddy,0.336937831
+1,Volkswagen,5,0,2,4,1,0,Bora III (facelift 2018),2,Bora,4,6,4,2,1,2,5,1,4,#volkswagenbora|#bora|#vbora|#borabora|#volkswagenborabora|#vborabora,0.4375
+1,Volkswagen,6,1,1,5,2,2,Gol (G5) III (facelift 2013),0,Gol,4,5,2,4,1,1,5,1,1,#volkswagengol|#gol|#vgol|#golgol|#volkswagengolgol|#vgolgol,0
+1,Volvo,4,0,4,4,2,0,S40 II (facelift 2008),2,S40,4,5,4,2,1,3,5,2,3,#volvos40|#s40|#vs40|#s40s40|#volvos40s40|#vs40s40,0.746296296
+1,Volvo,5,3,3,3,3,1,C30 (facelift 2009),3,C30,5,6,4,1,1,3,5,5,3,#volvoc30|#c30|#vc30|#c30c30|#volvoc30c30|#vc30c30,0.41875
+1,Volvo,3,10,2,5,3,0,V40 Cross Country,3,V40,5,6,4,1,1,4,5,3,3,#volvov40|#v40|#vv40|#v40v40|#volvov40v40|#vv40v40,0.456901515
+1,Volvo,1,0,2,4,4,0,S60 II (facelift 2013),5,S60,6,6,4,6,1,5,5,6,5,#volvos60|#s60|#vs60|#s60s60|#volvos60s60|#vs60s60,0.493813131
+1,Volvo,5,11,3,2,3,1,C70 Coupe Cabrio II,5,C70,5,6,4,1,1,3,4,5,3,#volvoc70|#c70|#vc70|#c70c70|#volvoc70c70|#vc70c70,0.416666667
+1,Volvo,5,0,4,4,4,0,S80 II (facelift 2011),4,S80,6,6,4,3,1,4,5,4,6,#volvos80|#s80|#vs80|#s80s80|#volvos80s80|#vs80s80,0
+1,Volvo,4,0,2,4,2,0,S90 (2016),3,S90,4,8,4,6,1,5,5,4,6,#volvos90|#s90|#vs90|#s90s90|#volvos90s90|#vs90s90,0.361969697
+1,Volvo,4,2,3,5,4,0,V70 III,5,V70,6,6,4,1,1,4,5,4,5,#volvov70|#v70|#vv70|#v70v70|#volvov70v70|#vv70v70,0.117689394
+1,Volvo,4,2,3,5,3,0,V50 II,3,V50,5,6,4,2,1,4,5,4,3,#volvov50|#v50|#vv50|#v50v50|#volvov50v50|#vv50v50,0.170833333
+1,Volvo,4,10,2,5,3,0,V60 Cross Country II,5,V60,4,8,4,6,1,5,5,4,6,#volvov60|#v60|#vv60|#v60v60|#volvov60v60|#vv60v60,0.277386364
+1,Subaru,6,5,3,5,1,2,XV II,3,XV,4,0,4,5,0,3,5,2,4,#subaruxv|#xv|#sxv|#xvxv|#subaruxvxv|#sxvxv,0
+1,Suzuki,0,1,0,5,0,0,Kei (HN),0,Kei,3,5,4,0,1,0,5,0,0,#suzukikei|#kei|#skei|#keikei|#suzukikeikei|#skeikei,0
+1,Tofas,3,1,3,5,2,0,Tipo,1,Tipo,4,5,4,5,1,3,5,2,2,#tofastipo|#tipo|#ttipo|#tipotipo|#tofastipotipo|#ttipotipo,0
+1,Subaru,1,7,1,5,0,0,"Libero Bus (E10,E12)",0,Libero,3,5,2,2,1,0,6,0,0,#subarulibero|#libero|#slibero|#liberolibero|#subaruliberolibero|#sliberolibero,0.545833333
+1,Subaru,3,0,6,4,4,0,Legacy VI (facelift 2017),4,Legacy,4,10,4,5,0,3,5,3,5,#subarulegacy|#legacy|#slegacy|#legacylegacy|#subarulegacylegacy|#slegacylegacy,0.271180556
+1,Subaru,5,2,5,5,1,0,Impreza II Station Wagon,1,Impreza,4,5,4,0,0,3,5,1,2,#subaruimpreza|#impreza|#simpreza|#imprezaimpreza|#subaruimprezaimpreza|#simprezaimpreza,0.1625
+1,Subaru,2,1,0,5,0,0,Justy IV,0,Justy,3,5,4,3,1,0,5,0,1,#subarujusty|#justy|#sjusty|#justyjusty|#subarujustyjusty|#sjustyjusty,0.35
+0,Subaru,2,2,0,5,0,0,Stella,0,Stella,4,6,4,0,1,0,5,0,0,#subarustella|#stella|#sstella|#stellastella|#subarustellastella|#sstellastella,0.25
+0,SsangYong,0,5,4,5,5,1,Actyon,6,Actyon,4,5,4,4,1,2,5,4,5,#ssangyongactyon|#actyon|#sactyon|#actyonactyon|#ssangyongactyonactyon|#sactyonactyon,0
+0,SsangYong,0,8,4,5,5,1,Kyron,6,Kyron,4,5,4,4,1,2,5,4,5,#ssangyongkyron|#kyron|#skyron|#kyronkyron|#ssangyongkyronkyron|#skyronkyron,0
+1,Spyker,4,3,3,2,3,0,C8 Aileron,3,C8,8,6,5,6,2,6,2,6,4,#spykerc8|#c8|#sc8|#c8c8|#spykerc8c8|#sc8c8,0
+1,Subaru,6,10,6,5,3,0,Forester V,0,Forester,4,10,4,5,0,4,5,3,4,#subaruforester|#forester|#sforester|#foresterforester|#subaruforesterforester|#sforesterforester,0.302489177
+1,Suzuki,1,8,4,5,5,0,Grand Escudo,3,Grand Escudo,6,4,4,0,2,3,7,3,2,#suzukigrandescudo|#grandescudo|#sgrandescudo|#grandescudogrand|#suzukigrandescudogrand|#sgrandescudogrand,0
+1,Suzuki,1,8,0,3,0,0,Jimny (FJ),0,Jimny,4,4,4,0,1,0,4,0,0,#suzukijimny|#jimny|#sjimny|#jimnyjimny|#suzukijimnyjimny|#sjimnyjimny,0.25
+1,Suzuki,0,8,4,3,3,1,"Grand Vitara (FT,GT)",1,Grand Vitara,4,5,2,4,1,1,4,2,0,#suzukigrandvitara|#grandvitara|#sgrandvitara|#grandvitaragrand|#suzukigrandvitaragrand|#sgrandvitaragrand,0.310505051
+1,Suzuki,2,2,1,5,2,0,Liana Wagon II,1,Liana,4,5,4,2,1,1,5,1,1,#suzukiliana|#liana|#sliana|#lianaliana|#suzukilianaliana|#slianaliana,0
+1,Suzuki,5,1,0,5,0,0,Hustler,0,Hustler,3,0,4,0,1,0,4,0,1,#suzukihustler|#hustler|#shustler|#hustlerhustler|#suzukihustlerhustler|#shustlerhustler,0.405681818
+1,Suzuki,0,1,0,5,0,1,Swift II,1,Swift,4,5,4,2,1,0,5,2,1,#suzukiswift|#swift|#sswift|#swiftswift|#suzukiswiftswift|#sswiftswift,0.109090909
+1,Suzuki,0,1,2,5,1,1,SX4 I (facelift 2010),2,SX4,4,6,2,6,1,2,5,3,1,#suzukisx4|#sx4|#ssx4|#sx4sx4|#suzukisx4sx4|#ssx4sx4,0.125
+1,Suzuki,2,8,3,3,4,0,"Vitara (ET,TA)",3,Vitara,4,6,4,5,1,2,5,1,2,#suzukivitara|#vitara|#svitara|#vitaravitara|#suzukivitaravitara|#svitaravitara,0.4275
+1,Suzuki,6,5,0,5,1,1,Vitara Brezza,1,Vitara Brezza,4,5,4,2,1,1,5,2,1,#suzukivitarabrezza|#vitarabrezza|#svitarabrezza|#vitarabrezzavitara|#suzukivitarabrezzavitara|#svitarabrezzavitara,0.478205128
+1,Suzuki,3,7,0,5,0,0,Wagon R,0,Wagon R,3,5,4,0,1,0,5,0,0,#suzukiwagonr|#wagonr|#swagonr|#wagonrwagon|#suzukiwagonrwagon|#swagonrwagon,0.202272727
+0,Suzuki,0,12,0,5,1,0,Escudo,2,Escudo,4,6,2,5,1,0,5,0,2,#suzukiescudo|#escudo|#sescudo|#escudoescudo|#suzukiescudoescudo|#sescudoescudo,1
+0,TagAz,2,8,5,3,4,0,Tager,6,Tager,6,4,4,3,1,4,5,4,1,#tagaztager|#tager|#ttager|#tagertager|#tagaztagertager|#ttagertager,0
+1,Suzuki,6,1,0,5,0,0,Baleno II,1,Baleno,4,0,4,0,1,1,5,0,2,#suzukibaleno|#baleno|#sbaleno|#balenobaleno|#suzukibalenobaleno|#sbalenobaleno,0.604166667
+1,TagAz,0,8,3,5,4,1,Santa Fe Classic,5,Santa Fe Classic,4,5,4,6,1,1,5,3,3,#tagazsantafeclassic|#santafeclassic|#tsantafeclassic|#santafeclassicsanta|#tagazsantafeclassicsanta|#tsantafeclassicsanta,0
+0,TagAz,3,0,4,5,4,0,Sonata,4,Sonata,6,5,4,0,2,3,5,3,4,#tagazsonata|#sonata|#tsonata|#sonatasonata|#tagazsonatasonata|#tsonatasonata,0.409532828
+1,Suzuki,6,0,0,4,1,1,Ciaz (facelift 2018),0,Ciaz,4,5,4,2,1,1,5,2,3,#suzukiciaz|#ciaz|#sciaz|#ciazciaz|#suzukiciazciaz|#sciazciaz,0.27739899
+1,Suzuki,4,0,0,4,0,0,Dzire III,0,Dzire,4,5,4,0,1,0,5,0,1,#suzukidzire|#dzire|#sdzire|#dziredzire|#suzukidziredzire|#sdziredzire,0.360416667
+1,Tata,5,5,1,5,1,0,Nexon,1,Nexon,3,6,4,2,1,1,5,1,1,#tatanexon|#nexon|#tnexon|#nexonnexon|#tatanexonnexon|#tnexonnexon,0.175
+0,Tata,3,1,0,5,0,2,Nano,0,Nano,2,4,2,0,1,0,4,0,0,#tatanano|#nano|#tnano|#nanonano|#tatananonano|#tnanonano,0.170238095
+1,Tata,4,1,1,5,0,0,Tigor,1,Tigor,3,5,4,1,1,0,5,0,1,#tatatigor|#tigor|#ttigor|#tigortigor|#tatatigortigor|#ttigortigor,0.459882842
+1,Tata,6,5,2,5,1,1,Harrier,4,Harrier,4,6,4,2,1,2,5,4,5,#tataharrier|#harrier|#tharrier|#harrierharrier|#tataharrierharrier|#tharrierharrier,0
+0,Tatra,1,0,3,4,5,0,T613-4mi,5,T613,8,5,2,1,2,4,5,3,2,#tatrat613|#t613|#tt613|#t613t6134mi|#tatrat613t6134mi|#tt613t6134mi,0
+0,Tofas,4,12,2,5,3,0,Marea,2,Marea,5,6,4,1,1,3,5,2,2,#tofasmarea|#marea|#tmarea|#mareamarea|#tofasmareamarea|#tmareamarea,0
+1,Spectre,2,3,5,2,4,0,R45,1,R45,8,5,4,5,2,6,2,6,0,#spectrer45|#r45|#sr45|#r45r45|#spectrer45r45|#sr45r45,0
+0,Saleen,4,3,3,2,5,0,S7 Twin Turbo,1,S7,8,6,2,1,2,1,2,2,4,#saleens7|#s7|#ss7|#s7s7|#saleens7s7|#ss7s7,0.457142857
+1,Seat,5,1,3,5,2,0,Toledo  IV (NH),4,Toledo,4,6,4,3,1,1,5,2,3,#seattoledo|#toledo|#stoledo|#toledotoledo|#seattoledotoledo|#stoledotoledo,0.144751082
+1,Saturn,3,8,6,5,6,0,VUE II,5,VUE,6,4,4,4,2,5,5,4,4,#saturnvue|#vue|#svue|#vuevue|#saturnvuevue|#svuevue,0
+1,Smart,1,1,0,5,0,0,Forfour II,3,Forfour,3,5,4,0,1,1,4,1,1,#smartforfour|#forfour|#sforfour|#forfourforfour|#smartforfourforfour|#sforfourforfour,0.457440476
+0,Smart,0,6,0,2,0,0,Roadster cabrio,0,Roadster,3,6,2,0,1,1,2,0,0,#smartroadster|#roadster|#sroadster|#roadsterroadster|#smartroadsterroadster|#sroadsterroadster,0.455078125
+1,Rover,3,6,1,2,1,0,MGF (RD),1,MGF,4,5,4,5,1,3,2,2,0,#rovermgf|#mgf|#rmgf|#mgfmgf|#rovermgfmgf|#rmgfmgf,0.6
+1,Rolls-Royce,4,0,5,4,4,0,Phantom VII,0,Phantom,12,6,4,3,2,1,5,2,2,#rollsroycephantom|#phantom|#rphantom|#phantomphantom|#rollsroycephantomphantom|#rphantomphantom,0.030808081
+1,Rolls-Royce,0,0,3,4,4,0,Silver Spur,0,Silver Spur,8,4,2,1,2,6,5,2,2,#rollsroycesilverspur|#silverspur|#rsilverspur|#silverspursilver|#rollsroycesilverspursilver|#rsilverspursilver,0
+1,Saab,1,0,4,4,5,0,09-May,4,09-May,6,4,4,3,2,4,5,4,4,#saab09may|#09may|#s09may|#09may09may|#saab09may09may|#s09may09may,0
+1,Saab,3,0,5,4,4,0,9000,4,9000,4,4,4,5,1,3,5,2,4,#saab9000|#9000|#s9000|#90009000|#saab90009000|#s90009000,0
+0,Saab,0,0,5,2,0,0,96,0,96,4,4,2,0,2,0,5,0,1,#saab96|#96|#s96|#9696|#saab9696|#s9696,0
+0,Saab,0,1,5,2,2,0,99 Combi Coupe,1,99,4,6,2,1,1,3,5,3,1,#saab99|#99|#s99|#9999|#saab9999|#s9999,-0.042132568
+1,RUF,1,3,3,2,4,0,CTR 3,2,CTR,6,6,4,1,0,1,2,2,3,#rufctr|#ctr|#rctr|#ctrctr|#rufctrctr|#rctrctr,0.090364583
+1,Seat,1,0,0,4,1,0,Malaga (023A),0,Malaga,4,5,2,0,1,0,5,0,1,#seatmalaga|#malaga|#smalaga|#malagamalaga|#seatmalagamalaga|#smalagamalaga,-1
+1,Seat,0,9,2,5,2,1,Altea XL (facelift 2009),6,Altea,4,6,4,1,1,2,5,4,2,#seataltea|#altea|#saltea|#alteaaltea|#seatalteaaltea|#salteaaltea,0.634090909
+1,Seat,2,9,2,5,4,0,Alhambra II (facelift 2015),0,Alhambra,4,6,4,6,1,4,5,4,6,#seatalhambra|#alhambra|#salhambra|#alhambraalhambra|#seatalhambraalhambra|#salhambraalhambra,0
+1,Saturn,3,8,6,5,6,0,Outlook,0,Outlook,6,6,4,4,2,5,5,4,2,#saturnoutlook|#outlook|#soutlook|#outlookoutlook|#saturnoutlookoutlook|#soutlookoutlook,-0.04875
+1,Seat,0,5,1,5,0,1,Arona,5,Arona,4,6,4,1,1,1,5,3,2,#seatarona|#arona|#sarona|#aronaarona|#seataronaarona|#saronaarona,0
+1,Seat,6,5,2,5,3,0,Ateca,6,Ateca,4,7,4,6,1,4,5,4,3,#seatateca|#ateca|#sateca|#atecaateca|#seatatecaateca|#satecaateca,0
+1,Seat,3,0,2,4,4,0,Exeo,3,Exeo,4,6,4,6,1,4,5,3,3,#seatexeo|#exeo|#sexeo|#exeoexeo|#seatexeoexeo|#sexeoexeo,0
+0,Seat,3,5,0,5,3,0,Tarraco,0,Tarraco,4,6,4,4,1,3,5,3,5,#seattarraco|#tarraco|#starraco|#tarracotarraco|#seattarracotarraco|#starracotarraco,0
+1,Seat,3,1,0,5,0,0,Ibiza V,4,Ibiza,3,7,4,1,1,1,5,2,2,#seatibiza|#ibiza|#sibiza|#ibizaibiza|#seatibizaibiza|#sibizaibiza,0.482666667
+1,Seat,0,2,2,5,1,1,Leon III ST (facelift 2016),6,Leon,4,6,4,1,1,1,5,3,3,#seatleon|#leon|#sleon|#leonleon|#seatleonleon|#sleonleon,-0.016666667
+1,Saab,1,0,4,4,3,0,9-3 Sedan II (E),3,09-Mar,4,5,4,4,1,4,5,3,4,#saab09mar|#09mar|#s09mar|#09mar93|#saab09mar93|#s09mar93,0.1
+1,Skoda,0,2,1,5,2,1,Superb III Combi,3,Superb,4,7,4,1,1,2,5,3,6,#skodasuperb|#superb|#ssuperb|#superbsuperb|#skodasuperbsuperb|#ssuperbsuperb,0.618650794
+1,Skoda,6,5,3,5,3,1,Yeti,3,Yeti,4,6,4,3,1,1,5,3,2,#skodayeti|#yeti|#syeti|#yetiyeti|#skodayetiyeti|#syetiyeti,0.346875
+1,Sin Cars,4,3,3,2,4,0,R1,2,R1,8,6,4,1,2,1,2,2,5,#sincarsr1|#r1|#sr1|#r1r1|#sincarsr1r1|#sr1r1,0
+1,Scion,2,7,5,5,2,0,xB II,3,xB,4,5,4,1,1,3,5,1,2,#scionxb|#xb|#sxb|#xbxb|#scionxbxb|#sxbxb,0.218181818
+0,Renault,1,4,1,3,2,0,Rapid,1,Rapid,4,5,2,0,1,0,2,0,2,#renaultrapid|#rapid|#rrapid|#rapidrapid|#renaultrapidrapid|#rrapidrapid,0.4625
+1,Renault,5,1,1,5,0,1,Pulse,0,Pulse,4,5,2,1,1,0,5,1,1,#renaultpulse|#pulse|#rpulse|#pulsepulse|#renaultpulsepulse|#rpulsepulse,0.063541667
+1,Renault,6,7,2,5,2,1,Grand Scenic IV,5,Scenic,4,6,4,2,1,2,5,3,5,#renaultscenic|#scenic|#rscenic|#scenicgrand|#renaultscenicgrand|#rscenicgrand,0.075
+1,Renault,0,0,1,4,2,1,Talisman,6,Talisman,4,6,4,1,1,2,5,4,5,#renaulttalisman|#talisman|#rtalisman|#talismantalisman|#renaulttalismantalisman|#rtalismantalisman,0.45
+1,Renault,6,7,5,4,4,1,Trafic II (Phase II),6,Trafic,4,6,4,5,1,1,8,3,2,#renaulttrafic|#trafic|#rtrafic|#trafictrafic|#renaulttrafictrafic|#rtrafictrafic,0
+1,Renault,5,1,0,5,0,0,Twingo III (facelift 2019),0,Twingo,3,5,4,3,1,0,4,0,1,#renaulttwingo|#twingo|#rtwingo|#twingotwingo|#renaulttwingotwingo|#rtwingotwingo,0.212857143
+0,Renault,1,11,4,5,6,0,Espace II (J63),2,Espace,4,5,2,5,1,1,7,1,2,#renaultespace|#espace|#respace|#espaceespace|#renaultespaceespace|#respaceespace,0
+1,Renault,2,0,1,4,3,0,Fluence facelift 2012,2,Fluence,4,5,4,1,1,1,5,1,4,#renaultfluence|#fluence|#rfluence|#fluencefluence|#renaultfluencefluence|#rfluencefluence,0.205555556
+1,Renault,5,10,1,5,2,1,Kadjar,6,Kadjar,4,6,4,1,1,2,5,4,3,#renaultkadjar|#kadjar|#rkadjar|#kadjarkadjar|#renaultkadjarkadjar|#rkadjarkadjar,0.333522727
+1,Renault,0,3,3,2,4,0,Laguna Coupe (Phase II),6,Laguna,4,6,4,6,1,4,4,3,4,#renaultlaguna|#laguna|#rlaguna|#lagunalaguna|#renaultlagunalaguna|#rlagunalaguna,0.533333333
+1,Renault,5,0,1,4,1,0,Megane IV Sedan,5,Megane,4,0,4,3,1,1,5,1,4,#renaultmegane|#megane|#rmegane|#meganemegane|#renaultmeganemegane|#rmeganemegane,0.136363636
+1,Renault,2,1,3,5,2,0,19 II (B/C53),0,19,4,5,2,3,1,1,5,1,2,#renault19|#19|#r19|#1919|#renault1919|#r1919,0.190530303
+1,Smart,1,6,0,2,0,0,Crossblade,0,Crossblade,3,6,2,0,1,0,2,0,0,#smartcrossblade|#crossblade|#scrossblade|#crossbladecrossblade|#smartcrossbladecrossblade|#scrossbladecrossblade,0.210714286
+1,Skoda,2,1,1,5,0,0,Felicia I (791),0,Felicia,4,5,2,0,1,0,5,0,1,#skodafelicia|#felicia|#sfelicia|#feliciafelicia|#skodafeliciafelicia|#sfeliciafelicia,0.575
+1,Skoda,0,1,1,5,2,1,Octavia II (facelift 2009),3,Octavia,4,6,2,1,1,1,5,3,2,#skodaoctavia|#octavia|#soctavia|#octaviaoctavia|#skodaoctaviaoctavia|#soctaviaoctavia,0.208333333
+0,Skoda,1,0,0,4,0,0,"105,120 (744)",2,"1,05,120",4,5,2,0,1,0,5,1,0,#skoda105120|#105120|#s105120|#105120105120|#skoda105120105120|#s105120105120,0.5
+1,Skoda,5,5,3,5,2,0,Kamiq,2,Kamiq,4,6,4,3,1,1,5,1,3,#skodakamiq|#kamiq|#skamiq|#kamiqkamiq|#skodakamiqkamiq|#skamiqkamiq,0.417045455
+1,Skoda,5,0,3,4,2,0,Rapid Sedan (China),1,Rapid,4,6,4,3,1,1,5,1,3,#skodarapid|#rapid|#srapid|#rapidrapid|#skodarapidrapid|#srapidrapid,0.4625
+1,Puma,0,3,3,2,4,0,AMV,0,AMV,6,5,2,5,1,2,2,3,1,#pumaamv|#amv|#pamv|#amvamv|#pumaamvamv|#pamvamv,0.5
+1,Qoros,5,5,3,5,2,0,5 SUV,4,5,4,6,4,3,1,3,5,2,4,#qoros5|#5|#q5|#55|#qoros55|#q55,0.333333333
+0,Paykan,0,0,3,4,1,0,Paykan Saloon,0,Paykan Saloon,4,4,2,1,1,0,5,1,1,#paykanpaykansaloon|#paykansaloon|#ppaykansaloon|#paykansaloonpaykan|#paykanpaykansaloonpaykan|#ppaykansaloonpaykan,0
+0,Praga,6,3,3,2,3,0,R1,0,R1,4,6,4,6,1,4,5,3,2,#pragar1|#r1|#pr1|#r1r1|#pragar1r1|#pr1r1,0.166666667
+1,Premier,0,0,0,4,0,0,118,0,118,4,4,2,0,1,0,4,0,1,#premier118|#118|#p118|#118118|#premier118118|#p118118,0.25
+1,Ravon,3,0,2,4,1,0,R4,2,R4,4,6,4,2,1,1,5,1,3,#ravonr4|#r4|#rr4|#r4r4|#ravonr4r4|#rr4r4,0.275
+1,Panoz,1,3,3,2,6,0,Abruzzi Prototype,2,Abruzzi,8,6,2,6,2,1,2,2,6,#panozabruzzi|#abruzzi|#pabruzzi|#abruzziabruzzi|#panozabruzziabruzzi|#pabruzziabruzzi,0.106628788
+1,Peugeot,3,1,0,5,1,0,207,1,207,4,5,4,1,1,1,5,0,2,#peugeot207|#207|#p207|#207207|#peugeot207207|#p207207,0
+1,Peugeot,6,10,3,5,2,1,3008 II,6,3008,4,6,4,5,1,3,5,5,4,#peugeot3008|#3008|#p3008|#30083008|#peugeot30083008|#p30083008,0.295517677
+1,Peugeot,5,0,2,4,1,0,301,1,301,4,5,4,2,1,1,5,1,3,#peugeot301|#301|#p301|#301301|#peugeot301301|#p301301,0.25
+1,Peugeot,6,2,2,5,2,1,308 SW II (facelift 2017),6,308,4,6,4,2,1,2,5,3,5,#peugeot308|#308|#p308|#308308|#peugeot308308|#p308308,0.35
+1,Peugeot,5,8,3,5,3,0,4007,5,4007,4,6,4,3,1,3,5,3,4,#peugeot4007|#4007|#p4007|#40074007|#peugeot40074007|#p40074007,0.25
+1,Peugeot,1,0,2,4,2,0,408 II,3,408,4,6,4,2,1,3,5,3,5,#peugeot408|#408|#p408|#408408|#peugeot408408|#p408408,-0.3875
+1,Peugeot,6,2,3,5,2,1,508 II SW,0,508,4,8,4,3,1,4,5,5,5,#peugeot508|#508|#p508|#508508|#peugeot508508|#p508508,0
+0,Polaris,3,12,4,5,0,0,Slingshot,0,Slingshot,4,5,4,1,1,3,2,2,4,#polarisslingshot|#slingshot|#pslingshot|#slingshotslingshot|#polarisslingshotslingshot|#pslingshotslingshot,0.108433048
+1,Porsche,4,3,3,2,4,0,Cayman (987c),2,Cayman,6,6,4,3,0,5,2,4,1,#porschecayman|#cayman|#pcayman|#caymancayman|#porschecaymancayman|#pcaymancayman,0.298095238
+1,Porsche,6,5,2,5,4,0,Macan (facelift 2018),5,Macan,4,7,4,6,1,5,5,5,5,#porschemacan|#macan|#pmacan|#macanmacan|#porschemacanmacan|#pmacanmacan,0.090551948
+1,Porsche,5,3,6,4,4,0,Panamera (G1),6,Panamera,8,7,4,5,2,1,4,2,6,#porschepanamera|#panamera|#ppanamera|#panamerapanamera|#porschepanamerapanamera|#ppanamerapanamera,0.277666667
+1,Plymouth,2,6,3,2,1,0,Prowler,2,Prowler,6,4,4,1,2,5,2,4,6,#plymouthprowler|#prowler|#pprowler|#prowlerprowler|#plymouthprowlerprowler|#pprowlerprowler,0.472106481
+0,Pontiac,0,0,5,4,5,0,Grand AM (H),4,Grand AM,6,3,2,3,2,2,5,3,3,#pontiacgrandam|#grandam|#pgrandam|#grandamgrand|#pontiacgrandamgrand|#pgrandamgrand,0.5
+1,Porsche,2,3,3,2,4,0,911 RSR (991),1,911,6,6,4,2,0,1,2,2,2,#porsche911|#911|#p911|#911911|#porsche911911|#p911911,-0.195
+1,Porsche,5,3,3,2,4,0,Boxster (987),2,Boxster,6,6,4,1,0,5,2,4,1,#porscheboxster|#boxster|#pboxster|#boxsterboxster|#porscheboxsterboxster|#pboxsterboxster,0.02640843
+1,Porsche,6,6,3,2,4,0,Carrera GT,2,Carrera GT,10,6,4,1,2,1,2,2,5,#porschecarreragt|#carreragt|#pcarreragt|#carreragtcarrera|#porschecarreragtcarrera|#pcarreragtcarrera,0.511111111
+1,Proton,5,5,3,5,3,0,X70,4,X70,4,6,4,3,1,4,5,3,4,#protonx70|#x70|#px70|#x70x70|#protonx70x70|#px70x70,-0.14
+1,Premier,0,0,0,4,0,0,Padmini,0,Padmini,4,4,2,0,1,0,4,0,0,#premierpadmini|#padmini|#ppadmini|#padminipadmini|#premierpadminipadmini|#ppadminipadmini,0
+1,Proton,2,0,1,4,1,0,Saga III,1,Saga,4,0,4,0,1,1,5,0,1,#protonsaga|#saga|#psaga|#sagasaga|#protonsagasaga|#psagasaga,0.005555556
+1,Proton,6,1,1,5,1,0,Suprima S,2,Suprima S,4,7,4,4,1,2,5,2,3,#protonsuprimas|#suprimas|#psuprimas|#suprimassuprima|#protonsuprimassuprima|#psuprimassuprima,0
+1,Porsche,6,3,3,2,4,0,718 Cayman,2,718,6,6,4,1,0,6,1,5,1,#porsche718|#718|#p718|#718718|#porsche718718|#p718718,0.25
+1,Noble,2,3,5,2,5,0,M12 GTO,1,M12 GTO,6,6,4,1,2,6,2,4,1,#noblem12gto|#m12gto|#nm12gto|#m12gtom12|#noblem12gtom12|#nm12gtom12,0
+0,Opel,0,0,1,4,3,1,Vectra A (facelift 1992),5,Vectra,4,5,2,4,1,0,5,0,2,#opelvectra|#vectra|#ovectra|#vectravectra|#opelvectravectra|#ovectravectra,0
+0,Nissan,0,7,4,5,3,1,Vanette Cargo,3,Vanette,4,6,2,1,1,0,5,1,6,#nissanvanette|#vanette|#nvanette|#vanettevanette|#nissanvanettevanette|#nvanettevanette,0
+1,Nissan,5,4,3,4,4,0,Titan II King Cab,0,Titan,8,7,4,6,2,6,5,5,2,#nissantitan|#titan|#ntitan|#titantitan|#nissantitantitan|#ntitantitan,-0.03125
+0,Nissan,5,0,3,4,4,0,Versa,1,Versa,4,4,4,2,1,2,5,1,2,#nissanversa|#versa|#nversa|#versaversa|#nissanversaversa|#nversaversa,0.192525253
+1,Nissan,6,5,3,5,3,1,X-Trail III (T32NULL facelift 2017),0,X-Trail,4,10,4,3,1,3,5,5,4,#nissanxtrail|#xtrail|#nxtrail|#xtrailxtrail|#nissanxtrailxtrail|#nxtrailxtrail,0.416666667
+1,Opel,3,7,3,5,3,2,Zafira B (facelift 2008),3,Zafira,4,5,4,3,1,2,5,2,4,#opelzafira|#zafira|#ozafira|#zafirazafira|#opelzafirazafira|#ozafirazafira,0.285123557
+0,Opel,3,7,1,4,6,1,Vivaro B,4,Vivaro,4,6,4,1,1,2,9,4,2,#opelvivaro|#vivaro|#ovivaro|#vivarovivaro|#opelvivarovivaro|#ovivarovivaro,0.512121212
+1,Nissan,5,11,3,5,2,0,Rogue Sport,3,Rogue Sport,4,10,4,6,1,2,5,2,3,#nissanroguesport|#roguesport|#nroguesport|#roguesportrogue|#nissanroguesportrogue|#nroguesportrogue,0.25072601
+1,Nissan,0,11,1,5,2,1,Qashqai II (facelift 2017),6,Qashqai,4,10,4,1,1,2,5,4,3,#nissanqashqai|#qashqai|#nqashqai|#qashqaiqashqai|#nissanqashqaiqashqai|#nqashqaiqashqai,0.704166667
+1,Nissan,2,11,5,5,2,0,Rogue II (facelift 2017),4,Rogue,4,10,4,1,1,3,5,3,4,#nissanrogue|#rogue|#nrogue|#roguerogue|#nissanroguerogue|#nroguerogue,0.304970238
+1,Nissan,1,1,0,5,0,0,Micra (K14),3,Micra,3,5,4,0,1,1,5,1,2,#nissanmicra|#micra|#nmicra|#micramicra|#nissanmicramicra|#nmicramicra,0.342613636
+1,Nissan,0,8,3,5,6,1,Mistral (R20),5,Mistral,4,5,2,6,1,1,5,2,3,#nissanmistral|#mistral|#nmistral|#mistralmistral|#nissanmistralmistral|#nmistralmistral,0.5
+1,Nissan,5,1,2,5,1,0,Note I (E11) (facelift 2010),1,Note,4,5,4,2,1,1,5,1,2,#nissannote|#note|#nnote|#notenote|#nissannotenote|#nnotenote,0.2
+1,Nissan,6,4,5,4,6,0,Navara II (D22),0,Navara,4,6,4,1,1,3,5,2,2,#nissannavara|#navara|#nnavara|#navaranavara|#nissannavaranavara|#nnavaranavara,0.442613636
+1,Nissan,3,5,3,5,5,0,"Murano III (Z52, facelift 2019)",5,Murano,6,10,4,2,2,5,5,4,6,#nissanmurano|#murano|#nmurano|#muranomurano|#nissanmuranomurano|#nmuranomurano,0.192680272
+1,Mitsuoka,0,0,1,4,5,0,Galue I,2,Galue,6,4,4,0,1,2,5,1,4,#mitsuokagalue|#galue|#mgalue|#galuegalue|#mitsuokagaluegalue|#mgaluegalue,0
+1,Nissan,0,4,5,2,5,1,NP 300 Pick up (D22),5,NP 300 Pick up,4,5,4,1,4,2,3,4,6,#nissannp300pickup|#np300pickup|#nnp300pickup|#np300pickupnp|#nissannp300pickupnp|#nnp300pickupnp,0
+1,Nissan,4,5,3,5,5,0,Pathfinder IV (facelift 2017),6,Pathfinder,6,10,4,2,2,5,7,4,6,#nissanpathfinder|#pathfinder|#npathfinder|#pathfinderpathfinder|#nissanpathfinderpathfinder|#npathfinderpathfinder,0.472705078
+1,Mitsuoka,6,11,0,2,1,0,Himiko Concept,1,Himiko,4,6,4,4,1,2,2,1,6,#mitsuokahimiko|#himiko|#mhimiko|#himikohimiko|#mitsuokahimikohimiko|#mhimikohimiko,0.1
+1,Nissan,0,5,1,5,1,1,Juke (facelift 2014),5,Juke,4,6,2,1,1,1,5,3,2,#nissanjuke|#juke|#njuke|#jukejuke|#nissanjukejuke|#njukejuke,-0.131818182
+0,Moskvich,0,2,1,5,0,0,423 Combi,0,423 Kombi,4,4,2,0,1,0,4,0,0,#moskvich423kombi|#423kombi|#m423kombi|#423kombi423|#moskvich423kombi423|#m423kombi423,0
+0,Moskvich,1,1,3,5,2,0,Yuriy Dolgorukiy,2,Yuriy Dolgorukiy,4,5,2,0,1,0,5,0,2,#moskvichyuriydolgorukiy|#yuriydolgorukiy|#myuriydolgorukiy|#yuriydolgorukiyyuriy|#moskvichyuriydolgorukiyyuriy|#myuriydolgorukiyyuriy,0
+0,Nissan,0,1,1,5,0,1,March (K11),0,March,4,5,2,2,1,0,5,0,0,#nissanmarch|#march|#nmarch|#marchmarch|#nissanmarchmarch|#nmarchmarch,0.263121212
+0,Nissan,4,0,3,4,4,0,Maxima VIII (A36),3,Maxima,6,0,4,2,2,5,5,4,5,#nissanmaxima|#maxima|#nmaxima|#maximamaxima|#nissanmaximamaxima|#nmaximamaxima,0.225
+0,Moskvich,0,0,1,4,1,0,408 IE,0,408,4,4,2,0,1,0,5,0,0,#moskvich408|#408|#m408|#408408|#moskvich408408|#m408408,0.553472222
+0,Moskvich,0,0,2,5,1,0,412,1,412,4,4,2,0,1,0,5,0,1,#moskvich412|#412|#m412|#412412|#moskvich412412|#m412412,0.85
+1,Moskvich,0,0,1,4,0,0,407,0,407,4,4,2,0,1,0,4,0,0,#moskvich407|#407|#m407|#407407|#moskvich407407|#m407407,0.5
+0,Nissan,2,2,0,5,1,0,Cube II,1,Cube,4,6,4,2,1,1,5,0,2,#nissancube|#cube|#ncube|#cubecube|#nissancubecube|#ncubecube,0.078787879
+0,Nissan,2,12,0,2,0,0,Figaro,1,Figaro,4,3,4,0,1,0,4,0,0,#nissanfigaro|#figaro|#nfigaro|#figarofigaro|#nissanfigarofigaro|#nfigarofigaro,0
+0,Nissan,3,12,3,5,6,0,Fairlady,4,Fairlady,6,6,4,2,2,5,5,4,2,#nissanfairlady|#fairlady|#nfairlady|#fairladyfairlady|#nissanfairladyfairlady|#nfairladyfairlady,0.341780303
+1,Nissan,2,4,3,4,6,0,"Frontier II Crew Cab Long (D40, facelift 2009)",6,Frontier,6,5,4,6,2,5,5,5,2,#nissanfrontier|#frontier|#nfrontier|#frontierfrontier|#nissanfrontierfrontier|#nfrontierfrontier,0.414087302
+1,Moskvich,0,0,0,4,0,0,402,0,402,4,3,2,0,1,0,4,0,0,#moskvich402|#402|#m402|#402402|#moskvich402402|#m402402,0
+0,Moskvich,0,0,1,4,0,0,403,0,403,4,4,2,0,1,0,4,0,0,#moskvich403|#403|#m403|#403403|#moskvich403403|#m403403,0
+1,Nissan,0,3,4,2,4,0,300 ZX (Z32),4,300 ZX,6,4,4,2,2,5,4,5,2,#nissan300zx|#300zx|#n300zx|#300zx300|#nissan300zx300|#n300zx300,0.334848485
+0,Nissan,3,11,3,2,6,0,"350Z Roadster (Z33, facelift 2007)",4,350Z,6,5,4,2,2,6,2,5,3,#nissan350z|#350z|#n350z|#350z350z|#nissan350z350z|#n350z350z,0.425974026
+1,Nissan,5,3,3,2,5,0,370Z Coupe (facelift 2018),3,370Z,6,7,4,4,2,6,2,5,2,#nissan370z|#370z|#n370z|#370z370z|#nissan370z370z|#n370z370z,0.542207792
+0,Nissan,2,2,1,5,0,0,AD III,1,AD,4,4,4,5,1,2,5,2,2,#nissanad|#ad|#nad|#adad|#nissanadad|#nadad,0.336646916
+1,Nissan,1,0,1,4,2,0,Almera Classic (B10),1,Almera,4,4,4,5,1,1,5,1,2,#nissanalmera|#almera|#nalmera|#almeraalmera|#nissanalmeraalmera|#nalmeraalmera,0.011666667
+0,Nissan,1,0,5,4,3,0,Bluebird (U13),4,Bluebird,4,4,4,1,1,3,5,2,3,#nissanbluebird|#bluebird|#nbluebird|#bluebirdbluebird|#nissanbluebirdbluebird|#nbluebirdbluebird,0.5375
+1,Nissan,6,0,5,4,5,0,Altima VI,5,Altima,4,10,4,1,1,4,5,3,6,#nissanaltima|#altima|#naltima|#altimaaltima|#nissanaltimaaltima|#naltimaaltima,0.358289242
+1,Nissan,5,5,6,5,4,0,Armada II (Y62),0,Armada,8,7,4,5,2,6,8,6,2,#nissanarmada|#armada|#narmada|#armadaarmada|#nissanarmadaarmada|#narmadaarmada,0
+1,Nissan,1,2,1,5,3,0,Avenir (W11),2,Avenir,4,5,4,5,1,2,5,1,3,#nissanavenir|#avenir|#navenir|#aveniravenir|#nissanaveniravenir|#naveniravenir,0.541666667
+0,Nissan,1,0,1,4,5,0,"Cedric (Y31, facelif 1991)",2,Cedric,6,5,2,0,2,2,5,1,5,#nissancedric|#cedric|#ncedric|#cedriccedric|#nissancedriccedric|#ncedriccedric,0.202380952
+1,Moskvich,0,0,0,4,0,0,400,0,400,4,3,2,0,1,0,4,0,0,#moskvich400|#400|#m400|#400400|#moskvich400400|#m400400,0.31
+0,Moskvich,0,0,0,4,0,0,401,0,401,4,3,2,0,1,0,4,0,0,#moskvich401|#401|#m401|#401401|#moskvich401401|#m401401,0
+1,Opel,1,0,4,4,4,0,Insignia Sedan (facelift 2013),1,Insignia,4,6,4,4,1,4,5,4,5,#opelinsignia|#insignia|#oinsignia|#insigniainsignia|#opelinsigniainsignia|#oinsigniainsignia,0.63110119
+1,Opel,0,7,0,5,2,1,Meriva B,3,Meriva,4,5,4,2,1,0,5,2,3,#opelmeriva|#meriva|#omeriva|#merivameriva|#opelmerivameriva|#omerivameriva,0.066666667
+1,Opel,3,1,0,5,0,0,Karl Rocks,2,Karl,3,5,4,1,1,0,5,0,0,#opelkarl|#karl|#okarl|#karlkarl|#opelkarlkarl|#okarlkarl,0.208712121
+0,Opel,4,3,6,2,1,0,Manta B (facelift 1982),0,Manta,4,5,2,0,1,4,4,2,2,#opelmanta|#manta|#omanta|#mantamanta|#opelmantamanta|#omantamanta,0
+1,Opel,4,5,1,5,2,0,Mokka X,5,Mokka,4,5,4,2,1,1,5,1,2,#opelmokka|#mokka|#omokka|#mokkamokka|#opelmokkamokka|#omokkamokka,0.466666667
+1,Opel,0,0,6,4,5,0,Omega A,4,Omega,6,6,4,3,1,6,5,6,5,#opelomega|#omega|#oomega|#omegaomega|#opelomegaomega|#oomegaomega,0.278787879
+0,Opel,1,0,4,4,5,0,Senator A (facelift 1982),2,Senator,6,5,2,0,1,2,5,2,4,#opelsenator|#senator|#osenator|#senatorsenator|#opelsenatorsenator|#osenatorsenator,0.15
+0,Opel,6,3,4,3,4,0,Monza A2,2,Monza,4,5,2,4,1,2,4,2,4,#opelmonza|#monza|#omonza|#monzamonza|#opelmonzamonza|#omonzamonza,0
+1,Opel,0,7,5,5,6,1,Movano B Combi,6,Movano,4,6,4,4,1,3,5,4,2,#opelmovano|#movano|#omovano|#movanomovano|#opelmovanomovano|#omovanomovano,0.266666667
+0,Opel,0,0,5,4,4,1,Rekord E (facelift 1982),1,Rekord,4,5,2,3,1,0,5,0,4,#opelrekord|#rekord|#orekord|#rekordrekord|#opelrekordrekord|#orekordrekord,0
+0,Opel,2,4,0,3,0,0,Combo Tour B,1,Combo,4,4,2,0,1,0,2,0,1,#opelcombo|#combo|#ocombo|#combocombo|#opelcombocombo|#ocombocombo,-0.101298701
+0,Opel,1,0,5,4,6,0,Diplomat B,3,Diplomat,6,4,2,0,1,3,5,2,6,#opeldiplomat|#diplomat|#odiplomat|#diplomatdiplomat|#opeldiplomatdiplomat|#odiplomatdiplomat,0.308333333
+1,Opel,3,1,0,3,0,0,Adam,3,Adam,4,5,4,2,1,1,4,0,0,#opeladam|#adam|#oadam|#adamadam|#opeladamadam|#oadamadam,0.25
+0,Opel,1,0,5,4,6,0,Admiral B,3,Admiral,6,4,4,0,1,2,5,2,6,#opeladmiral|#admiral|#oadmiral|#admiraladmiral|#opeladmiraladmiral|#oadmiraladmiral,0.008928571
+1,Opel,3,2,0,5,1,0,Astra K Sports Tourer,5,Astra,3,5,4,1,1,1,5,1,3,#opelastra|#astra|#oastra|#astraastra|#opelastraastra|#oastraastra,-0.1953125
+1,Opel,2,5,4,5,4,1,Antara (facelift 2010),6,Antara,4,6,4,3,1,4,5,3,4,#opelantara|#antara|#oantara|#antaraantara|#opelantaraantara|#oantaraantara,0.548323413
+0,Opel,0,0,6,4,3,0,Ascona C,2,Ascona,4,5,4,0,1,1,5,1,2,#opelascona|#ascona|#oascona|#asconaascona|#opelasconaascona|#oasconaascona,0.136363636
+1,Opel,0,1,1,5,0,1,Corsa D (Facelift 2011) 5-door,1,Corsa,4,5,4,2,1,0,5,2,2,#opelcorsa|#corsa|#ocorsa|#corsacorsa|#opelcorsacorsa|#ocorsacorsa,0.3
+0,Opel,1,0,4,5,4,0,Commodore C,1,Commodore,6,4,2,0,1,1,5,2,4,#opelcommodore|#commodore|#ocommodore|#commodorecommodore|#opelcommodorecommodore|#ocommodorecommodore,0.10952381
+1,Ravon,5,0,3,4,3,0,Gentra,2,Gentra,4,6,4,3,1,1,5,1,2,#ravongentra|#gentra|#rgentra|#gentragentra|#ravongentragentra|#rgentragentra,0
+1,Pagani,3,11,3,2,6,0,Huayra Roadster,2,Huayra,12,7,3,6,2,1,2,2,5,#paganihuayra|#huayra|#phuayra|#huayrahuayra|#paganihuayrahuayra|#phuayrahuayra,0.5
+1,RAM,0,4,3,4,4,1,2500/3500 Mega Cab II (DT),0,2500/3500,6,6,4,1,1,6,5,2,2,#ram25003500|#25003500|#r25003500|#2500350025003500|#ram2500350025003500|#r2500350025003500,0.041666667
+1,Maserati,0,3,1,2,6,0,Shamal,3,Shamal,8,6,4,1,2,6,4,6,0,#maseratishamal|#shamal|#mshamal|#shamalshamal|#maseratishamalshamal|#mshamalshamal,-0.038541667
+1,Maserati,5,6,5,2,4,0,Spyder,5,Spyder,8,6,4,1,2,6,2,6,1,#maseratispyder|#spyder|#mspyder|#spyderspyder|#maseratispyderspyder|#mspyderspyder,0
+1,Maserati,0,3,6,2,6,0,Ghibli II,2,Ghibli,6,6,4,0,2,5,4,5,2,#maseratighibli|#ghibli|#mghibli|#ghiblighibli|#maseratighiblighibli|#mghiblighibli,0.063459821
+1,Maserati,5,3,5,2,4,0,Coupe,4,Coupe,8,6,4,1,2,6,4,6,3,#maseraticoupe|#coupe|#mcoupe|#coupecoupe|#maseraticoupecoupe|#mcoupecoupe,0.106505051
+1,Mega,2,3,5,2,4,0,Track,0,Track,12,4,4,1,2,6,4,6,2,#megatrack|#track|#mtrack|#tracktrack|#megatracktrack|#mtracktrack,0.158340014
+1,MG,1,0,5,4,4,0,ZT,4,ZT,8,5,4,5,2,5,4,5,5,#mgzt|#zt|#mzt|#ztzt|#mgztzt|#mztzt,0
+0,Mahindra,6,11,5,3,1,1,Thar,0,Thar,4,5,4,1,1,0,7,2,1,#mahindrathar|#thar|#mthar|#tharthar|#mahindratharthar|#mtharthar,0.625
+1,Mitsubishi,0,4,4,4,5,1,L200 V Double Cab (facelift 2019),0,L 200,4,6,4,1,1,4,5,5,2,#mitsubishil200|#l200|#ml200|#l200l200|#mitsubishil200l200|#ml200l200,0.378787879
+1,Mahindra,0,8,5,5,1,1,Commander,2,Commander,4,4,2,2,1,0,8,0,4,#mahindracommander|#commander|#mcommander|#commandercommander|#mahindracommandercommander|#mcommandercommander,0.5
+0,Mahindra,0,8,5,3,1,0,MM 540/550,2,MM 540/550,4,4,2,2,1,1,8,2,1,#mahindramm540550|#mm540550|#mmm540550|#mm540550mm|#mahindramm540550mm|#mmm540550mm,0
+1,Mahindra,0,8,6,5,3,1,MM 775,4,MM 775,4,5,2,5,1,0,8,1,4,#mahindramm775|#mm775|#mmm775|#mm775mm|#mahindramm775mm|#mmm775mm,0
+0,Maserati,5,3,3,2,4,0,MC12,2,MC12,12,6,4,6,2,1,2,2,5,#maseratimc12|#mc12|#mmc12|#mc12mc12|#maseratimc12mc12|#mmc12mc12,0
+0,Maruti,2,7,0,4,0,0,Omni,0,Omni,4,4,2,0,1,0,4,0,0,#marutiomni|#omni|#momni|#omniomni|#marutiomniomni|#momniomni,0.28
+1,Maruti,0,8,0,3,0,0,Gypsy,0,Gypsy,4,4,2,0,1,0,5,0,0,#marutigypsy|#gypsy|#mgypsy|#gypsygypsy|#marutigypsygypsy|#mgypsygypsy,0.440952381
+0,Maserati,5,6,6,3,5,0,GranCabrio,6,GranCabrio,4,6,4,3,4,1,4,6,6,#maseratigrancabrio|#grancabrio|#mgrancabrio|#grancabriograncabrio|#maseratigrancabriograncabrio|#mgrancabriograncabrio,0
+1,Maserati,4,3,5,2,4,0,GranSport,4,GranSport,8,6,4,1,2,6,4,6,3,#maseratigransport|#gransport|#mgransport|#gransportgransport|#maseratigransportgransport|#mgransportgransport,0.333333333
+1,Maserati,4,3,5,2,6,0,GranTurismo,6,GranTurismo,8,6,4,5,2,1,4,6,6,#maseratigranturismo|#granturismo|#mgranturismo|#granturismogranturismo|#maseratigranturismogranturismo|#mgranturismogranturismo,0.257575758
+1,Maserati,1,0,4,4,6,0,Quattroporte VI (M156),5,Quattroporte,8,8,4,1,2,6,5,2,2,#maseratiquattroporte|#quattroporte|#mquattroporte|#quattroportequattroporte|#maseratiquattroportequattroporte|#mquattroportequattroporte,0.15
+1,Maserati,1,0,6,4,4,0,Royale,6,Royale,8,5,2,5,2,5,5,5,5,#maseratiroyale|#royale|#mroyale|#royaleroyale|#maseratiroyaleroyale|#mroyaleroyale,0.019893743
+1,Maserati,2,3,1,2,3,0,Chubasco,2,Chubasco,8,5,4,1,2,1,2,6,3,#maseratichubasco|#chubasco|#mchubasco|#chubascochubasco|#maseratichubascochubasco|#mchubascochubasco,0
+0,Maruti,0,12,0,5,0,0,800,0,800,3,6,2,0,1,0,5,0,2,#maruti800|#800|#m800|#800800|#maruti800800|#m800800,-0.2
+1,Maxus,2,5,4,5,5,0,D90,0,D90,4,6,4,2,1,4,7,4,2,#maxusd90|#d90|#md90|#d90d90|#maxusd90d90|#md90d90,0
+1,Mercedes-Benz,0,4,3,4,5,1,X-class,0,X-class,4,7,4,1,1,4,5,6,2,#mercedesbenzxclass|#xclass|#mxclass|#xclassxclass|#mercedesbenzxclassxclass|#mxclassxclass,0
+1,Maxus,2,5,4,4,5,0,T60 Dual Cab,6,T60,4,6,4,1,1,3,5,2,2,#maxust60|#t60|#mt60|#t60t60|#maxust60t60|#mt60t60,0.221428571
+1,Maserati,5,3,5,3,4,0,4300 GT Coupe,4,4300 GT Coupe,8,6,4,1,2,6,4,6,3,#maserati4300gtcoupe|#4300gtcoupe|#m4300gtcoupe|#4300gtcoupe4300|#maserati4300gtcoupe4300|#m4300gtcoupe4300,0
+1,Maserati,0,3,1,2,4,0,3200 GT,4,3200 GT,8,6,4,1,2,6,4,6,3,#maserati3200gt|#3200gt|#m3200gt|#3200gt3200|#maserati3200gt3200|#m3200gt3200,0
+1,Mercedes-Benz,0,0,3,4,6,0,Maybach S-class Pullman (VV222),5,S-class,12,7,3,6,2,1,6,2,2,#mercedesbenzsclass|#sclass|#msclass|#sclassmaybach|#mercedesbenzsclassmaybach|#msclassmaybach,0.337083333
+1,Mercedes-Benz,0,6,3,2,4,0,SLR McLaren (C199) Roadster,5,SLR McLaren,8,5,3,6,2,1,2,2,4,#mercedesbenzslrmclaren|#slrmclaren|#mslrmclaren|#slrmclarenslr|#mercedesbenzslrmclarenslr|#mslrmclarenslr,0
+1,Mercedes-Benz,5,6,5,2,6,0,SLS AMG Roadster (R197),5,SLS AMG,8,6,4,5,2,1,2,2,4,#mercedesbenzslsamg|#slsamg|#mslsamg|#slsamgsls|#mercedesbenzslsamgsls|#mslsamgsls,0.175
+1,Mercedes-Benz,4,11,6,5,4,0,GLE coupe (C292),0,GLE,6,9,4,5,2,6,5,6,6,#mercedesbenzgle|#gle|#mgle|#glegle|#mercedesbenzglegle|#mglegle,0.402272727
+0,Mazda,0,2,3,5,1,0,Protege Wagon,2,Protege,4,6,4,3,1,2,5,1,3,#mazdaprotege|#protege|#mprotege|#protegeprotege|#mazdaprotegeprotege|#mprotegeprotege,0.225
+1,Mercedes-Benz,5,0,3,4,4,0,C-class (W204),5,C-class,8,7,4,1,2,1,5,2,5,#mercedesbenzcclass|#cclass|#mcclass|#cclasscclass|#mercedesbenzcclasscclass|#mcclasscclass,0
+1,Mercedes-Benz,0,1,1,5,2,1,A-class (W168),1,A-class,4,5,4,3,1,0,5,1,1,#mercedesbenzaclass|#aclass|#maclass|#aclassaclass|#mercedesbenzaclassaclass|#maclassaclass,0.310868687
+1,Mazda,2,6,3,2,1,0,Mx-5 II (NB),1,Mx-5,4,5,4,3,1,3,2,1,0,#mazdamx5|#mx5|#mmx5|#mx5mx5|#mazdamx5mx5|#mmx5mx5,0.395720899
+1,Mercedes-Benz,4,6,4,2,4,0,E-class Cabrio (A207),5,E-class,8,7,4,3,2,6,4,6,5,#mercedesbenzeclass|#eclass|#meclass|#eclasseclass|#mercedesbenzeclasseclass|#meclasseclass,0.467211174
+1,Mercedes-Benz,0,3,3,2,4,0,CL (C215),6,CL,8,5,3,6,2,1,4,2,6,#mercedesbenzcl|#cl|#mcl|#clcl|#mercedesbenzclcl|#mclcl,0.451515152
+1,Mazda,0,8,4,5,4,1,CX-7,5,CX-7,4,6,4,1,1,3,5,5,5,#mazdacx7|#cx7|#mcx7|#cx7cx7|#mazdacx7cx7|#mcx7cx7,0
+1,Mazda,6,5,3,5,3,1,CX-5,3,CX-5,4,6,4,3,1,3,5,5,4,#mazdacx5|#cx5|#mcx5|#cx5cx5|#mazdacx5cx5|#mcx5cx5,0.416666667
+1,Mazda,3,5,5,5,5,0,CX-9 II,5,CX-9,4,6,4,1,1,5,7,4,6,#mazdacx9|#cx9|#mcx9|#cx9cx9|#mazdacx9cx9|#mcx9cx9,0.35122449
+1,Mazda,0,1,0,5,0,0,Laputa,0,Laputa,3,4,4,0,1,0,5,0,0,#mazdalaputa|#laputa|#mlaputa|#laputalaputa|#mazdalaputalaputa|#mlaputalaputa,0.15
+0,Mazda,0,2,3,5,1,0,Familia Wagon,2,Familia,4,6,4,3,1,3,5,1,3,#mazdafamilia|#familia|#mfamilia|#familiafamilia|#mazdafamiliafamilia|#mfamiliafamilia,0
+1,Mazda,5,7,4,5,4,0,Biante,3,Biante,4,4,4,2,1,3,8,2,6,#mazdabiante|#biante|#mbiante|#biantebiante|#mazdabiantebiante|#mbiantebiante,0
+1,Mazda,0,4,6,4,4,1,BT-50,6,BT-50,4,5,4,6,1,3,5,4,2,#mazdabt50|#bt50|#mbt50|#bt50bt50|#mazdabt50bt50|#mbt50bt50,0.4375
+0,Mercedes-Benz,0,0,4,4,4,0,200 (W123),2,200,4,6,2,3,1,0,5,0,2,#mercedesbenz200|#200|#m200|#200200|#mercedesbenz200200|#m200200,0.186071429
+1,Mercedes-Benz,0,0,4,4,4,1,250 (W124),3,250,5,4,2,3,1,2,5,3,5,#mercedesbenz250|#250|#m250|#250250|#mercedesbenz250250|#m250250,-0.35625
+1,Mazda,0,2,0,3,0,0,Az-offroad,0,Az-offroad,3,5,4,0,1,0,4,0,0,#mazdaazoffroad|#azoffroad|#mazoffroad|#azoffroadazoffroad|#mazdaazoffroadazoffroad|#mazoffroadazoffroad,0
+1,McLaren,3,3,4,2,6,0,F1,0,F1,12,6,4,4,2,1,3,2,4,#mclarenf1|#f1|#mf1|#f1f1|#mclarenf1f1|#mf1f1,0.333333333
+1,Mazda,5,1,1,5,1,0,2 III Takumi,0,2,4,5,4,2,1,0,5,0,1,#mazda2|#2|#m2|#22|#mazda22|#m22,0.25
+1,Mazda,0,1,2,5,1,0,3 IV Hatchback,3,3,4,6,4,2,1,4,5,2,4,#mazda3|#3|#m3|#33|#mazda33|#m33,0.5
+1,Mazda,6,0,5,4,3,0,6 III Sedan (GJ facelift 2018),3,6,4,6,4,1,1,4,5,3,6,#mazda6|#6|#m6|#66|#mazda66|#m66,-0.025
+1,Mercury,2,6,5,2,5,0,Marauder Convertible,5,Marauder,8,4,2,5,2,6,4,6,6,#mercurymarauder|#marauder|#mmarauder|#maraudermarauder|#mercurymaraudermarauder|#mmaraudermarauder,0
+0,Mercury,0,0,3,4,4,0,Grand Marquis I,5,Grand Marquis,8,6,2,1,2,3,5,5,6,#mercurygrandmarquis|#grandmarquis|#mgrandmarquis|#grandmarquisgrand|#mercurygrandmarquisgrand|#mgrandmarquisgrand,0.65
+1,MG,3,6,1,2,1,0,MGF,1,MGF,4,5,4,5,1,2,2,1,0,#mgmgf|#mgf|#mmgf|#mgfmgf|#mgmgfmgf|#mmgfmgf,0.6
+1,MG,3,6,1,2,1,0,TF,1,TF,4,5,4,5,1,3,2,2,0,#mgtf|#tf|#mtf|#tftf|#mgtftf|#mtftf,0.048611111
+0,Mercury,0,12,3,5,6,0,Cougar VII (XR7),5,Cougar,6,6,2,4,2,4,5,3,2,#mercurycougar|#cougar|#mcougar|#cougarcougar|#mercurycougarcougar|#mcougarcougar,0.307142857
+1,Mitsubishi,2,1,0,3,0,0,Toppo,0,Toppo,3,3,2,0,1,0,5,0,0,#mitsubishitoppo|#toppo|#mtoppo|#toppotoppo|#mitsubishitoppotoppo|#mtoppotoppo,0
+1,Mini,3,6,1,3,1,0,Convertible (R57),2,Convertible,4,6,4,4,1,3,4,3,1,#miniconvertible|#convertible|#mconvertible|#convertibleconvertible|#miniconvertibleconvertible|#mconvertibleconvertible,0.314640152
+0,Mitsubishi,2,4,6,4,6,0,Raider,5,Raider,6,4,2,6,2,4,5,3,2,#mitsubishiraider|#raider|#mraider|#raiderraider|#mitsubishiraiderraider|#mraiderraider,0.78912037
+1,Mitsubishi,4,0,4,4,6,0,Proudia/dignity,6,Proudia/dignity,8,5,4,1,2,5,5,5,6,#mitsubishiproudiadignity|#proudiadignity|#mproudiadignity|#proudiadignityproudiadignity|#mitsubishiproudiadignityproudiadignity|#mproudiadignityproudiadignity,0
+0,Mitsubishi,5,12,4,5,4,0,Galant VIII Restyling,5,Galant,4,6,4,1,1,3,5,2,2,#mitsubishigalant|#galant|#mgalant|#galantgalant|#mitsubishigalantgalant|#mgalantgalant,0.276666667
+1,Mitsubishi,5,1,3,5,3,0,Lancer Sportback X (GS44S),3,Lancer,4,6,4,3,1,3,5,2,3,#mitsubishilancer|#lancer|#mlancer|#lancerlancer|#mitsubishilancerlancer|#mlancerlancer,0.121634312
+1,Mitsubishi,3,1,0,5,0,0,Mirage VI Hatchback (facelift 2017),0,Mirage,3,0,4,5,1,0,5,0,1,#mitsubishimirage|#mirage|#mmirage|#miragemirage|#mitsubishimiragemirage|#mmiragemirage,0.4
+1,Mitsubishi,2,1,0,3,0,0,Minica V,0,Minica,3,3,2,0,1,0,4,0,0,#mitsubishiminica|#minica|#mminica|#minicaminica|#mitsubishiminicaminica|#mminicaminica,0
+1,Mitsubishi,0,8,3,4,4,1,Pajero Sport II,0,Pajero,4,6,4,1,1,3,5,4,5,#mitsubishipajero|#pajero|#mpajero|#pajeropajero|#mitsubishipajeropajero|#mpajeropajero,0
+0,Mitsubishi,0,7,3,4,3,0,Delica,1,Delica,4,5,4,5,4,1,9,1,0,#mitsubishidelica|#delica|#mdelica|#delicadelica|#mitsubishidelicadelica|#mdelicadelica,0.2
+0,Mitsubishi,2,1,2,3,3,0,Colt IV (CAO),0,Colt,4,4,4,5,1,2,5,1,0,#mitsubishicolt|#colt|#mcolt|#coltcolt|#mitsubishicoltcolt|#mcoltcolt,0.061666667
+0,Mitsubishi,1,7,4,4,3,0,Chariot (E-N33W),2,Chariot,4,4,4,1,1,3,7,2,4,#mitsubishichariot|#chariot|#mchariot|#chariotchariot|#mitsubishichariotchariot|#mchariotchariot,0.8
+1,Mitsubishi,2,3,6,3,6,0,Eclipse IV,5,Eclipse,6,5,4,5,2,5,4,4,2,#mitsubishieclipse|#eclipse|#meclipse|#eclipseeclipse|#mitsubishieclipseeclipse|#meclipseeclipse,0.421354167
+1,Mitsubishi,0,5,4,5,4,1,Eclipse Cross,4,Eclipse Cross,4,8,4,1,1,3,5,5,4,#mitsubishieclipsecross|#eclipsecross|#meclipsecross|#eclipsecrosseclipse|#mitsubishieclipsecrosseclipse|#meclipsecrosseclipse,0.214285714
+1,Jaguar,5,3,5,2,4,0,XJS Coupe,5,XJS,12,4,2,0,2,5,4,5,2,#jaguarxjs|#xjs|#jxjs|#xjsxjs|#jaguarxjsxjs|#jxjsxjs,0.474479167
+1,Jaguar,0,6,4,2,5,0,XK 8 Convertible (QDV),5,XK 8,8,5,4,4,2,6,4,6,2,#jaguarxk8|#xk8|#jxk8|#xk8xk|#jaguarxk8xk|#jxk8xk,-0.073958333
+1,Jaguar,3,3,4,2,5,0,XKR Coupe II,5,XKR,8,6,4,4,2,1,4,2,5,#jaguarxkr|#xkr|#jxkr|#xkrxkr|#jaguarxkrxkr|#jxkrxkr,0.249025974
+1,Jeep,2,5,4,5,1,0,Renegade (facelift 2019),3,Renegade,4,9,4,1,1,4,5,3,2,#jeeprenegade|#renegade|#jrenegade|#renegaderenegade|#jeeprenegaderenegade|#jrenegaderenegade,0
+0,Lamborghini,5,3,4,2,5,0,Reventon,3,Reventon,12,6,4,5,2,1,2,2,4,#lamborghinireventon|#reventon|#lreventon|#reventonreventon|#lamborghinireventonreventon|#lreventonreventon,-0.018465909
+0,Lancia,0,9,0,5,1,1,Musa,1,Musa,4,5,4,2,1,0,5,2,1,#lanciamusa|#musa|#lmusa|#musamusa|#lanciamusamusa|#lmusamusa,0.8
+1,Lister,1,3,6,2,4,0,LFT-666,4,LFT-666,8,8,4,6,2,1,2,2,3,#listerlft666|#lft666|#llft666|#lft666lft666|#listerlft666lft666|#llft666lft666,-0.033333333
+0,Izh,0,1,2,5,1,0,2125,0,2125,4,6,2,0,1,0,5,0,0,#izh2125|#2125|#i2125|#21252125|#izh21252125|#i21252125,0
+1,Jaguar,3,0,3,4,3,0,"XE (X760, facelift 2019)",4,XE,4,8,4,6,1,5,5,5,6,#jaguarxe|#xe|#jxe|#xexe|#jaguarxexe|#jxexe,0.291612554
+1,Jaguar,1,0,4,4,4,0,S-type (CCX),5,S-type,8,6,4,6,2,6,5,6,6,#jaguarstype|#stype|#jstype|#stypestype|#jaguarstypestype|#jstypestype,0.191666667
+1,Jaguar,3,0,5,4,4,0,XF (X250 facelift 2011),4,XF,6,6,4,1,2,4,5,4,6,#jaguarxf|#xf|#jxf|#xfxf|#jaguarxfxf|#jxfxf,0.175
+1,Jaguar,1,0,6,4,6,0,XJ (X351),5,XJ,8,6,4,6,2,1,5,2,2,#jaguarxj|#xj|#jxj|#xjxj|#jaguarxjxj|#jxjxj,0.165151515
+1,Jeep,5,8,3,4,6,0,Gladiator (JT),0,Gladiator,6,8,4,2,2,5,5,4,2,#jeepgladiator|#gladiator|#jgladiator|#gladiatorgladiator|#jeepgladiatorgladiator|#jgladiatorgladiator,-0.350826446
+1,Kia,2,11,4,4,3,0,Stinger,0,Stinger,4,8,4,4,1,5,5,4,6,#kiastinger|#stinger|#kstinger|#stingerstinger|#kiastingerstinger|#kstingerstinger,0
+0,Kia,1,0,1,4,1,0,Spectra,1,Spectra,4,4,4,3,1,1,5,1,2,#kiaspectra|#spectra|#kspectra|#spectraspectra|#kiaspectraspectra|#kspectraspectra,0.3
+1,Kia,5,5,4,5,3,0,Sportage IV (facelift 2018),4,Sportage,4,6,4,1,1,4,5,3,4,#kiasportage|#sportage|#ksportage|#sportagesportage|#kiasportagesportage|#ksportagesportage,0.438181818
+1,Jeep,4,5,5,5,3,0,"Cherokee V (KL, facelift 2018)",5,Cherokee,6,9,4,2,2,5,5,4,4,#jeepcherokee|#cherokee|#jcherokee|#cherokeecherokee|#jeepcherokeecherokee|#jcherokeecherokee,0.529025142
+1,Kia,3,1,1,5,1,0,Venga (facelift 2014),4,Venga,4,6,4,4,1,2,5,1,3,#kiavenga|#venga|#kvenga|#vengavenga|#kiavengavenga|#kvengavenga,0
+1,Jeep,3,8,3,5,6,0,Grand Cherokee III (WH),0,Grand Cherokee,8,5,2,6,2,6,5,6,5,#jeepgrandcherokee|#grandcherokee|#jgrandcherokee|#grandcherokeegrand|#jeepgrandcherokeegrand|#jgrandcherokeegrand,0.436904762
+1,Jaguar,1,6,4,2,5,0,F-type Convertible,4,F-type,8,8,4,4,2,1,2,2,3,#jaguarftype|#ftype|#jftype|#ftypeftype|#jaguarftypeftype|#jftypeftype,0.318518519
+1,Jeep,1,8,6,5,6,0,Liberty II Sport,5,Liberty,6,6,2,6,2,4,5,4,2,#jeepliberty|#liberty|#jliberty|#libertyliberty|#jeeplibertyliberty|#jlibertyliberty,0.264707341
+1,Jaguar,3,5,3,5,4,0,E-Pace,0,E-Pace,4,9,4,6,1,5,5,5,4,#jaguarepace|#epace|#jepace|#epaceepace|#jaguarepaceepace|#jepaceepace,0.131666667
+1,Kia,2,2,4,5,4,0,Optima IV Sportswagon (facelift 2018),0,Optima,4,6,4,4,1,4,5,4,5,#kiaoptima|#optima|#koptima|#optimaoptima|#kiaoptimaoptima|#koptimaoptima,1
+1,Kia,3,1,0,3,0,0,Picanto II 3D (facelift 2015),3,Picanto,4,5,4,1,1,0,5,0,0,#kiapicanto|#picanto|#kpicanto|#picantopicanto|#kiapicantopicanto|#kpicantopicanto,0.243560606
+1,Kia,2,0,5,4,6,0,Quoris II,4,Quoris,6,8,4,3,2,6,5,6,2,#kiaquoris|#quoris|#kquoris|#quorisquoris|#kiaquorisquoris|#kquorisquoris,0
+1,Kia,2,1,0,5,0,0,Pride (DA),0,Pride,4,4,2,3,1,0,5,1,0,#kiapride|#pride|#kpride|#pridepride|#kiapridepride|#kpridepride,0.319486532
+1,Kia,3,1,1,5,1,0,"Rio III Hatchback (UB, facelift 2015)",4,Rio,4,4,4,0,1,1,5,1,2,#kiario|#rio|#krio|#riorio|#kiariorio|#kriorio,0
+1,Kia,5,7,5,5,6,0,Sedona III,6,Sedona,6,6,4,3,2,5,5,4,2,#kiasedona|#sedona|#ksedona|#sedonasedona|#kiasedonasedona|#ksedonasedona,0.293571429
+1,Kia,4,5,5,5,5,0,Sorento III (facelift 2018),6,Sorento,6,8,4,4,2,5,5,4,5,#kiasorento|#sorento|#ksorento|#sorentosorento|#kiasorentosorento|#ksorentosorento,0.377832815
+1,Kia,6,5,2,5,2,1,Soul II,6,Soul,4,6,4,2,1,2,5,3,2,#kiasoul|#soul|#ksoul|#soulsoul|#kiasoulsoul|#ksoulsoul,0.385274621
+1,Kia,2,1,0,5,0,0,Avella,0,Avella,4,5,4,3,1,0,5,0,0,#kiaavella|#avella|#kavella|#avellaavella|#kiaavellaavella|#kavellaavella,0.5
+1,Lada,5,0,3,4,2,0,Vesta,2,Vesta,4,5,4,3,1,1,5,1,3,#ladavesta|#vesta|#lvesta|#vestavesta|#ladavestavesta|#lvestavesta,0.8
+1,Lada,5,10,2,5,1,0,XRAY,1,XRAY,4,5,4,2,1,1,5,1,2,#ladaxray|#xray|#lxray|#xrayxray|#ladaxrayxray|#lxrayxray,0
+1,Kia,3,8,3,5,6,0,Borrego (Mohave),5,Borrego (Mohave),6,6,4,4,2,5,5,5,6,#kiaborregomohave|#borregomohave|#kborregomohave|#borregomohaveborrego|#kiaborregomohaveborrego|#kborregomohaveborrego,0
+1,Kia,2,1,0,5,1,0,Ceed III,5,Cee'd,4,7,4,3,1,2,5,3,3,#kiaceed|#ceed|#kceed|#ceedceed|#kiaceedceed|#kceedceed,0.659090909
+1,Kia,0,9,1,5,3,1,Carens IV,0,Carens,4,6,4,5,1,2,5,4,5,#kiacarens|#carens|#kcarens|#carenscarens|#kiacarenscarens|#kcarenscarens,0
+1,Kia,6,0,2,4,2,0,Forte III,2,Forte,4,10,4,1,1,3,5,2,4,#kiaforte|#forte|#kforte|#forteforte|#kiaforteforte|#kforteforte,0.368181818
+1,Kia,4,7,5,5,6,0,Grand Carnival (facelift 2018),5,Carnival,6,6,4,3,2,5,5,5,2,#kiacarnival|#carnival|#kcarnival|#carnivalgrand|#kiacarnivalgrand|#kcarnivalgrand,0.262012987
+1,Kia,5,0,3,4,3,0,K4 (facelift 2018),3,K4,4,6,4,3,1,3,5,2,5,#kiak4|#k4|#kk4|#k4k4|#kiak4k4|#kk4k4,-0.115046296
+1,Kia,5,8,5,5,6,0,Mohave,6,Mohave,6,6,4,5,1,5,5,5,6,#kiamohave|#mohave|#kmohave|#mohavemohave|#kiamohavemohave|#kmohavemohave,0.106998557
+0,KTM,3,11,2,5,0,0,X-Bow,0,X-Bow,4,6,4,6,1,4,2,4,1,#ktmxbow|#xbow|#kxbow|#xbowxbow|#ktmxbowxbow|#kxbowxbow,0.3
+0,Lada,5,0,1,4,1,0,2115-40,0,2115,4,5,2,2,1,0,5,0,1,#lada2115|#2115|#l2115|#2115211540|#lada2115211540|#l2115211540,0.25
+1,Koenigsegg,0,11,5,2,6,0,Agera,3,Agera,8,7,4,1,2,1,2,2,3,#koenigseggagera|#agera|#kagera|#ageraagera|#koenigseggageraagera|#kageraagera,0.258333333
+1,Koenigsegg,0,3,5,2,5,0,One:1,2,One:1,8,7,4,1,2,1,2,2,3,#koenigseggone1|#one1|#kone1|#one1one1|#koenigseggone1one1|#kone1one1,0
+1,Koenigsegg,0,11,4,2,4,2,CCX,2,CC,8,6,4,4,2,1,2,2,2,#koenigseggcc|#cc|#kcc|#ccccx|#koenigseggccccx|#kccccx,0.234943182
+1,Koenigsegg,1,11,5,2,6,2,Regera,4,Regera,8,1,4,1,2,1,2,2,3,#koenigseggregera|#regera|#kregera|#regeraregera|#koenigseggregeraregera|#kregeraregera,0.269507576
+0,Lada,4,2,2,5,1,0,Granta II Combi,1,Granta,4,5,4,0,1,1,5,1,1,#ladagranta|#granta|#lgranta|#grantagranta|#ladagrantagranta|#lgrantagranta,0.206944444
+1,Lada,5,1,2,5,1,0,Kalina II Hatchback (2192),1,Kalina,4,5,4,2,1,2,5,1,1,#ladakalina|#kalina|#lkalina|#kalinakalina|#ladakalinakalina|#lkalinakalina,0.1
+1,Lada,5,0,1,4,1,0,Priora I Sedan (facelift 2013),1,Priora,4,5,4,2,1,1,5,1,1,#ladapriora|#priora|#lpriora|#priorapriora|#ladapriorapriora|#lpriorapriora,0
+0,Lada,5,2,1,5,0,0,21041,0,2104,4,5,2,2,1,0,5,0,1,#lada2104|#2104|#l2104|#210421041|#lada210421041|#l210421041,0
+1,Lamborghini,5,3,4,2,4,0,Murcielago LP640,5,Murcielago,12,6,4,5,2,1,2,2,4,#lamborghinimurcielago|#murcielago|#lmurcielago|#murcielagomurcielago|#lamborghinimurcielagomurcielago|#lmurcielagomurcielago,-0.066666667
+0,Lada,0,12,1,5,1,0,21053,1,2105,4,6,2,1,1,0,5,0,2,#lada2105|#2105|#l2105|#210521053|#lada210521053|#l210521053,0
+0,Lada,0,0,1,5,0,0,21074,1,2107,4,5,2,1,1,0,5,0,2,#lada2107|#2107|#l2107|#210721074|#lada210721074|#l210721074,0.1
+0,Lada,0,12,1,5,1,0,21061,1,2106,4,6,2,1,1,0,5,0,2,#lada2106|#2106|#l2106|#210621061|#lada210621061|#l210621061,0
+0,Lada,2,1,2,5,3,0,21083,2,2108,4,6,2,0,1,0,5,0,2,#lada2108|#2108|#l2108|#210821083|#lada210821083|#l210821083,0.433333333
+1,Lancia,0,0,2,4,4,1,Kappa (838),3,Kappa,5,5,2,6,1,2,5,4,4,#lanciakappa|#kappa|#lkappa|#kappakappa|#lanciakappakappa|#lkappakappa,0.482142857
+1,Lamborghini,2,3,6,2,4,0,Diablo,4,Diablo,12,5,4,5,2,1,2,2,3,#lamborghinidiablo|#diablo|#ldiablo|#diablodiablo|#lamborghinidiablodiablo|#ldiablodiablo,0.416666667
+1,Lamborghini,6,3,3,2,6,0,Huracan EVO,3,Huracan,10,7,4,6,2,1,2,2,3,#lamborghinihuracan|#huracan|#lhuracan|#huracanhuracan|#lamborghinihuracanhuracan|#lhuracanhuracan,0
+1,Lamborghini,6,11,3,2,6,0,Gallardo LP 550-2 Spyder,4,Gallardo,10,6,4,6,2,1,2,6,2,#lamborghinigallardo|#gallardo|#lgallardo|#gallardogallardo|#lamborghinigallardogallardo|#lgallardogallardo,0
+1,Lincoln,1,5,5,5,4,0,Navigator I,0,Navigator,8,4,4,1,2,5,8,6,2,#lincolnnavigator|#navigator|#lnavigator|#navigatornavigator|#lincolnnavigatornavigator|#lnavigatornavigator,0.275
+1,Lincoln,2,10,3,5,4,0,Nautilus,6,Nautilus,6,8,4,3,2,6,5,6,6,#lincolnnautilus|#nautilus|#lnautilus|#nautilusnautilus|#lincolnnautilusnautilus|#lnautilusnautilus,0.028888889
+1,Lotus,2,3,1,2,0,0,Exige III S Coupe,0,Exige,6,6,4,2,2,6,2,5,0,#lotusexige|#exige|#lexige|#exigeexige|#lotusexigeexige|#lexigeexige,0
+1,Land Rover,3,8,1,5,3,0,Freelander (LN),3,Freelander,4,5,4,5,1,2,5,1,2,#landroverfreelander|#freelander|#lfreelander|#freelanderfreelander|#landroverfreelanderfreelander|#lfreelanderfreelander,0.445914502
+1,Land Rover,0,5,3,5,6,1,Discovery V,0,Discovery,4,8,4,6,1,4,5,6,6,#landroverdiscovery|#discovery|#ldiscovery|#discoverydiscovery|#landroverdiscoverydiscovery|#ldiscoverydiscovery,0.18125
+1,Land Rover,1,8,6,4,6,0,Range Rover I,6,Range Rover,8,4,2,0,2,4,5,4,2,#landroverrangerover|#rangerover|#lrangerover|#rangeroverrange|#landroverrangeroverrange|#lrangeroverrange,0.166689394
+1,Land Rover,0,5,3,5,4,1,Range Rover Evoque II,4,Range Rover Evoque,4,6,4,6,1,3,5,5,4,#landroverrangeroverevoque|#rangeroverevoque|#lrangeroverevoque|#rangeroverevoquerange|#landroverrangeroverevoquerange|#lrangeroverevoquerange,0.271060806
+1,Lincoln,2,3,5,2,4,0,Mark VIII,2,Mark,8,4,4,5,2,5,4,5,6,#lincolnmark|#mark|#lmark|#markmark|#lincolnmarkmark|#lmarkmark,-0.375
+1,Lincoln,2,5,4,5,3,0,MKC (facelift 2018),5,MKC,4,6,4,2,1,5,5,5,4,#lincolnmkc|#mkc|#lmkc|#mkcmkc|#lincolnmkcmkc|#lmkcmkc,0.136363636
+1,Lotus,0,3,3,2,5,0,Esprit,2,Esprit,8,5,4,1,2,6,2,5,1,#lotusesprit|#esprit|#lesprit|#espritesprit|#lotusespritesprit|#lespritesprit,-0.05
+1,Lotus,3,11,1,2,0,0,"Elise II (Facelift 2010, series 3)",0,Elise,4,6,4,2,1,4,2,3,0,#lotuselise|#elise|#lelise|#eliseelise|#lotuseliseelise|#leliseelise,0.258333333
+1,Lotus,0,3,4,2,1,0,Europa S,0,Europa,4,6,4,4,1,4,2,3,0,#lotuseuropa|#europa|#leuropa|#europaeuropa|#lotuseuropaeuropa|#leuropaeuropa,0
+1,Lexus,6,5,4,5,4,2,RX IV,0,RX,6,10,4,3,2,5,5,5,5,#lexusrx|#rx|#lrx|#rxrx|#lexusrxrx|#lrxrx,0.125
+1,Lexus,6,3,4,2,5,0,LFA,3,LFA,10,6,4,1,2,1,2,6,3,#lexuslfa|#lfa|#llfa|#lfalfa|#lexuslfalfa|#llfalfa,-0.066666667
+1,Lexus,6,1,2,5,1,2,CT 200h (facelift 2014),5,CT,4,6,4,5,1,2,5,1,2,#lexusct|#ct|#lct|#ctct|#lexusctct|#lctct,0.289583333
+1,Isuzu,0,0,1,4,1,1,Gemini (JT),0,Gemini,4,4,2,4,1,1,5,1,1,#isuzugemini|#gemini|#igemini|#geminigemini|#isuzugeminigemini|#igeminigemini,0.239305556
+1,Isuzu,1,8,6,3,4,0,Rodeo Sport  (UTS-145),4,Rodeo,6,4,4,1,2,4,5,3,1,#isuzurodeo|#rodeo|#irodeo|#rodeorodeo|#isuzurodeorodeo|#irodeorodeo,0.04453125
+0,Isuzu,0,8,6,3,6,1,Mu,0,Mu,4,4,4,1,1,1,4,2,0,#isuzumu|#mu|#imu|#mumu|#isuzumumu|#imumu,0.470138889
+1,Invicta,2,3,5,2,4,0,S1,1,S1,8,5,4,5,2,6,2,5,1,#invictas1|#s1|#is1|#s1s1|#invictas1s1|#is1s1,0
+1,Isdera,2,3,3,2,4,0,Imperator,2,Imperator,8,5,4,3,2,6,2,6,1,#isderaimperator|#imperator|#iimperator|#imperatorimperator|#isderaimperatorimperator|#iimperatorimperator,-0.388888889
+1,Isuzu,2,8,6,5,6,0,Trooper (LS),6,Trooper,6,4,4,1,2,4,7,3,5,#isuzutrooper|#trooper|#itrooper|#troopertrooper|#isuzutroopertrooper|#itroopertrooper,0.083333333
+1,Isdera,2,6,5,2,4,0,Spyder,0,Spyder,6,5,4,1,1,4,2,3,2,#isderaspyder|#spyder|#ispyder|#spyderspyder|#isderaspyderspyder|#ispyderspyder,0
+0,Isuzu,0,8,6,5,6,1,Bighorn (SUV),4,Bighorn,4,5,4,1,1,1,5,3,3,#isuzubighorn|#bighorn|#ibighorn|#bighornbighorn|#isuzubighornbighorn|#ibighornbighorn,0.183333333
+1,Lexus,6,0,3,4,4,0,GS IV,0,GS,6,6,4,1,2,4,5,3,6,#lexusgs|#gs|#lgs|#gsgs|#lexusgsgs|#lgsgs,0.249791667
+1,Lexus,6,3,6,2,6,2,LC,6,LC,6,10,4,2,2,6,4,6,6,#lexuslc|#lc|#llc|#lclc|#lexuslclc|#llclc,-0.0125
+1,Lexus,6,10,3,5,3,2,NX (facelift 2017),6,NX,4,10,4,3,1,4,5,3,3,#lexusnx|#nx|#lnx|#nxnx|#lexusnxnx|#lnxnx,0
+1,Lexus,3,5,6,5,4,0,LX III (facelift 2015),0,LX,8,8,4,1,2,6,5,6,6,#lexuslx|#lx|#llx|#lxlx|#lexuslxlx|#llxlx,0.747248054
+1,Lexus,6,3,4,2,4,0,RC (facelift 2018),5,RC,6,8,4,3,4,6,4,5,5,#lexusrc|#rc|#lrc|#rcrc|#lexusrcrc|#lrcrc,-0.076190476
+1,Haima,1,5,3,5,3,0,S7 (facelift 2017),3,S7,4,6,4,3,1,4,5,2,3,#haimas7|#s7|#hs7|#s7s7|#haimas7s7|#hs7s7,0.226785714
+1,HSV,1,0,3,4,5,0,GTS Gen-F2,5,GTS,8,6,2,6,2,1,5,2,6,#hsvgts|#gts|#hgts|#gtsgts|#hsvgtsgts|#hgtsgts,0.55625
+1,HSV,1,0,3,4,5,0,GTSR,4,GTSR,8,6,2,6,2,1,5,2,6,#hsvgtsr|#gtsr|#hgtsr|#gtsrgtsr|#hsvgtsrgtsr|#hgtsrgtsr,-0.2
+1,Honda,6,1,0,5,0,0,N-One,0,N-One,3,0,4,0,1,0,4,0,2,#hondanone|#none|#hnone|#nonenone|#hondanonenone|#hnonenone,0.346604938
+1,GMC,5,11,6,5,6,0,Acadia I (facelift 2013),0,Acadia,6,6,4,4,2,5,5,5,2,#gmcacadia|#acadia|#gacadia|#acadiaacadia|#gmcacadiaacadia|#gacadiaacadia,0.477721088
+1,GMC,5,4,6,4,6,0,Canyon II Extended cab,5,Canyon,6,6,4,4,2,5,4,5,2,#gmccanyon|#canyon|#gcanyon|#canyoncanyon|#gmccanyoncanyon|#gcanyoncanyon,0.336772727
+1,GMC,1,5,3,5,4,0,Envoy II XL (GMT360),0,Envoy,8,4,4,6,2,5,7,6,2,#gmcenvoy|#envoy|#genvoy|#envoyenvoy|#gmcenvoyenvoy|#genvoyenvoy,0.711071429
+1,GMC,4,4,3,4,4,0,Sierra 1500 Crew Cab V Short Box,0,Sierra 1500,8,8,2,6,2,6,5,6,2,#gmcsierra1500|#sierra1500|#gsierra1500|#sierra1500sierra|#gmcsierra1500sierra|#gsierra1500sierra,-0.25
+1,GMC,0,4,3,4,4,1,Sierra HD Crew Cab Long Box,0,Sierra HD,8,6,4,1,2,1,5,2,2,#gmcsierrahd|#sierrahd|#gsierrahd|#sierrahdsierra|#gmcsierrahdsierra|#gsierrahdsierra,0.25
+0,Ginetta,2,3,2,2,1,0,G40,0,G40,4,5,4,5,1,1,2,2,0,#ginettag40|#g40|#gg40|#g40g40|#ginettag40g40|#gg40g40,0.13125
+1,Haima,5,5,3,5,3,0,S5,2,S5,4,5,4,3,1,2,5,1,3,#haimas5|#s5|#hs5|#s5s5|#haimas5s5|#hs5s5,0.298333333
+1,Great Wall,6,8,3,5,4,0,RUV,4,RUV,4,5,2,3,1,1,5,2,2,#greatwallruv|#ruv|#gruv|#ruvruv|#greatwallruvruv|#gruvruv,0.324949495
+0,Hennessey,1,3,4,2,4,0,Venom GT,1,Venom GT,8,6,2,4,2,1,2,2,5,#hennesseyvenomgt|#venomgt|#hvenomgt|#venomgtvenom|#hennesseyvenomgtvenom|#hvenomgtvenom,0.35
+1,Holden,1,8,6,5,6,0,Frontera (4-type),5,Frontera,6,4,4,1,2,4,5,3,4,#holdenfrontera|#frontera|#hfrontera|#fronterafrontera|#holdenfronterafrontera|#hfronterafrontera,0
+1,Holden,1,0,4,4,3,0,Commodore Sedan V (ZB),5,Commodore,4,9,4,4,1,5,5,4,6,#holdencommodore|#commodore|#hcommodore|#commodorecommodore|#holdencommodorecommodore|#hcommodorecommodore,0.127777778
+1,Holden,1,8,1,5,0,0,Cruze,0,Cruze,4,5,4,1,1,1,5,1,0,#holdencruze|#cruze|#hcruze|#cruzecruze|#holdencruzecruze|#hcruzecruze,0.166666667
+1,Honda,5,5,0,5,0,2,Vezel,2,Vezel,4,7,4,5,1,3,5,2,3,#hondavezel|#vezel|#hvezel|#vezelvezel|#hondavezelvezel|#hvezelvezel,0.268181818
+1,HSV,1,0,3,4,5,0,Clubsport Gen-F2,5,Clubsport,8,6,4,6,2,1,5,2,6,#hsvclubsport|#clubsport|#hclubsport|#clubsportclubsport|#hsvclubsportclubsport|#hclubsportclubsport,0.1375
+1,Holden,2,0,2,4,2,0,Astra,1,Astra,4,5,4,5,1,2,5,1,3,#holdenastra|#astra|#hastra|#astraastra|#holdenastraastra|#hastraastra,-0.1953125
+1,Honda,5,7,5,5,5,0,Odyssey V,6,Odyssey,6,10,4,6,2,5,8,4,2,#hondaodyssey|#odyssey|#hodyssey|#odysseyodyssey|#hondaodysseyodyssey|#hodysseyodyssey,0.418181818
+1,Honda,2,9,0,5,0,0,N-Box II,0,N-Box,3,0,4,1,1,0,4,0,2,#hondanbox|#nbox|#hnbox|#nboxnbox|#hondanboxnbox|#hnboxnbox,0.25
+1,Honda,4,6,4,2,1,0,S2000,2,S2000,4,6,4,3,1,4,2,2,0,#hondas2000|#s2000|#hs2000|#s2000s2000|#hondas2000s2000|#hs2000s2000,0.5
+0,Honda,2,12,3,5,4,0,Shuttle I,4,Shuttle,4,6,4,1,1,3,5,2,2,#hondashuttle|#shuttle|#hshuttle|#shuttleshuttle|#hondashuttleshuttle|#hshuttleshuttle,0.231060606
+1,Honda,4,1,2,5,1,0,Civic IX,2,Civic,4,5,4,2,1,3,5,2,2,#hondacivic|#civic|#hcivic|#civiccivic|#hondaciviccivic|#hciviccivic,0.259722222
+1,Honda,1,1,0,5,2,0,Concerto Hatch (HW),1,Concerto,4,4,4,5,1,2,5,1,2,#hondaconcerto|#concerto|#hconcerto|#concertoconcerto|#hondaconcertoconcerto|#hconcertoconcerto,0.346590909
+1,Honda,0,10,3,5,3,1,CR-V III (facelift 2010),5,CR-V,4,5,4,3,1,3,5,4,3,#hondacrv|#crv|#hcrv|#crvcrv|#hondacrvcrv|#hcrvcrv,0.227045455
+0,Honda,3,8,4,5,3,0,Element II,4,Element,4,6,4,1,1,3,5,2,2,#hondaelement|#element|#helement|#elementelement|#hondaelementelement|#helementelement,0.433068182
+0,Honda,2,7,5,5,5,0,Elysion,6,Elysion,6,6,4,6,2,4,8,3,6,#hondaelysion|#elysion|#helysion|#elysionelysion|#hondaelysionelysion|#helysionelysion,0
+1,Honda,6,0,0,4,0,2,Insight III,2,Insight,4,10,4,5,1,3,5,3,4,#hondainsight|#insight|#hinsight|#insightinsight|#hondainsightinsight|#hinsightinsight,0.252708333
+1,Honda,5,1,1,5,0,1,Jazz III (facelift 2017),1,Jazz,4,6,4,2,1,1,5,2,2,#hondajazz|#jazz|#hjazz|#jazzjazz|#hondajazzjazz|#hjazzjazz,0.4
+1,Honda,4,2,1,5,0,0,Airwave,1,Airwave,4,6,4,2,1,1,5,1,2,#hondaairwave|#airwave|#hairwave|#airwaveairwave|#hondaairwaveairwave|#hairwaveairwave,0.537936508
+1,Hyundai,5,5,4,5,3,0,Tucson III (facelift 2018),4,Tucson,4,6,4,1,1,4,5,3,4,#hyundaitucson|#tucson|#htucson|#tucsontucson|#hyundaitucsontucson|#htucsontucson,0.450178571
+1,Hyundai,6,11,2,4,1,0,Veloster II,2,Veloster,4,6,4,1,1,3,4,2,3,#hyundaiveloster|#veloster|#hveloster|#velosterveloster|#hyundaivelosterveloster|#hvelosterveloster,0.339033189
+0,Hummer,0,8,3,4,4,1,H1 I,0,H1,8,4,2,1,2,4,4,2,2,#hummerh1|#h1|#hh1|#h1h1|#hummerh1h1|#hh1h1,0
+1,Honda,5,0,1,4,0,1,Amaze II,0,Amaze,4,5,4,1,1,1,5,2,1,#hondaamaze|#amaze|#hamaze|#amazeamaze|#hondaamazeamaze|#hamazeamaze,0.452083333
+1,Honda,4,0,1,4,0,0,City VI (facelift 2017),1,City,4,0,4,2,1,2,5,1,2,#hondacity|#city|#hcity|#citycity|#hondacitycity|#hcitycity,0.4
+1,Hyundai,0,5,4,5,4,1,Santa Fe IV,6,Santa FE,4,8,4,1,1,4,5,6,5,#hyundaisantafe|#santafe|#hsantafe|#santafesanta|#hyundaisantafesanta|#hsantafesanta,0.55
+1,Hyundai,4,0,1,4,1,0,Solaris I Sedan (facelift 2014),1,Solaris,4,6,4,2,1,2,5,1,2,#hyundaisolaris|#solaris|#hsolaris|#solarissolaris|#hyundaisolarissolaris|#hsolarissolaris,0.210416667
+1,Hyundai,5,0,4,4,4,0,Sonata VII (LF facelift 2017),3,Sonata,4,6,4,1,1,4,5,3,5,#hyundaisonata|#sonata|#hsonata|#sonatasonata|#hyundaisonatasonata|#hsonatasonata,0.493885281
+1,Hyundai,0,0,0,4,2,0,Stellar,2,Stellar,4,4,2,4,1,1,5,0,2,#hyundaistellar|#stellar|#hstellar|#stellarstellar|#hyundaistellarstellar|#hstellarstellar,0.249431818
+1,Hyundai,3,3,3,2,4,0,Genesis Coupe (facelift 2012),6,Genesis,6,6,4,4,2,5,4,5,5,#hyundaigenesis|#genesis|#hgenesis|#genesisgenesis|#hyundaigenesisgenesis|#hgenesisgenesis,0.25
+1,Hyundai,5,0,5,4,4,0,Grandeur/Azera VI (IG),4,Grandeur/Azera,6,6,4,3,2,5,5,4,6,#hyundaigrandeurazera|#grandeurazera|#hgrandeurazera|#grandeurazeragrandeurazera|#hyundaigrandeurazeragrandeurazera|#hgrandeurazeragrandeurazera,0
+1,Hyundai,0,2,1,5,1,1,i30 III CW,6,i30,4,7,4,3,1,2,5,3,3,#hyundaii30|#i30|#hi30|#i30i30|#hyundaii30i30|#hi30i30,-0.2125
+1,Infiniti,5,5,4,5,5,0,QX60 (facelift 2016),6,QX60,6,1,4,4,2,5,7,5,6,#infinitiqx60|#qx60|#iqx60|#qx60qx60|#infinitiqx60qx60|#iqx60qx60,0.257070707
+1,Hyundai,0,10,0,5,1,1,i20 Active,4,i20,4,6,4,1,1,1,5,3,2,#hyundaii20|#i20|#hi20|#i20i20|#hyundaii20i20|#hi20i20,0.1
+1,Hyundai,3,1,0,5,0,0,i10 II,3,i10,4,5,4,1,1,1,5,0,0,#hyundaii10|#i10|#hi10|#i10i10|#hyundaii10i10|#hi10i10,0.507142857
+1,Hyundai,4,2,1,5,4,0,i40 Combi (facelift 2018),6,i40,4,6,4,4,1,2,5,1,5,#hyundaii40|#i40|#hi40|#i40i40|#hyundaii40i40|#hi40i40,0.21
+1,Hyundai,0,9,1,5,1,1,ix20 (facelift 2015),2,ix20,4,6,4,3,1,2,5,3,3,#hyundaiix20|#ix20|#hix20|#ix20ix20|#hyundaiix20ix20|#hix20ix20,0
+1,Hyundai,0,5,3,5,2,1,ix35 (Facelift 2013),4,ix35,4,6,4,5,1,4,5,5,3,#hyundaiix35|#ix35|#hix35|#ix35ix35|#hyundaiix35ix35|#hix35ix35,0
+1,Infiniti,3,3,4,2,6,0,Q60 II Coupe,5,Q60,6,7,4,4,2,6,4,6,6,#infinitiq60|#q60|#iq60|#q60q60|#infinitiq60q60|#iq60q60,0.384632035
+1,Infiniti,0,5,3,5,3,0,QX50 II,5,QX50,4,10,4,3,1,5,5,5,5,#infinitiqx50|#qx50|#iqx50|#qx50qx50|#infinitiqx50qx50|#iqx50qx50,0.434805195
+1,Hyundai,2,3,2,3,2,0,Coupe I (J2),1,Coupe,4,5,4,1,1,2,4,2,1,#hyundaicoupe|#coupe|#hcoupe|#coupecoupe|#hyundaicoupecoupe|#hcoupecoupe,0.172631874
+1,Hyundai,6,0,2,4,2,0,"Elantra VI (AD, facelift 2018)",2,Elantra,4,6,4,1,1,3,5,2,4,#hyundaielantra|#elantra|#helantra|#elantraelantra|#hyundaielantraelantra|#helantraelantra,0.203188131
+1,Ford,2,0,3,4,4,0,Taurus VII,5,Taurus,6,6,4,3,2,6,5,6,2,#fordtaurus|#taurus|#ftaurus|#taurustaurus|#fordtaurustaurus|#ftaurustaurus,0.31715535
+1,Ford,0,0,3,4,3,1,Mondeo Sedan IV,0,Mondeo,4,6,4,5,1,4,5,5,6,#fordmondeo|#mondeo|#fmondeo|#mondeomondeo|#fordmondeomondeo|#fmondeomondeo,0
+1,Ford,4,0,1,4,2,2,KA III,0,KA,4,5,4,1,1,1,5,1,1,#fordka|#ka|#fka|#kaka|#fordkaka|#fkaka,0
+1,Ford,0,5,3,5,3,1,Kuga II,0,Kuga,4,6,4,5,1,2,5,4,4,#fordkuga|#kuga|#fkuga|#kugakuga|#fordkugakuga|#fkugakuga,0.284090909
+1,Ford,6,3,6,2,3,0,Mustang VI (facelift 2018),4,Mustang,8,6,4,6,2,1,2,2,4,#fordmustang|#mustang|#fmustang|#mustangmustang|#fordmustangmustang|#fmustangmustang,0.318402778
+1,Ford,0,3,6,2,3,0,GT II,2,GT,6,7,4,4,2,1,2,2,4,#fordgt|#gt|#fgt|#gtgt|#fordgtgt|#fgtgt,0.5
+1,Ford,0,4,5,2,6,1,Ranger III Super Cab (facelift 2015),0,Ranger,5,6,4,1,1,4,5,6,2,#fordranger|#ranger|#franger|#rangerranger|#fordrangerranger|#frangerranger,0.369166667
+1,Ford,0,7,3,5,4,1,Galaxy III,0,Galaxy,4,6,4,5,1,4,5,6,6,#fordgalaxy|#galaxy|#fgalaxy|#galaxygalaxy|#fordgalaxygalaxy|#fgalaxygalaxy,0.3125
+1,Ford,6,3,6,2,3,0,Shelby III,4,Shelby,8,6,4,6,2,1,4,2,4,#fordshelby|#shelby|#fshelby|#shelbyshelby|#fordshelbyshelby|#fshelbyshelby,0.383333333
+0,Ford,2,0,6,4,4,0,"Scorpio I (GAE,GGE)",2,Scorpio,6,5,4,0,2,4,5,3,5,#fordscorpio|#scorpio|#fscorpio|#scorpioscorpio|#fordscorpioscorpio|#fscorpioscorpio,0.14875
+1,Ford,0,9,3,5,4,1,S-MAX II,0,S-MAX,4,6,4,5,1,4,5,6,6,#fordsmax|#smax|#fsmax|#smaxsmax|#fordsmaxsmax|#fsmaxsmax,0.404924242
+0,Ford,2,4,3,4,4,0,Sport Trac II,6,Sport Trac,6,5,2,3,2,4,5,4,2,#fordsporttrac|#sporttrac|#fsporttrac|#sporttracsport|#fordsporttracsport|#fsporttracsport,0
+1,Ford,6,5,2,5,2,0,EcoSport II (facelift 2017),3,EcoSport,4,6,4,2,1,3,5,2,2,#fordecosport|#ecosport|#fecosport|#ecosportecosport|#fordecosportecosport|#fecosportecosport,0.557407407
+1,Ford,2,5,5,5,3,0,Escape III,4,Escape,4,6,4,1,1,3,5,2,4,#fordescape|#escape|#fescape|#escapeescape|#fordescapeescape|#fescapeescape,-0.3296875
+1,Ford,4,5,6,5,4,0,Edge I (facelift 2011),6,Edge,6,6,4,4,2,5,5,4,6,#fordedge|#edge|#fedge|#edgeedge|#fordedgeedge|#fedgeedge,0.608333333
+1,Ford,4,0,2,4,1,0,"Escort Sedan (China, facelift 2018)",2,Escort,4,6,4,2,1,2,5,1,4,#fordescort|#escort|#fescort|#escortescort|#fordescortescort|#fescortescort,-0.125
+1,Ford,6,5,5,5,6,1,Everest III,0,Everest,5,6,4,1,1,4,5,6,6,#fordeverest|#everest|#feverest|#everesteverest|#fordeveresteverest|#feveresteverest,0.24
+1,Ford,2,5,6,5,4,0,Explorer V (facelift 2017),0,Explorer,6,6,4,4,2,6,7,6,6,#fordexplorer|#explorer|#fexplorer|#explorerexplorer|#fordexplorerexplorer|#fexplorerexplorer,0.065056818
+1,Ford,0,4,3,4,4,1,F-350 Super Duty IV Crew Cab,0,F-350,8,6,4,1,2,1,6,2,2,#fordf350|#f350|#ff350|#f350f350|#fordf350f350|#ff350f350,0.252792208
+1,Ford,2,8,3,5,4,0,Expedition IV MAX (U553),0,Expedition,6,10,4,6,2,6,8,2,2,#fordexpedition|#expedition|#fexpedition|#expeditionexpedition|#fordexpeditionexpedition|#fexpeditionexpedition,0.460884354
+1,Ford,0,1,0,5,0,1,Fiesta VIII,4,Fiesta,4,6,2,5,1,2,5,3,1,#fordfiesta|#fiesta|#ffiesta|#fiestafiesta|#fordfiestafiesta|#ffiestafiesta,0.516666667
+1,Ford,0,4,3,4,4,1,F-250 Super Duty IV Crew Cab,0,F-250,8,6,4,1,2,1,6,2,2,#fordf250|#f250|#ff250|#f250f250|#fordf250f250|#ff250f250,0.296969697
+1,Ford,0,4,3,4,4,1,F-450 Super Duty IV Crew Cab,0,F-450,8,6,4,1,2,1,6,2,2,#fordf450|#f450|#ff450|#f450f450|#fordf450f450|#ff450f450,-0.142640693
+1,Ford,0,2,3,5,1,1,Focus IV Wagon,6,Focus,4,6,4,5,1,3,5,5,4,#fordfocus|#focus|#ffocus|#focusfocus|#fordfocusfocus|#ffocusfocus,0.374469697
+1,Ford,2,1,0,5,1,0,B-MAX,1,B-MAX,3,5,4,2,1,2,5,1,1,#fordbmax|#bmax|#fbmax|#bmaxbmax|#fordbmaxbmax|#fbmaxbmax,0.193560606
+0,GAZ,0,0,3,5,4,0,14,0,14,8,3,2,5,2,4,7,6,2,#gaz14|#14|#g14|#1414|#gaz1414|#g1414,0.070959596
+1,Genesis,6,0,3,4,6,0,G90/EQ900,0,G90/EQ900,8,8,4,4,2,6,5,6,2,#genesisg90eq900|#g90eq900|#gg90eq900|#g90eq900g90eq900|#genesisg90eq900g90eq900|#gg90eq900g90eq900,0
+0,GAZ,0,8,2,4,3,0,69,4,69,4,3,2,1,1,0,5,1,0,#gaz69|#69|#g69|#6969|#gaz6969|#g6969,0.125
+0,Ford,0,5,3,3,4,0,Bronco I,4,Bronco,8,3,2,1,2,2,5,4,0,#fordbronco|#bronco|#fbronco|#broncobronco|#fordbroncobronco|#fbroncobronco,-0.069128788
+1,Ford,0,9,3,5,3,1,Grand C-MAX (facelift 2015),0,C-MAX,4,6,4,5,1,3,5,5,2,#fordcmax|#cmax|#fcmax|#cmaxgrand|#fordcmaxgrand|#fcmaxgrand,0.413095238
+1,Geely,2,0,3,4,2,0,Vision,1,Vision,4,5,4,3,1,2,5,1,3,#geelyvision|#vision|#gvision|#visionvision|#geelyvisionvision|#gvisionvision,0.328333333
+1,Geely,4,0,4,4,4,0,GT,4,Emgrand GT,6,6,4,4,2,5,5,4,6,#geelyemgrandgt|#emgrandgt|#gemgrandgt|#emgrandgtgt|#geelyemgrandgtgt|#gemgrandgtgt,0.416666667
+1,Geely,5,5,3,5,2,0,X7,3,Emgrand X7,4,6,4,3,1,2,5,2,3,#geelyemgrandx7|#emgrandx7|#gemgrandx7|#emgrandx7x7|#geelyemgrandx7x7|#gemgrandx7x7,0
+1,Force Motors,0,8,3,5,3,1,Gurkha Xplorer (facelift 2017) 5Door,4,Gurkha,4,6,4,3,1,0,5,2,5,#forcemotorsgurkha|#gurkha|#fgurkha|#gurkhagurkha|#forcemotorsgurkhagurkha|#fgurkhagurkha,0.4
+1,Infiniti,4,6,5,2,6,0,G37 Convertible,6,G37,6,7,4,4,2,6,4,5,6,#infinitig37|#g37|#ig37|#g37g37|#infinitig37g37|#ig37g37,0.145454545
+1,Fittipaldi,3,3,3,2,4,0,EF7,0,EF7,8,6,4,6,2,1,2,6,4,#fittipaldief7|#ef7|#fef7|#ef7ef7|#fittipaldief7ef7|#fef7ef7,0.6
+0,De Lorean,0,3,5,2,2,0,Dmc-12,1,Dmc-12,6,5,2,0,2,3,2,2,0,#deloreandmc12|#dmc12|#ddmc12|#dmc12dmc12|#deloreandmc12dmc12|#ddmc12dmc12,0.811111111
+1,Fiat,6,4,4,4,3,2,Toro,4,Toro,4,9,4,1,1,4,5,3,2,#fiattoro|#toro|#ftoro|#torotoro|#fiattorotoro|#ftorotoro,0
+1,Dodge,2,3,3,2,4,0,Viper Coupe (GTS),3,Viper,10,6,2,1,2,1,2,2,1,#dodgeviper|#viper|#dviper|#viperviper|#dodgeviperviper|#dviperviper,0.380681818
+1,Dodge,4,3,3,2,4,0,Challenger III (facelift 2014),6,Challenger,8,8,2,1,2,1,5,2,2,#dodgechallenger|#challenger|#dchallenger|#challengerchallenger|#dodgechallengerchallenger|#dchallengerchallenger,0.343181818
+1,Dodge,0,7,5,5,5,0,Caravan III LWB,4,Caravan,6,3,2,1,2,3,7,3,2,#dodgecaravan|#caravan|#dcaravan|#caravancaravan|#dodgecaravancaravan|#dcaravancaravan,0.158333333
+1,Dodge,3,0,3,4,6,0,Charger VI (LX),6,Charger,8,5,2,6,2,1,5,6,2,#dodgecharger|#charger|#dcharger|#chargercharger|#dodgechargercharger|#dchargercharger,0.708333333
+1,Dodge,1,4,6,4,6,0,Dakota III (facelift 2007),5,Dakota,8,5,2,4,2,4,5,5,2,#dodgedakota|#dakota|#ddakota|#dakotadakota|#dodgedakotadakota|#ddakotadakota,0.833333333
+1,Dodge,3,5,3,4,4,0,Durango III (facelift 2014),0,Durango,8,8,2,6,2,6,7,6,2,#dodgedurango|#durango|#ddurango|#durangodurango|#dodgedurangodurango|#ddurangodurango,0.1
+1,Dodge,2,4,3,4,4,0,Ram 1500 III (DR/DH),6,RAM,8,5,2,6,2,6,6,6,2,#dodgeram|#ram|#dram|#ramram|#dodgeramram|#dramram,0.123153409
+0,Derways,1,4,4,4,4,0,Antelope,5,Antelope,4,6,4,1,1,2,5,2,2,#derwaysantelope|#antelope|#dantelope|#antelopeantelope|#derwaysantelopeantelope|#dantelopeantelope,0.419444444
+1,Donkervoort,2,11,2,2,1,0,D8 GTO,3,D8,5,5,4,6,1,6,2,6,0,#donkervoortd8|#d8|#dd8|#d8d8|#donkervoortd8d8|#dd8d8,0.09375
+1,DS,6,10,3,5,3,1,4 Crossback,6,4,4,6,4,5,1,3,5,5,3,#ds4|#4|#d4|#44|#ds44|#d44,0.5
+1,DS,6,1,3,5,3,1,5,0,5,4,6,4,5,1,4,5,5,4,#ds5|#5|#d5|#55|#ds55|#d55,0.422380952
+0,Derways,1,4,4,4,4,0,Plutus,5,Plutus,4,6,4,1,1,2,5,2,5,#derwaysplutus|#plutus|#dplutus|#plutusplutus|#derwaysplutusplutus|#dplutusplutus,0.29375
+1,DS,6,5,0,5,2,1,7 Crossback,6,7,4,8,4,3,1,2,5,3,5,#ds7|#7|#d7|#77|#ds77|#d77,0.125
+1,Fiat,0,2,1,5,1,1,Tipo (356) Wagon,3,Tipo,4,6,4,1,1,2,5,4,3,#fiattipo|#tipo|#ftipo|#tipotipo|#fiattipotipo|#ftipotipo,0
+1,Ferrari,6,11,6,2,4,0,Monza SP,3,Monza,12,7,4,1,2,1,2,2,4,#ferrarimonza|#monza|#fmonza|#monzamonza|#ferrarimonzamonza|#fmonzamonza,0
+1,Ferrari,1,3,2,2,4,0,Testarossa,4,Testarossa,12,5,4,1,2,6,2,6,2,#ferraritestarossa|#testarossa|#ftestarossa|#testarossatestarossa|#ferraritestarossatestarossa|#ftestarossatestarossa,0.425925926
+1,Eadon Green,5,3,3,2,4,0,Zeclat,3,Zeclat,8,8,4,6,2,1,2,2,4,#eadongreenzeclat|#zeclat|#ezeclat|#zeclatzeclat|#eadongreenzeclatzeclat|#ezeclatzeclat,0
+0,Fiat,1,1,0,5,1,0,Palio (178),0,Palio,4,5,2,0,1,0,5,0,0,#fiatpalio|#palio|#fpalio|#paliopalio|#fiatpaliopalio|#fpaliopalio,0.7
+1,Fiat,2,1,0,5,1,0,Punto Evo (199),1,Punto,4,5,4,3,1,2,5,2,1,#fiatpunto|#punto|#fpunto|#puntopunto|#fiatpuntopunto|#fpuntopunto,0
+1,Fiat,1,0,1,4,1,0,Siena (178),0,Siena,4,5,2,0,1,0,5,0,0,#fiatsiena|#siena|#fsiena|#sienasiena|#fiatsienasiena|#fsienasiena,0.3375
+1,Felino,4,3,3,2,3,0,cB7,1,cB7,8,6,2,6,2,1,2,2,1,#felinocb7|#cb7|#fcb7|#cb7cb7|#felinocb7cb7|#fcb7cb7,0
+1,Ferrari,6,3,6,2,6,2,FXX-K Evo,2,FXX,12,7,4,0,2,1,2,2,2,#ferrarifxx|#fxx|#ffxx|#fxxfxxk|#ferrarifxxfxxk|#ffxxfxxk,0.305
+1,Ferrari,6,3,6,2,4,0,F12 Berlinetta,4,F12,12,7,4,0,2,1,4,2,4,#ferrarif12|#f12|#ff12|#f12f12|#ferrarif12f12|#ff12f12,0.266666667
+1,Ferrari,6,3,6,3,4,0,FF,4,FF,12,7,4,0,2,1,4,2,2,#ferrariff|#ff|#fff|#ffff|#ferrariffff|#fffff,0.318181818
+1,Ferrari,4,3,5,2,4,0,Maranello,5,Maranello,12,6,4,1,2,1,2,2,1,#ferrarimaranello|#maranello|#fmaranello|#maranellomaranello|#ferrarimaranellomaranello|#fmaranellomaranello,0.55
+1,Ferrari,5,3,5,2,4,0,Enzo,2,Enzo,12,6,5,0,2,1,2,2,3,#ferrarienzo|#enzo|#fenzo|#enzoenzo|#ferrarienzoenzo|#fenzoenzo,0.214285714
+1,Ferrari,4,3,3,2,6,0,F355 Berlinetta,3,F355,8,6,5,1,2,6,2,5,1,#ferrarif355|#f355|#ff355|#f355f355|#ferrarif355f355|#ff355f355,0
+1,Ferrari,1,11,4,2,6,0,California T,4,California,8,7,4,2,2,1,2,2,4,#ferraricalifornia|#california|#fcalifornia|#californiacalifornia|#ferraricaliforniacalifornia|#fcaliforniacalifornia,0.284438776
+0,Ferrari,4,6,4,2,4,0,Barchetta,4,Barchetta,12,6,4,0,2,1,2,6,1,#ferraribarchetta|#barchetta|#fbarchetta|#barchettabarchetta|#ferraribarchettabarchetta|#fbarchettabarchetta,0.8
+1,Fiat,5,1,2,5,1,0,Argo,1,Argo,4,5,4,4,1,2,5,2,2,#fiatargo|#argo|#fargo|#argoargo|#fiatargoargo|#fargoargo,0.432291667
+1,Fiat,5,0,2,4,1,0,Cronos,2,Cronos,4,6,4,2,1,2,5,2,2,#fiatcronos|#cronos|#fcronos|#cronoscronos|#fiatcronoscronos|#fcronoscronos,0.8
+1,Fiat,6,0,1,4,1,1,Linea,2,Linea,4,6,4,2,1,1,5,3,3,#fiatlinea|#linea|#flinea|#linealinea|#fiatlinealinea|#flinealinea,0
+1,Ferrari,5,3,5,2,4,0,612 Scaglietti,5,612 Scaglietti,12,6,4,1,2,1,4,2,2,#ferrari612scaglietti|#612scaglietti|#f612scaglietti|#612scaglietti612|#ferrari612scaglietti612|#f612scaglietti612,0.275
+0,Ferrari,5,3,5,2,4,0,599 GTB Fiorano,4,599,12,6,4,0,2,1,2,2,5,#ferrari599|#599|#f599|#599599|#ferrari599599|#f599599,0.01875
+0,Ferrari,2,3,2,2,4,0,412 I,5,412,12,5,2,1,2,6,4,6,4,#ferrari412|#412|#f412|#412412|#ferrari412412|#f412412,0.474734848
+1,Ferrari,4,6,3,2,4,0,348 TS,3,348,8,5,4,0,2,6,2,4,1,#ferrari348|#348|#f348|#348348|#ferrari348348|#f348348,-0.291666667
+1,Ferrari,4,3,3,2,4,0,360 Modena,2,360,8,6,5,1,2,6,2,5,2,#ferrari360|#360|#f360|#360360|#ferrari360360|#f360360,0.251893939
+1,Ferrari,4,3,4,2,4,0,456 GT,6,456,12,4,4,0,2,1,4,6,2,#ferrari456|#456|#f456|#456456|#ferrari456456|#f456456,0.136363636
+1,Ferrari,5,3,5,2,4,0,430,3,430,8,5,4,1,2,1,2,6,2,#ferrari430|#430|#f430|#430430|#ferrari430430|#f430430,0.5
+1,Ferrari,3,3,2,2,4,0,512 M,4,512,12,5,4,1,2,1,2,6,2,#ferrari512|#512|#f512|#512512|#ferrari512512|#f512512,0.05
+1,Fiat,0,5,3,5,2,1,500X Cross/City Cross (facelift 2019),3,500,4,9,4,6,1,3,5,4,2,#fiat500|#500|#f500|#500500x|#fiat500500x|#f500500x,0.416666667
+1,Chery,5,5,3,5,3,0,Tiggo 5x,3,Tiggo 5x,4,6,4,3,1,3,5,2,3,#cherytiggo5x|#tiggo5x|#ctiggo5x|#tiggo5xtiggo|#cherytiggo5xtiggo|#ctiggo5xtiggo,0
+1,Citroen,6,5,0,5,2,1,C5 Aircross,6,C5,4,8,4,3,1,2,5,3,5,#citroenc5|#c5|#cc5|#c5c5|#citroenc5c5|#cc5c5,0
+1,Dacia,4,0,0,4,1,0,Logan II (facelift 2016),1,Logan,3,5,4,3,1,0,5,0,3,#dacialogan|#logan|#dlogan|#loganlogan|#dacialoganlogan|#dloganlogan,0
+1,Dacia,1,0,1,5,1,0,Nova,0,Nova,4,5,2,1,1,0,5,0,1,#dacianova|#nova|#dnova|#novanova|#dacianovanova|#dnovanova,0
+0,Daihatsu,1,8,1,5,1,0,Xenia,2,Xenia,4,5,2,2,1,1,5,0,4,#daihatsuxenia|#xenia|#dxenia|#xeniaxenia|#daihatsuxeniaxenia|#dxeniaxenia,0.75
+1,Chevrolet,4,5,6,5,5,0,Traverse II,6,Traverse,6,9,4,4,2,6,5,5,2,#chevrolettraverse|#traverse|#ctraverse|#traversetraverse|#chevrolettraversetraverse|#ctraversetraverse,0.23963945
+1,Chevrolet,4,5,3,5,4,2,Suburban (GMT K2YC/G),0,Suburban,8,6,2,6,2,6,9,6,2,#chevroletsuburban|#suburban|#csuburban|#suburbansuburban|#chevroletsuburbansuburban|#csuburbansuburban,0.401818182
+1,Chevrolet,4,5,3,5,4,0,Tahoe (GMT K2UC/G),0,Tahoe,8,6,2,6,2,6,7,6,6,#chevrolettahoe|#tahoe|#ctahoe|#tahoetahoe|#chevrolettahoetahoe|#ctahoetahoe,0.419791667
+0,Chevrolet,0,7,5,5,5,0,Tavera,4,Tavera,4,4,2,5,1,2,7,2,2,#chevrolettavera|#tavera|#ctavera|#taveratavera|#chevrolettaveratavera|#ctaveratavera,0
+1,Chevrolet,0,5,1,5,2,1,Trax,3,Trax,4,6,4,4,1,2,5,3,2,#chevrolettrax|#trax|#ctrax|#traxtrax|#chevrolettraxtrax|#ctraxtrax,0.163257576
+1,ChangAn,5,9,2,5,2,0,Linmax,3,Linmax,4,5,4,2,1,2,5,1,5,#changanlinmax|#linmax|#clinmax|#linmaxlinmax|#changanlinmaxlinmax|#clinmaxlinmax,0
+1,ChangAn,5,0,3,4,3,0,Raeton CC,3,Raeton,4,6,4,3,1,3,5,2,5,#changanraeton|#raeton|#craeton|#raetonraeton|#changanraetonraeton|#craetonraeton,0
+1,Chevrolet,6,4,3,4,4,0,Silverado 1500 Crew Cab IV Standard Box,0,Silverado,6,6,2,6,2,5,5,5,2,#chevroletsilverado|#silverado|#csilverado|#silveradosilverado|#chevroletsilveradosilverado|#csilveradosilverado,0.224583333
+1,Chevrolet,5,0,0,4,1,0,Sonic I Sedan (facelift 2016),2,Sonic,4,6,4,2,1,2,5,2,2,#chevroletsonic|#sonic|#csonic|#sonicsonic|#chevroletsonicsonic|#csonicsonic,0.0703125
+1,Chevrolet,4,1,0,5,0,0,Spark IV,1,Spark,4,0,4,2,1,1,4,0,0,#chevroletspark|#spark|#cspark|#sparkspark|#chevroletsparkspark|#csparkspark,0
+1,Chevrolet,4,4,3,2,4,0,SSR,0,SSR,8,6,2,6,2,6,2,6,6,#chevroletssr|#ssr|#cssr|#ssrssr|#chevroletssrssr|#cssrssr,0
+1,ChangAn,4,1,1,5,0,0,Benni,0,Benni,4,5,4,2,1,1,5,1,0,#changanbenni|#benni|#cbenni|#bennibenni|#changanbennibenni|#cbennibenni,0.441256313
+1,ChangAn,5,5,3,5,3,0,CS55,3,CS55,4,6,4,3,1,3,5,2,3,#changancs55|#cs55|#ccs55|#cs55cs55|#changancs55cs55|#ccs55cs55,1
+1,ChangAn,5,5,3,5,4,0,CS95,0,CS95,4,6,4,3,1,4,5,5,5,#changancs95|#cs95|#ccs95|#cs95cs95|#changancs95cs95|#ccs95cs95,0
+0,Chevrolet,1,8,2,5,3,0,Niva,2,Niva,4,5,2,1,1,0,5,0,1,#chevroletniva|#niva|#cniva|#nivaniva|#chevroletnivaniva|#cnivaniva,0
+1,Chevrolet,2,0,0,4,3,0,Malibu IX (facelift 2019),3,Malibu,4,0,4,4,1,3,5,3,6,#chevroletmalibu|#malibu|#cmalibu|#malibumalibu|#chevroletmalibumalibu|#cmalibumalibu,0
+0,Chevrolet,2,4,3,4,4,0,LUV D-MAX,5,LUV D-MAX,6,5,2,1,2,4,5,3,2,#chevroletluvdmax|#luvdmax|#cluvdmax|#luvdmaxluv|#chevroletluvdmaxluv|#cluvdmaxluv,0
+1,Chevrolet,3,9,2,5,4,0,Orlando I,3,Orlando,4,6,4,5,1,2,7,2,5,#chevroletorlando|#orlando|#corlando|#orlandoorlando|#chevroletorlandoorlando|#corlandoorlando,0.42
+1,Chevrolet,2,1,1,2,3,0,Geo Storm,2,Geo Storm,4,4,4,1,1,2,4,1,1,#chevroletgeostorm|#geostorm|#cgeostorm|#geostormgeo|#chevroletgeostormgeo|#cgeostormgeo,-0.314848485
+1,Chevrolet,3,6,3,2,5,0,Camaro VI Convertible (facelift 2018),6,Camaro,8,10,2,6,2,1,4,2,5,#chevroletcamaro|#camaro|#ccamaro|#camarocamaro|#chevroletcamarocamaro|#ccamarocamaro,0.056092172
+1,Chevrolet,3,5,4,5,4,0,Captiva I (facelift 2015),4,Captiva,4,6,4,1,1,3,7,2,4,#chevroletcaptiva|#captiva|#ccaptiva|#captivacaptiva|#chevroletcaptivacaptiva|#ccaptivacaptiva,0.516666667
+1,Chevrolet,4,4,6,4,6,0,Colorado Crew Cab Long Box (2019),6,Colorado,6,8,4,4,2,6,5,5,2,#chevroletcolorado|#colorado|#ccolorado|#coloradocolorado|#chevroletcoloradocolorado|#ccoloradocolorado,0.225
+1,Chevrolet,0,0,3,4,3,1,Cruze Sedan,3,Cruze,4,6,4,6,1,3,5,5,4,#chevroletcruze|#cruze|#ccruze|#cruzecruze|#chevroletcruzecruze|#ccruzecruze,0.166666667
+1,Chevrolet,4,3,3,2,4,0,Corvette Coupe (C6),3,Corvette,8,6,4,6,2,1,2,2,4,#chevroletcorvette|#corvette|#ccorvette|#corvettecorvette|#chevroletcorvettecorvette|#ccorvettecorvette,0.194264069
+1,Chevrolet,5,5,4,5,5,0,Equinox II (facelift 2016),5,Equinox,4,6,4,1,1,4,5,3,6,#chevroletequinox|#equinox|#cequinox|#equinoxequinox|#chevroletequinoxequinox|#cequinoxequinox,0.286666667
+1,Chevrolet,5,0,6,4,4,0,Impala X,4,Impala,6,6,4,4,2,5,5,5,6,#chevroletimpala|#impala|#cimpala|#impalaimpala|#chevroletimpalaimpala|#cimpalaimpala,0.119494949
+1,Chrysler,5,7,3,5,5,0,Pacifica II,6,Pacifica,6,9,4,2,2,5,5,4,2,#chryslerpacifica|#pacifica|#cpacifica|#pacificapacifica|#chryslerpacificapacifica|#cpacificapacifica,0.109375
+1,Chrysler,2,6,3,2,1,0,Prowler,2,Prowler,6,4,4,1,2,5,2,4,6,#chryslerprowler|#prowler|#cprowler|#prowlerprowler|#chryslerprowlerprowler|#cprowlerprowler,0.472106481
+1,Chrysler,2,6,3,2,4,0,Sebring Convertible III,3,Sebring,6,4,4,1,2,4,4,4,5,#chryslersebring|#sebring|#csebring|#sebringsebring|#chryslersebringsebring|#csebringsebring,0
+1,Chrysler,1,6,3,2,6,0,Viper Rt/10,4,Viper,10,6,2,1,2,6,2,2,1,#chryslerviper|#viper|#cviper|#viperviper|#chryslerviperviper|#cviperviper,0.380681818
+0,Chevrolet,1,4,3,4,4,0,Avalanche,0,Avalanche,8,6,2,1,2,6,5,2,2,#chevroletavalanche|#avalanche|#cavalanche|#avalancheavalanche|#chevroletavalancheavalanche|#cavalancheavalanche,1
+1,Chevrolet,1,1,1,3,1,0,Aveo Hatchback 3d (facelift),1,Aveo,4,4,4,0,1,1,5,1,1,#chevroletaveo|#aveo|#caveo|#aveoaveo|#chevroletaveoaveo|#caveoaveo,-0.2
+1,Chevrolet,4,10,6,5,6,0,Blazer (2019),6,Blazer,6,9,4,4,2,5,5,5,6,#chevroletblazer|#blazer|#cblazer|#blazerblazer|#chevroletblazerblazer|#cblazerblazer,0.166035354
+0,Chrysler,3,1,3,5,4,0,Nassau,6,Nassau,8,5,2,6,2,6,4,6,2,#chryslernassau|#nassau|#cnassau|#nassaunassau|#chryslernassaunassau|#cnassaunassau,0.176777447
+1,Chrysler,3,0,3,4,4,0,200 I,4,200,6,6,4,2,2,5,5,4,5,#chrysler200|#200|#c200|#200200|#chrysler200200|#c200200,-0.213333333
+1,Chrysler,3,0,3,4,5,0,300 II (facelift 2015),6,300,6,8,4,2,2,5,5,4,2,#chrysler300|#300|#c300|#300300|#chrysler300300|#c300300,0
+1,Chrysler,0,3,5,2,3,0,Crossfire,3,Crossfire,6,5,2,3,2,6,2,5,0,#chryslercrossfire|#crossfire|#ccrossfire|#crossfirecrossfire|#chryslercrossfirecrossfire|#ccrossfirecrossfire,0.166477273
+1,Chrysler,0,7,6,5,6,0,Grand Voyager V,4,Grand Voyager,6,4,2,1,2,3,7,3,2,#chryslergrandvoyager|#grandvoyager|#cgrandvoyager|#grandvoyagergrand|#chryslergrandvoyagergrand|#cgrandvoyagergrand,0
+1,Chrysler,0,3,4,2,2,0,LE Baron Coupe,2,LE Baron,4,4,2,1,1,3,5,3,2,#chryslerlebaron|#lebaron|#clebaron|#lebaronle|#chryslerlebaronle|#clebaronle,0.136363636
+1,Citroen,6,1,0,5,0,1,C3  III,4,C3,4,5,2,5,1,1,5,3,2,#citroenc3|#c3|#cc3|#c3c3|#citroenc3c3|#cc3c3,0.166666667
+1,Citroen,6,11,3,5,2,1,C4 Grand SpaceTourer,0,C4,4,8,4,3,1,3,7,5,6,#citroenc4|#c4|#cc4|#c4c4|#citroenc4c4|#cc4c4,0.135122054
+1,Citroen,0,11,3,5,6,1,C8 (Phase I),5,C8,4,4,4,5,1,1,7,3,6,#citroenc8|#c8|#cc8|#c8c8|#citroenc8c8|#cc8c8,0
+1,Citroen,0,1,6,5,4,0,CX II,2,CX,4,5,2,6,1,3,5,3,6,#citroencx|#cx|#ccx|#cxcx|#citroencxcx|#ccxcx,0.334090909
+0,Citroen,0,6,5,2,4,0,DS III Cabriolet Chapron,2,DS,4,4,2,4,1,1,2,1,2,#citroends|#ds|#cds|#dsds|#citroendsds|#cdsds,0.413492063
+1,Citroen,0,1,3,5,3,1,DS4,6,DS4,4,6,4,5,1,3,5,4,3,#citroends4|#ds4|#cds4|#ds4ds4|#citroends4ds4|#cds4ds4,0.468181818
+1,Citroen,6,1,3,5,3,1,DS5,4,DS5,4,6,4,5,1,3,5,4,4,#citroends5|#ds5|#cds5|#ds5ds5|#citroends5ds5|#cds5ds5,0
+0,Citroen,0,6,1,2,4,0,ID Cabriolet Chapron,2,ID,4,4,2,1,1,0,4,1,2,#citroenid|#id|#cid|#idid|#citroenidid|#cidid,0.223636364
+1,Citroen,0,11,3,5,4,1,SpaceTourer XL,0,SpaceTourer,4,6,4,5,1,3,5,5,2,#citroenspacetourer|#spacetourer|#cspacetourer|#spacetourerspacetourer|#citroenspacetourerspacetourer|#cspacetourerspacetourer,0.220606061
+1,Citroen,0,5,3,5,3,1,C-Crosser,5,C-Crosser,4,6,4,1,1,3,5,5,4,#citroenccrosser|#ccrosser|#cccrosser|#ccrosserccrosser|#citroenccrosserccrosser|#cccrosserccrosser,0
+0,Citroen,0,1,1,3,0,0,Axel,0,Axel,4,5,2,0,0,0,4,0,0,#citroenaxel|#axel|#caxel|#axelaxel|#citroenaxelaxel|#caxelaxel,-0.1
+0,Dacia,0,12,0,5,1,0,1300 Combi,1,1300,4,4,2,1,1,0,5,0,1,#dacia1300|#1300|#d1300|#13001300|#dacia13001300|#d13001300,0.29375
+0,Citroen,0,4,0,3,0,0,Acadiane,0,Acadiane,2,4,2,0,0,0,2,0,2,#citroenacadiane|#acadiane|#cacadiane|#acadianeacadiane|#citroenacadianeacadiane|#cacadianeacadiane,0
+0,Citroen,0,0,0,4,0,0,2 CV,0,2 CV,2,4,2,0,0,0,5,0,0,#citroen2cv|#2cv|#c2cv|#2cv2|#citroen2cv2|#c2cv2,0.253203914
+0,Citroen,0,0,0,4,0,0,Ami 10,0,AMI,4,4,2,0,0,0,4,0,0,#citroenami|#ami|#cami|#amiami|#citroenamiami|#camiami,0.25
+0,Citroen,1,1,0,5,2,0,BX Phase II,0,BX,4,4,2,1,1,0,5,0,3,#citroenbx|#bx|#cbx|#bxbx|#citroenbxbx|#cbxbx,0.424188312
+1,Citroen,0,0,0,4,1,1,"C-Elysee II (Phase I, 2012)",1,C-Elysee,4,5,2,5,1,1,5,2,3,#citroencelysee|#celysee|#ccelysee|#celyseecelysee|#citroencelyseecelysee|#ccelyseecelysee,0
+1,Daewoo,5,1,1,5,1,0,Nexia Combi (KLETN),0,Nexia,4,5,4,2,1,1,5,1,2,#daewoonexia|#nexia|#dnexia|#nexianexia|#daewoonexianexia|#dnexianexia,0
+0,Daewoo,0,1,0,5,0,0,Tico (KLY3),0,Tico,3,5,2,0,1,0,4,0,0,#daewootico|#tico|#dtico|#ticotico|#daewooticotico|#dticotico,0
+1,Daihatsu,6,9,0,5,0,0,Sigra,0,Sigra,3,5,4,3,1,0,7,2,2,#daihatsusigra|#sigra|#dsigra|#sigrasigra|#daihatsusigrasigra|#dsigrasigra,0.218181818
+1,Daihatsu,0,8,5,3,3,1,"Rocky Hard Top (F7,F8)",4,Rocky,4,5,2,1,1,1,5,3,0,#daihatsurocky|#rocky|#drocky|#rockyrocky|#daihatsurockyrocky|#drockyrocky,0
+1,Daihatsu,0,1,0,5,0,0,Sonica,0,Sonica,3,6,4,0,1,0,4,0,1,#daihatsusonica|#sonica|#dsonica|#sonicasonica|#daihatsusonicasonica|#dsonicasonica,0
+1,Daihatsu,6,5,0,5,1,0,Terios III (J300),2,Terios,4,5,4,6,1,1,7,1,4,#daihatsuterios|#terios|#dterios|#teriosterios|#daihatsuteriosterios|#dteriosterios,0.35
+1,Daewoo,2,6,5,2,6,0,G2X,2,G2X,4,5,4,5,1,3,2,2,1,#daewoog2x|#g2x|#dg2x|#g2xg2x|#daewoog2xg2x|#dg2xg2x,-0.150520833
+1,Daihatsu,3,1,0,3,0,0,Opti (L3),0,Opti,3,6,4,0,1,0,4,0,0,#daihatsuopti|#opti|#dopti|#optiopti|#daihatsuoptiopti|#doptiopti,0.44
+1,Daihatsu,0,7,0,4,1,0,Atrai/extol,0,Atrai/extol,3,5,4,0,1,0,7,0,1,#daihatsuatraiextol|#atraiextol|#datraiextol|#atraiextolatraiextol|#daihatsuatraiextolatraiextol|#datraiextolatraiextol,0
+1,Daihatsu,5,1,0,5,0,0,Ayla (facelift 2017),0,Ayla,3,4,4,3,1,0,5,0,1,#daihatsuayla|#ayla|#dayla|#aylaayla|#daihatsuaylaayla|#daylaayla,-0.026363636
+0,Daihatsu,2,1,0,5,0,0,Ceria/Perodua Kancil/Kelisa,1,Ceria,3,4,4,1,1,0,4,0,2,#daihatsuceria|#ceria|#dceria|#ceriaceriaperodua|#daihatsuceriaceriaperodua|#dceriaceriaperodua,0.2125
+1,Daihatsu,1,0,1,4,1,0,Charade IV (G200),0,Charade,4,4,4,5,1,1,5,1,0,#daihatsucharade|#charade|#dcharade|#charadecharade|#daihatsucharadecharade|#dcharadecharade,0.193181818
+1,Daihatsu,1,1,0,5,0,0,Cuore V (L5),0,Cuore,3,5,4,1,1,0,5,0,0,#daihatsucuore|#cuore|#dcuore|#cuorecuore|#daihatsucuorecuore|#dcuorecuore,0
+1,Daihatsu,1,8,1,3,3,0,Feroza Hard Top (F300),1,Feroza,4,5,4,5,1,1,4,0,0,#daihatsuferoza|#feroza|#dferoza|#ferozaferoza|#daihatsuferozaferoza|#dferozaferoza,0.3
+1,Daihatsu,1,7,0,5,0,0,Move (L9),0,Move,3,5,4,1,1,0,4,0,0,#daihatsumove|#move|#dmove|#movemove|#daihatsumovemove|#dmovemove,0.528571429
+1,Dallas,0,8,1,2,3,1,FUN,0,Fun,4,5,2,5,1,0,2,0,0,#dallasfun|#fun|#dfun|#funfun|#dallasfunfun|#dfunfun,0.484348958
+1,Datsun,4,1,2,5,1,0,mi-DO,1,mi-DO,4,4,2,0,1,1,5,1,1,#datsunmido|#mido|#dmido|#midomido|#datsunmidomido|#dmidomido,0.525
+0,Daimler,1,12,4,5,4,0,Super Eight,4,Super Eight,8,6,4,6,2,6,5,6,2,#daimlersupereight|#supereight|#dsupereight|#supereightsuper|#daimlersupereightsuper|#dsupereightsuper,0.179012346
+1,Dallara,5,11,4,5,4,0,Stradale,0,Stradale,4,6,4,1,1,6,2,6,1,#dallarastradale|#stradale|#dstradale|#stradalestradale|#dallarastradalestradale|#dstradalestradale,-0.125
+1,Fiat,2,6,0,2,1,0,124 Spider (2016),1,124,4,6,4,3,1,2,2,3,0,#fiat124|#124|#f124|#124124|#fiat124124|#f124124,0.2
+1,BAC,6,11,5,5,0,0,Mono,0,Mono,4,6,4,1,1,5,1,4,2,#bacmono|#mono|#bmono|#monomono|#bacmonomono|#bmonomono,0.25
+1,Bentley,0,0,3,4,4,0,Flying Spur (facelift 2015),0,Flying Spur,12,8,4,6,3,1,5,2,2,#bentleyflyingspur|#flyingspur|#bflyingspur|#flyingspurflying|#bentleyflyingspurflying|#bflyingspurflying,0.429868627
+1,Bugatti,0,3,2,2,4,0,EB 110,3,EB 110,12,6,5,0,2,1,2,2,2,#bugattieb110|#eb110|#beb110|#eb110eb|#bugattieb110eb|#beb110eb,0
+1,Bugatti,0,3,6,2,4,0,Divo,6,Divo,16,7,4,5,3,1,2,2,4,#bugattidivo|#divo|#bdivo|#divodivo|#bugattidivodivo|#bdivodivo,0.14375
+1,Bristol,3,11,6,2,2,0,Bullet,1,Bullet,8,6,4,5,2,6,2,6,2,#bristolbullet|#bullet|#bbullet|#bulletbullet|#bristolbulletbullet|#bbulletbullet,0.44
+1,Brabham,3,3,6,2,4,0,BT62,0,BT62,8,6,4,1,2,1,2,2,4,#brabhambt62|#bt62|#bbt62|#bt62bt62|#brabhambt62bt62|#bbt62bt62,0
+1,Bentley,6,3,6,3,4,0,Brooklands II,0,Brooklands,8,6,4,5,2,1,4,2,2,#bentleybrooklands|#brooklands|#bbrooklands|#brooklandsbrooklands|#bentleybrooklandsbrooklands|#bbrooklandsbrooklands,0.033333333
+1,Bentley,4,5,5,5,6,0,Bentayga,0,Bentayga,8,8,4,5,2,1,5,2,2,#bentleybentayga|#bentayga|#bbentayga|#bentaygabentayga|#bentleybentaygabentayga|#bbentaygabentayga,0.281129477
+1,Buick,4,0,3,4,3,0,LaCrosse III China,4,LaCrosse,4,9,4,3,1,5,5,4,6,#buicklacrosse|#lacrosse|#blacrosse|#lacrosselacrosse|#buicklacrosselacrosse|#blacrosselacrosse,0.36703125
+1,Buick,4,0,1,4,4,2,Regal V Sedan,3,Regal,4,6,4,2,1,1,5,1,5,#buickregal|#regal|#bregal|#regalregal|#buickregalregal|#bregalregal,0.407522491
+1,Buick,0,3,3,2,5,0,Reatta Coupe,3,Reatta,6,4,2,4,2,3,2,3,1,#buickreatta|#reatta|#breatta|#reattareatta|#buickreattareatta|#breattareatta,0
+1,Cadillac,0,3,5,2,4,0,XLR,5,XLR,8,6,4,3,2,1,2,6,4,#cadillacxlr|#xlr|#cxlr|#xlrxlr|#cadillacxlrxlr|#cxlrxlr,0.36453125
+1,Cadillac,3,2,6,5,4,0,SRX,6,SRX,8,5,4,3,2,6,7,5,2,#cadillacsrx|#srx|#csrx|#srxsrx|#cadillacsrxsrx|#csrxsrx,0.73125
+1,Buick,5,8,5,5,6,0,Enclave,0,Enclave,6,6,4,5,2,5,7,4,2,#buickenclave|#enclave|#benclave|#enclaveenclave|#buickenclaveenclave|#benclaveenclave,0.232222222
+1,Cadillac,4,5,6,5,6,0,XT6,0,XT6,6,9,4,4,2,6,7,5,6,#cadillacxt6|#xt6|#cxt6|#xt6xt6|#cadillacxt6xt6|#cxt6xt6,0.207575758
+1,Cadillac,5,5,6,5,5,0,XT5,6,XT5,6,8,4,4,2,6,5,5,6,#cadillacxt5|#xt5|#cxt5|#xt5xt5|#cadillacxt5xt5|#cxt5xt5,0
+1,Cadillac,5,0,6,4,4,0,XTS,6,XTS,6,6,4,4,2,5,5,4,6,#cadillacxts|#xts|#cxts|#xtsxts|#cadillacxtsxts|#cxtsxts,0.530555556
+1,Buick,5,0,1,4,1,0,Excelle III (facelift 2018),1,Excelle,4,6,4,2,1,2,5,1,3,#buickexcelle|#excelle|#bexcelle|#excelleexcelle|#buickexcelleexcelle|#bexcelleexcelle,0
+1,Buick,4,9,1,5,1,0,GL6,3,GL6,4,6,4,2,1,3,6,2,5,#buickgl6|#gl6|#bgl6|#gl6gl6|#buickgl6gl6|#bgl6gl6,0
+1,Audi,1,1,2,5,2,0,S3 Sportback (8V facelift 2016),6,S3,4,7,4,6,1,5,5,5,3,#audis3|#s3|#as3|#s3s3|#audis3s3|#as3s3,0.066666667
+1,Audi,4,5,4,5,4,0,SQ5 II,0,SQ5,6,8,4,4,2,6,5,6,6,#audisq5|#sq5|#asq5|#sq5sq5|#audisq5sq5|#asq5sq5,0.136363636
+1,Audi,0,11,2,2,2,1,TT Roadster (8S),5,TT,4,6,4,1,1,4,2,5,1,#auditt|#tt|#att|#tttt|#auditttt|#atttt,0
+1,Audi,0,0,3,4,3,1,A6 Limousine (C8),0,A6,6,8,4,6,2,5,5,2,6,#audia6|#a6|#aa6|#a6a6|#audia6a6|#aa6a6,0.197474747
+1,Audi,0,1,3,5,3,1,A7 Sportback (C8),0,A7,6,8,4,6,2,5,5,2,6,#audia7|#a7|#aa7|#a7a7|#audia7a7|#aa7a7,0.45
+0,Audi,2,3,2,2,3,0,"Coupe (B2 81, 85)",3,Coupe,5,5,2,4,1,1,5,1,2,#audicoupe|#coupe|#acoupe|#coupecoupe|#audicoupecoupe|#acoupecoupe,0.185688131
+1,Audi,5,0,3,4,5,0,A8 Long (D5),0,A8,6,8,4,5,2,6,5,6,2,#audia8|#a8|#aa8|#a8a8|#audia8a8|#aa8a8,0.6
+1,Audi,2,5,0,5,4,0,Q3 (8U facelift 2014),6,Q3,4,6,4,1,1,2,5,2,3,#audiq3|#q3|#aq3|#q3q3|#audiq3q3|#aq3q3,0.133333333
+1,Audi,6,5,3,5,2,1,Q2,6,Q2,4,7,4,3,1,3,5,4,3,#audiq2|#q2|#aq2|#q2q2|#audiq2q2|#aq2q2,0.386458333
+1,Audi,5,5,4,5,4,0,Q5 II,0,Q5,4,7,4,4,1,5,5,5,5,#audiq5|#q5|#aq5|#q5q5|#audiq5q5|#aq5q5,0.322857143
+1,Audi,0,5,3,5,6,1,Q7 (Typ 4M),0,Q7,6,8,4,6,2,5,5,2,2,#audiq7|#q7|#aq7|#q7q7|#audiq7q7|#aq7q7,0.393368957
+1,Audi,0,3,1,2,4,0,Quattro (Typ 85),2,Quattro,5,5,2,4,1,5,2,4,0,#audiquattro|#quattro|#aquattro|#quattroquattro|#audiquattroquattro|#aquattroquattro,0.106060606
+1,Callaway,3,6,3,2,5,0,C12 Cabrio,3,C12,8,6,2,6,2,1,2,6,3,#callawayc12|#c12|#cc12|#c12c12|#callawayc12c12|#cc12c12,0.172727273
+0,Audi,0,0,1,5,3,0,"100 (C2, Typ 43, facelift 1979)",1,100,5,5,2,4,1,1,5,1,4,#audi100|#100|#a100|#100100|#audi100100|#a100100,-0.083333333
+0,Audi,0,2,2,5,3,0,"200 Avant (C3, Typ 44,44Q)",3,200,5,5,2,4,1,3,5,3,4,#audi200|#200|#a200|#200200|#audi200200|#a200200,0.118333333
+0,Audi,0,1,0,3,0,0,50 (Typ 86),0,50,4,4,2,0,1,0,5,0,0,#audi50|#50|#a50|#5050|#audi5050|#a5050,0.165178571
+1,Audi,2,6,2,2,2,0,A5 Cabriolet (9T),0,A5,4,7,4,6,1,5,4,5,5,#audia5|#a5|#aa5|#a5a5|#audia5a5|#aa5a5,0.126041667
+1,Audi,3,0,0,4,1,0,A3 Sedan (8V facelift 2016),5,A3,3,6,4,1,1,2,5,2,3,#audia3|#a3|#aa3|#a3a3|#audia3a3|#aa3a3,0
+1,Audi,0,0,2,4,0,1,A4 (B9 8W),6,A4,4,7,4,1,1,4,5,5,5,#audia4|#a4|#aa4|#a4a4|#audia4a4|#aa4a4,-0.242534722
+1,Cadillac,5,0,6,4,5,0,CT6,5,CT6,6,8,4,4,2,6,5,5,2,#cadillacct6|#ct6|#cct6|#ct6ct6|#cadillacct6ct6|#cct6ct6,0.3625
+1,Cadillac,3,3,6,2,3,0,ATS Coupe,5,ATS,6,6,4,4,2,1,4,2,5,#cadillacats|#ats|#cats|#atsats|#cadillacatsats|#catsats,-0.160277778
+1,Cadillac,3,0,6,4,5,0,CTS III,4,CTS,6,8,4,4,2,6,5,2,6,#cadillaccts|#cts|#ccts|#ctscts|#cadillacctscts|#cctscts,0.070138889
+1,Cadillac,3,8,3,5,4,0,Escalade III,0,Escalade,8,6,2,6,2,6,8,6,6,#cadillacescalade|#escalade|#cescalade|#escaladeescalade|#cadillacescaladeescalade|#cescaladeescalade,0
+1,Aston Martin,4,3,5,2,6,0,V12 Vantage,4,V12 Vantage,12,6,4,4,2,1,2,6,2,#astonmartinv12vantage|#v12vantage|#av12vantage|#v12vantagev12|#astonmartinv12vantagev12|#av12vantagev12,0.585984848
+1,Aston Martin,3,3,5,2,5,0,V12 Vanquish,5,V12 Vanquish,12,6,4,1,2,1,2,5,4,#astonmartinv12vanquish|#v12vanquish|#av12vanquish|#v12vanquishv12|#astonmartinv12vanquishv12|#av12vanquishv12,0
+0,Aston Martin,1,0,3,4,4,0,Lagonda I,6,Lagonda,8,6,2,6,2,5,5,6,6,#astonmartinlagonda|#lagonda|#alagonda|#lagondalagonda|#astonmartinlagondalagonda|#alagondalagonda,0.177597403
+1,Aston Martin,3,3,5,2,6,0,DB9 GT Coupe,5,DB9,12,6,4,4,2,1,4,2,5,#astonmartindb9|#db9|#adb9|#db9db9|#astonmartindb9db9|#adb9db9,-0.112847222
+1,Aston Martin,4,3,6,2,4,0,One-77,4,One-77,12,6,4,5,2,1,2,2,5,#astonmartinone77|#one77|#aone77|#one77one77|#astonmartinone77one77|#aone77one77,0
+1,Aston Martin,4,11,5,4,4,0,Rapide AMR,6,Rapide,12,8,4,5,2,1,4,2,2,#astonmartinrapide|#rapide|#arapide|#rapiderapide|#astonmartinrapiderapide|#arapiderapide,0.325
+0,Aston Martin,0,3,3,2,4,0,DBS V8,5,DBS,8,5,4,3,2,5,4,5,3,#astonmartindbs|#dbs|#adbs|#dbsdbs|#astonmartindbsdbs|#adbsdbs,0.392708333
+0,Aston Martin,0,0,3,2,4,0,Zagato Vantage,4,Zagato,8,5,4,3,2,1,4,6,3,#astonmartinzagato|#zagato|#azagato|#zagatozagato|#astonmartinzagatozagato|#azagatozagato,0.5
+1,Aston Martin,3,3,3,2,5,0,V8 Vantage (2018),3,V8,8,8,4,6,2,1,2,2,4,#astonmartinv8|#v8|#av8|#v8v8|#astonmartinv8v8|#av8v8,0.241363636
+1,Aston Martin,1,3,5,2,6,0,DB11,5,DB11,12,8,4,4,2,1,4,2,5,#astonmartindb11|#db11|#adb11|#db11db11|#astonmartindb11db11|#adb11db11,0.676666667
+0,Aston Martin,0,6,3,2,4,0,AMV8 Volante,5,AMV8,8,3,4,3,2,6,4,6,3,#astonmartinamv8|#amv8|#aamv8|#amv8amv8|#astonmartinamv8amv8|#aamv8amv8,0
+0,Aston Martin,0,3,3,2,6,0,DB5,3,DB5,6,6,4,6,1,5,4,5,1,#astonmartindb5|#db5|#adb5|#db5db5|#astonmartindb5db5|#adb5db5,0.469480519
+0,Aston Martin,0,6,5,2,6,0,DB4 Convertible,2,DB4,6,4,4,6,1,4,4,4,1,#astonmartindb4|#db4|#adb4|#db4db4|#astonmartindb4db4|#adb4db4,0.6
+0,Aston Martin,0,3,3,2,6,0,DB6 Mark II,3,DB6,6,5,4,6,1,6,4,6,2,#astonmartindb6|#db6|#adb6|#db6db6|#astonmartindb6db6|#adb6db6,0.274545455
+1,Aston Martin,3,3,5,2,5,0,DB7 GT,5,DB7,12,5,4,1,2,6,2,6,2,#astonmartindb7|#db7|#adb7|#db7db7|#astonmartindb7db7|#adb7db7,0.157954545
+1,Vauxhall,3,2,3,5,5,0,Omega Estate B,5,Omega,8,4,2,6,2,5,5,6,5,#vauxhallomega|#omega|#vomega|#omegaomega|#vauxhallomegaomega|#vomegaomega,0.190340909
+0,Vauxhall,0,2,4,3,2,0,Magnum Estate,0,Magnum,4,4,4,1,1,1,5,1,1,#vauxhallmagnum|#magnum|#vmagnum|#magnummagnum|#vauxhallmagnummagnum|#vmagnummagnum,0
+1,Vauxhall,0,7,6,5,4,1,Movano SWB (facelift 2003),5,Movano,4,5,4,5,1,1,5,3,2,#vauxhallmovano|#movano|#vmovano|#movanomovano|#vauxhallmovanomovano|#vmovanomovano,0.266666667
+1,BMW,0,0,3,4,4,1,5er Sedan (F10),0,5er,6,6,4,5,1,5,5,6,2,#bmw5er|#5er|#b5er|#5er5er|#bmw5er5er|#b5er5er,0.176010101

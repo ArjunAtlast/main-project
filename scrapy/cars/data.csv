@@ -1,0 +1,1065 @@
+abs_,airbag_driver,airbag_passenger,airbag_side,alloy_wheels,central_locking,chassis_warranty,cylinder_capacity,fuel,fuel_tank,general_warranty,maintenance,max_power,max_torque,name,no_of_cylinders,no_of_seats,parking_sensors,price,reverse_camera,top_speed,transmission,wheelbase
+1,1,1,1,1,1,,1368,petrol,45,,,132 kW (180 hp),270,Abarth Punto Evo 1.4 T-Jet 16v SuperSport,4,4,1,24.947,0,220,manual,2510 mm
+1,1,1,1,1,1,,1368,petrol,35,,,132 kW (180 hp),250,Abarth 595 Cabrio 1.4 T-Jet 180 Competizione,4,4,1,37.030,0,225,semi-automaat,2300 mm
+1,1,1,1,1,1,,1368,petrol,45,,,114 kW (155 hp),201,Abarth Grande Punto 1.4 T-Jet 16v,4,4,1,21.990,0,208,manual,2510 mm
+1,1,1,1,1,1,,5935,petrol,80,,,365 kW (497 hp),570,Aston Martin Virage Volante,12,4,1,295.174,0,299,sequential automatic,2740 mm
+1,1,1,1,1,1,,1368,petrol,45,,,121 kW (165 hp),250,Abarth Punto Evo 1.4 T-Jet 16v,4,4,1,24.545,0,213,manual,2510 mm
+1,0,0,0,1,1,,3562,petrol,80,,,184 kW (250 hp),340,Audi V8 Lang,8,5,0,129.990,0,235,automaat,3019 mm
+1,0,0,0,1,1,,4172,petrol,80,,,206 kW (280 hp),400,Audi V8 Lang,8,5,0,147.474,0,249,automaat,3019 mm
+0,0,0,0,1,1,,5341,petrol,113,,,243 kW (330 hp),475,Aston Martin Virage,8,4,0,289.807,0,250,manual,2611 mm
+1,1,1,1,1,1,,5935,petrol,80,,,365 kW (497 hp),570,Aston Martin Virage,12,4,1,278.785,0,299,sequential automatic,2740 mm
+1,0,0,0,1,1,,4172,petrol,80,,,206 kW (280 hp),400,Audi V8,8,5,0,96.651,0,249,manual,2702 mm
+1,0,0,0,1,1,,4172,petrol,80,,,206 kW (280 hp),400,Audi V8,8,5,0,96.651,0,249,automaat,2702 mm
+0,0,0,0,1,1,,5341,petrol,95,,,243 kW (330 hp),465,Aston Martin Volante,8,4,0,286.630,0,235,manual,2611 mm
+1,1,1,0,1,1,,2959,petrol,70,,,162 kW (220 hp),270,Alfa Romeo GTV 3.0 V6 24V L,6,5,0,41.294,0,240,manual,2540 mm
+0,0,0,0,0,0,,1490,petrol,,,,70 kW (95 hp),130,Alfa Romeo Alfasud Sprint 1.5,4,4,0,11.340,0,175,manual,2455 mm
+1,1,1,0,1,1,,2959,petrol,70,,,162 kW (220 hp),270,Alfa Romeo GTV 3.0 V6 24V,6,5,0,38.798,0,240,manual,2540 mm
+1,1,1,0,1,1,,1970,petrol,70,,,110 kW (150 hp),181,Alfa Romeo GTV 2.0 T.Spark 16V,4,4,0,35.995,0,215,manual,2540 mm
+1,0,0,0,1,1,,3562,petrol,80,,,184 kW (250 hp),340,Audi V8,8,5,0,84.013,0,235,automaat,2702 mm
+1,0,0,0,1,0,,1712,petrol,50,,,87 kW (118 hp),147,Alfa Romeo Sprint 1.7,4,4,0,16.268,0,196,manual,2465 mm
+1,1,1,0,1,1,,2959,petrol,70,,,160 kW (218 hp),265,Alfa Romeo GTV 3.0 V6 24V L,6,4,0,45.350,0,238,manual,2540 mm
+1,1,1,0,1,1,,1996,petrol,70,,,147 kW (200 hp),271,Alfa Romeo GTV 2.0 V6 TB,6,5,0,35.735,0,235,manual,2540 mm
+1,1,1,0,1,1,,1970,petrol,70,,,110 kW (150 hp),181,Alfa Romeo GTV 2.0 T.Spark 16V Elegante,4,4,0,38.250,0,215,manual,2540 mm
+1,1,1,0,1,1,,2959,petrol,70,,,160 kW (218 hp),265,Alfa Romeo GTV 3.0 V6 24V Sportivo,6,4,0,47.110,0,238,manual,2540 mm
+1,1,1,0,1,1,,1970,petrol,70,,,110 kW (150 hp),181,Alfa Romeo GTV 2.0 T.Spark 16V L,4,4,0,37.390,0,215,manual,2540 mm
+1,1,1,0,1,1,,2959,petrol,70,,,160 kW (218 hp),265,Alfa Romeo GTV 3.0 V6 24V L,6,4,0,45.350,0,238,manual,2540 mm
+1,1,1,0,1,1,,1970,petrol,70,,,110 kW (150 hp),181,Alfa Romeo GTV 2.0 T.Spark 16V,4,4,0,37.390,0,215,manual,2540 mm
+1,1,1,0,1,1,,1970,petrol,70,,,110 kW (150 hp),181,Alfa Romeo GTV 2.0 T.Spark 16V Sportivo,4,4,0,39.150,0,215,manual,2540 mm
+1,1,1,0,1,1,,2959,petrol,70,,,160 kW (218 hp),265,Alfa Romeo GTV 3.0 V6 24V Elegante,6,4,0,46.210,0,238,manual,2540 mm
+1,1,1,0,1,1,,2959,petrol,70,,,162 kW (220 hp),270,Alfa Romeo GTV 3.0 V6 24V,6,4,0,39.456,0,250,manual,2540 mm
+1,1,1,0,1,1,,1970,petrol,70,,,114 kW (155 hp),187,Alfa Romeo GTV 2.0 T.Spark 16V,4,4,0,31.742,0,216,manual,2540 mm
+1,1,1,0,1,1,,1970,petrol,70,,,114 kW (155 hp),187,Alfa Romeo GTV 2.0 T.Spark 16V L,4,4,0,36.280,0,216,manual,2540 mm
+1,1,1,0,1,1,,2959,petrol,70,,,162 kW (220 hp),270,Alfa Romeo GTV 3.0 V6 24V L,6,4,0,43.994,0,250,manual,2540 mm
+1,1,1,0,1,1,,1747,petrol,70,,,106 kW (144 hp),169,Alfa Romeo GTV 1.8 T.Spark 16V,4,4,0,30.154,0,210,manual,2540 mm
+1,1,1,0,1,1,,1996,petrol,70,,,147 kW (200 hp),271,Alfa Romeo GTV 2.0 V6 TB L,6,4,0,38.776,0,235,manual,2540 mm
+1,1,1,0,1,1,,1970,petrol,70,,,110 kW (150 hp),186,Alfa Romeo GTV 2.0 Twin Spark 16V L,4,5,0,33.602,0,215,manual,2540 mm
+1,1,1,0,1,1,,1970,petrol,70,,,110 kW (150 hp),186,Alfa Romeo GTV 2.0 Twin Spark 16V,4,5,0,31.107,0,215,manual,2540 mm
+1,1,1,0,1,1,,1970,petrol,70,,,121 kW (165 hp),206,Alfa Romeo GTV 2.0 JTS 16V,4,4,0,37.350,0,220,manual,2540 mm
+1,0,0,0,0,0,,1490,petrol,50,,,77 kW (105 hp),133,Alfa Romeo Sprint 1.5,4,4,0,14.442,0,180,manual,2450 mm
+1,1,1,0,1,1,,1970,petrol,70,,,110 kW (150 hp),181,Alfa Romeo Spider 2.0 T.Spark 16V,4,2,0,37.495,0,210,manual,2540 mm
+1,0,0,0,1,1,,3562,petrol,80,,,184 kW (250 hp),340,Audi V8,8,5,0,84.013,0,244,manual,2702 mm
+1,1,1,1,1,1,,1368,petrol,35,,,132 kW (180 hp),250,Abarth 595 1.4 T-Jet 180 Competizione,4,4,1,34.030,0,225,semi-automaat,2300 mm
+1,1,1,0,1,1,,3179,petrol,70,,,176 kW (240 hp),289,Alfa Romeo GTV 3.2 V6 24V,6,4,0,45.805,0,255,manual,2540 mm
+1,1,1,1,1,1,,1368,petrol,35,,,121 kW (165 hp),230,Abarth 595 1.4 T-Jet 165 Turismo,4,4,1,30.330,0,218,semi-automaat,2300 mm
+1,1,1,0,1,1,,3179,petrol,70,,,176 kW (240 hp),289,Alfa Romeo Spider 3.2 V6 24V,6,2,0,47.305,0,242,manual,2540 mm
+1,1,1,1,1,1,,1368,petrol,35,,,132 kW (180 hp),250,Abarth 595 1.4 T-Jet 180 Competizione,4,4,1,32.330,0,225,manual,2300 mm
+1,1,1,1,1,1,,1368,petrol,35,,,121 kW (165 hp),230,Abarth 595 1.4 T-Jet 165 Turismo,4,4,1,28.630,0,218,manual,2300 mm
+1,1,1,1,1,1,,1368,petrol,35,,,107 kW (145 hp),206,Abarth 595 1.4 T-Jet 145,4,4,1,26.430,0,210,semi-automaat,2300 mm
+1,1,1,1,1,1,,1368,petrol,35,,,107 kW (145 hp),206,Abarth 595 1.4 T-Jet 145,4,4,1,24.730,0,210,manual,2300 mm
+1,1,1,1,1,1,,1368,petrol,35,,,132 kW (180 hp),250,Abarth 595 Cabrio 1.4 T-Jet 180 Competizione,4,4,1,35.330,0,225,manual,2300 mm
+1,1,1,1,1,1,,1368,petrol,35,,,121 kW (165 hp),230,Abarth 595 Cabrio 1.4 T-Jet 165 Turismo,4,4,1,33.330,0,218,semi-automaat,2300 mm
+1,1,1,0,1,1,,1970,petrol,70,,,121 kW (165 hp),206,Alfa Romeo Spider 2.0 JTS 16V,4,2,0,38.850,0,215,manual,2540 mm
+1,1,1,1,1,1,,1368,petrol,35,,,121 kW (165 hp),230,Abarth 595 Cabrio 1.4 T-Jet 165 Turismo,4,4,1,31.630,0,218,manual,2300 mm
+1,1,1,1,1,1,,875,petrol,45,,,74 kW (100 hp),145,Alfa Romeo MiTo Turbo TwinAir Esclusivo,2,45,1,20.150,0,182,manual,2511 mm
+1,1,1,1,1,1,,1368,petrol,45,,,103 kW (140 hp),230,Alfa Romeo MiTo 1.4 Turbo MultiAir Business Super,4,45,1,24.050,0,209,aut. met dubb. koppeling,2511 mm
+1,1,1,1,1,1,,875,petrol,45,,,74 kW (100 hp),145,Alfa Romeo MiTo Turbo TwinAir ECO Business Super,2,45,1,18.645,0,182,manual,2511 mm
+1,1,1,1,1,1,,1248,diesel,45,,,59 kW (80 hp),200,Alfa Romeo MiTo 1.3 JTDm ECO Business Super,4,45,1,21.045,0,178,manual,2511 mm
+1,1,1,1,1,1,,1248,diesel,45,,,59 kW (80 hp),200,Alfa Romeo MiTo 1.3 JTDm ECO Business,4,45,1,19.045,0,178,manual,2511 mm
+1,1,1,1,1,1,,1970,petrol,63,,,121 kW (165 hp),206,Alfa Romeo GT 2.0 JTS 16V Sport,4,5,1,34.950,0,216,manual,2596 mm
+1,1,1,1,1,1,,1368,petrol,45,,,57 kW (78 hp),115,Alfa Romeo MiTo 1.4,4,45,1,17.950,0,165,manual,2511 mm
+0,0,0,0,1,0,,1962,petrol,46,,,88 kW (120 hp),161,Alfa Romeo Spider 2.0,4,5,0,26.569,0,190,manual,2250 mm
+1,1,1,0,1,1,,1970,petrol,70,,,110 kW (150 hp),181,Alfa Romeo Spider 2.0 T.Spark 16V L,4,2,0,38.790,0,210,manual,2540 mm
+1,1,1,0,1,1,,2959,petrol,70,,,160 kW (218 hp),265,Alfa Romeo Spider 3.0 V6 24V Sportivo,6,2,0,50.750,0,233,manual,2540 mm
+1,1,1,0,1,1,,1970,petrol,70,,,110 kW (150 hp),181,Alfa Romeo Spider 2.0 T.Spark 16V,4,2,0,38.790,0,210,manual,2540 mm
+0,0,0,0,1,0,,1962,petrol,46,,,94 kW (128 hp),178,Alfa Romeo Spider 2.0,4,5,0,23.574,0,190,manual,2250 mm
+1,1,1,0,1,1,,2959,petrol,70,,,141 kW (192 hp),260,Alfa Romeo Spider 3.0 V6 L,6,5,0,41.453,0,225,manual,2540 mm
+1,1,1,0,1,1,,2959,petrol,70,,,141 kW (192 hp),260,Alfa Romeo Spider 3.0 V6,6,5,0,38.957,0,225,manual,2540 mm
+1,1,1,0,1,1,,1970,petrol,70,,,110 kW (150 hp),186,Alfa Romeo Spider 2.0 Twin Spark 16V,4,5,0,32.468,0,210,manual,2540 mm
+1,1,1,0,1,1,,1970,petrol,70,,,110 kW (150 hp),186,Alfa Romeo Spider 2.0 Twin Spark 16V L,4,5,0,34.964,0,210,manual,2540 mm
+0,0,0,0,0,0,,1962,petrol,54,,,96 kW (130 hp),180,Alfa Romeo GTV 2.0,4,4,0,18.296,0,190,manual,2400 mm
+1,1,1,1,1,1,,875,petrol,45,,,74 kW (100 hp),145,Alfa Romeo MiTo Turbo TwinAir ECO Business,2,45,1,16.645,0,182,manual,2511 mm
+0,0,0,0,1,0,,2492,petrol,54,,,118 kW (160 hp),213,Alfa Romeo GTV6 2.5,6,4,0,21.287,0,205,manual,2400 mm
+1,1,1,0,1,1,,2959,petrol,70,,,160 kW (218 hp),265,Alfa Romeo Spider 3.0 V6 24V,6,2,0,46.750,0,233,manual,2540 mm
+1,1,1,0,1,1,,1970,petrol,70,,,110 kW (150 hp),181,Alfa Romeo Spider 2.0 T.Spark 16V Sportivo,4,2,0,42.790,0,210,manual,2540 mm
+1,1,1,0,1,1,,2959,petrol,70,,,160 kW (218 hp),265,Alfa Romeo Spider 3.0 V6 24V Elegante,6,2,0,49.850,0,233,manual,2540 mm
+1,1,1,0,1,1,,1970,petrol,70,,,110 kW (150 hp),181,Alfa Romeo Spider 2.0 T.Spark 16V Elegante,4,2,0,41.890,0,210,manual,2540 mm
+1,1,1,0,1,1,,2959,petrol,70,,,141 kW (192 hp),260,Alfa Romeo Spider 3.0 V6,6,2,0,39.456,0,225,manual,2540 mm
+1,1,1,0,1,1,,1747,petrol,70,,,106 kW (144 hp),169,Alfa Romeo Spider 1.8 T.Spark 16V,4,2,0,31.515,0,205,manual,2540 mm
+1,1,1,1,1,1,,1747,petrol,63,,,103 kW (140 hp),163,Alfa Romeo GT 1.8 T.Spark 16V Imola,4,5,1,34.995,0,200,manual,2596 mm
+1,1,1,0,1,1,,1970,petrol,70,,,114 kW (155 hp),187,Alfa Romeo Spider 2.0 T.Spark 16V,4,2,0,33.103,0,211,manual,2540 mm
+1,1,1,0,1,1,,1970,petrol,70,,,114 kW (155 hp),187,Alfa Romeo Spider 2.0 T.Spark 16V L,4,2,0,37.641,0,211,manual,2540 mm
+1,1,1,1,1,1,,1747,petrol,63,,,103 kW (140 hp),163,Alfa Romeo GT 1.8 T.Spark 16V Progression,4,5,1,33.750,0,200,manual,2596 mm
+1,1,1,0,1,1,,2959,petrol,70,,,141 kW (192 hp),260,Alfa Romeo Spider 3.0 V6 L,6,2,0,46.750,0,225,manual,2540 mm
+1,1,1,1,1,1,,1910,diesel,63,,,110 kW (150 hp),305,Alfa Romeo GT 1.9 JTDm 16V Q2,4,5,1,38.950,0,209,manual,2596 mm
+1,1,1,1,1,1,,1970,petrol,63,,,121 kW (165 hp),206,Alfa Romeo GT 2.0 JTS 16V Distinctive,4,5,1,38.250,0,216,manual,2596 mm
+1,1,1,1,1,1,,1970,petrol,63,,,121 kW (165 hp),206,Alfa Romeo GT 2.0 JTS 16V Imola,4,5,1,37.245,0,216,manual,2596 mm
+1,1,1,1,1,1,,1970,petrol,63,,,121 kW (165 hp),206,Alfa Romeo GT 2.0 JTS 16V Progression,4,5,1,36.250,0,216,manual,2596 mm
+1,1,1,1,1,1,,1970,petrol,63,,,121 kW (165 hp),206,Alfa Romeo GT 2.0 JTS 16V Selespeed Distinctive,4,5,1,40.250,0,216,semi-automatic,2596 mm
+1,1,1,1,1,1,,1747,petrol,63,,,103 kW (140 hp),163,Alfa Romeo GT 1.8 T.Spark 16V Distinctive,4,5,1,35.750,0,200,manual,2596 mm
+1,1,1,1,1,1,,1970,petrol,63,,,121 kW (165 hp),206,Alfa Romeo GT 2.0 JTS 16V Selespeed Imola,4,5,1,38.995,0,216,semi-automatic,2596 mm
+1,1,1,1,1,1,,3179,petrol,63,,,176 kW (240 hp),300,Alfa Romeo GT 3.2 V6 24V Distinctive,6,5,1,45.995,0,243,manual,2596 mm
+1,1,1,1,1,1,,1910,diesel,63,,,110 kW (150 hp),305,Alfa Romeo GT 1.9 JTDm 16V Impression,4,5,1,35.195,0,209,manual,2596 mm
+1,1,1,1,1,1,,1910,diesel,63,,,110 kW (150 hp),305,Alfa Romeo GT 1.9 JTDm 16V Progression,4,5,1,37.250,0,209,manual,2596 mm
+1,1,1,1,1,1,,1910,diesel,63,,,110 kW (150 hp),305,Alfa Romeo GT 1.9 JTDm 16V Distinctive,4,5,1,39.250,0,209,manual,2596 mm
+1,1,1,1,1,1,,1368,petrol,45,,,58 kW (78 hp),120,Alfa Romeo MiTo 1.4 Distinctive,4,45,1,18.950,0,180,manual,2511 mm
+1,1,1,1,1,1,,1910,diesel,63,,,110 kW (150 hp),305,Alfa Romeo GT 1.9 JTDm 16V Imola,4,5,1,39.995,0,209,manual,2596 mm
+1,1,1,1,1,1,,1368,petrol,45,,,99 kW (135 hp),206,Alfa Romeo MiTo 1.4 Turbo MultiAir S&S Progression,4,45,1,21.100,0,207,manual,2511 mm
+1,1,1,1,1,1,,1368,petrol,45,,,58 kW (78 hp),120,Alfa Romeo MiTo 1.4 Centenario,4,45,1,19.950,0,180,manual,2511 mm
+1,1,1,1,1,1,,1368,petrol,45,,,77 kW (105 hp),130,Alfa Romeo MiTo 1.4 MultiAir S&S Distinctive,4,45,1,21.800,0,187,manual,2511 mm
+1,1,1,1,1,1,,1368,petrol,45,,,99 kW (135 hp),206,Alfa Romeo MiTo 1.4 Turbo MultiAir S&S Progression,4,45,1,22.700,0,207,sequential automatic,2511 mm
+1,1,1,1,1,1,,1368,petrol,45,,,99 kW (135 hp),206,Alfa Romeo MiTo 1.4 Turbo MultiAir S&S Distinctive,4,45,1,23.150,0,207,manual,2511 mm
+1,1,1,1,1,1,,1368,petrol,45,,,99 kW (135 hp),206,Alfa Romeo MiTo 1.4 Turbo MultiAir S&S Centario,4,45,1,22.950,0,207,manual,2511 mm
+1,1,1,1,1,1,,1368,petrol,45,,,99 kW (135 hp),206,Alfa Romeo MiTo 1.4 Turbo MultiAir S&S Distinctive,4,45,1,24.750,0,207,sequential automatic,2511 mm
+1,1,1,1,1,1,,1248,diesel,45,,,70 kW (95 hp),200,Alfa Romeo MiTo 1.3 JTDm S&S,4,45,1,21.250,0,180,manual,2511 mm
+1,1,1,1,1,1,,1598,diesel,45,,,88 kW (120 hp),320,Alfa Romeo MiTo 1.6 JTDm S&S Progression,4,45,1,23.700,0,198,manual,2511 mm
+1,1,1,1,1,1,,1368,petrol,45,,,125 kW (170 hp),250,Alfa Romeo MiTo 1.4 Turbo MultiAir S&S Quadrifoglio Verde,4,45,1,27.450,0,219,manual,2511 mm
+1,1,1,1,1,1,,1368,petrol,45,,,77 kW (105 hp),130,Alfa Romeo MiTo 1.4 MultiAir S&S Centario,4,45,1,20.950,0,187,manual,2511 mm
+1,1,1,1,1,1,,1368,petrol,45,,,77 kW (105 hp),130,Alfa Romeo MiTo 1.4 MultiAir S&S Progression,4,45,1,20.750,0,187,manual,2511 mm
+1,1,1,1,1,1,,1248,diesel,45,,,70 kW (95 hp),200,Alfa Romeo MiTo 1.3 JTDm S&S Progression,4,45,1,22.100,0,180,manual,2511 mm
+1,1,1,1,1,1,,1598,diesel,45,,,88 kW (120 hp),320,Alfa Romeo MiTo 1.6 JTDm S&S Distinctive,4,45,1,25.550,0,198,manual,2511 mm
+1,1,1,1,1,1,,1956,diesel,70,,,125 kW (170 hp),360,Alfa Romeo Spider 2.0 JTDm 16v,4,2,1,46.450,0,218,manual,2528 mm
+1,1,1,1,1,1,,1368,petrol,45,,,57 kW (78 hp),120,Alfa Romeo MiTo 1.4 8V S&S Distinctive,4,45,1,19.150,0,165,manual,2511 mm
+1,1,1,1,1,1,,1368,petrol,45,,,51 kW (70 hp),115,Alfa Romeo MiTo 1.4 8V Essential,4,45,1,16.450,0,160,manual,2511 mm
+1,1,1,1,1,1,,2387,diesel,70,,,147 kW (200 hp),400,Alfa Romeo Spider 2.4 JTDm 20v,5,2,1,52.950,0,225,sequential automatic,2528 mm
+1,1,1,1,1,1,,1742,petrol,70,,,147 kW (200 hp),320,Alfa Romeo Spider 1750 Turbo,4,2,1,43.450,0,232,manual,2528 mm
+1,1,1,1,1,1,,1248,diesel,45,,,70 kW (95 hp),200,Alfa Romeo MiTo 1.3 JTDm S&S Distinctive,4,45,1,22.950,0,180,manual,2511 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo Spider 3.2 JTS V6,6,2,1,57.250,0,250,manual,2528 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo Spider 2.2 JTS,4,2,1,50.240,0,224,manual,2528 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo Spider 3.2 JTS V6 Q4,6,2,1,65.250,0,244,sequential automatic,2528 mm
+1,1,1,1,1,1,,1747,petrol,63,,,103 kW (140 hp),163,Alfa Romeo GT 1.8 T.Spark 16V Impression,4,5,1,30.495,0,200,manual,2596 mm
+1,1,1,1,1,1,,1742,petrol,70,,,147 kW (200 hp),320,Alfa Romeo Spider 1750 Turbo Sport,4,2,1,45.450,0,232,manual,2528 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo Spider 3.2 JTS V6 Q4,6,2,1,66.560,0,250,manual,2528 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo Spider 2.2 JTS,4,2,1,46.750,0,224,semi-automatic,2528 mm
+1,1,1,1,1,1,,1248,diesel,45,,,62 kW (85 hp),200,Alfa Romeo MiTo 1.3 JTDm Eco Progression,4,45,1,19.050,0,174,manual,2511 mm
+1,1,1,1,1,1,,1248,diesel,45,,,62 kW (85 hp),200,Alfa Romeo MiTo 1.3 JTDm Eco Essential,4,45,1,17.215,0,174,manual,2511 mm
+1,1,1,1,1,1,,1368,petrol,45,,,57 kW (78 hp),120,Alfa Romeo MiTo 1.4 8V S&S Progression,4,45,1,18.100,0,165,manual,2511 mm
+1,1,1,1,1,1,,1368,petrol,45,,,51 kW (70 hp),115,Alfa Romeo MiTo 1.4 8V Progression,4,45,1,17.300,0,160,manual,2511 mm
+1,1,1,1,1,1,,1248,diesel,45,,,62 kW (85 hp),200,Alfa Romeo MiTo 1.3 JTDm Eco Progression,4,45,1,17.950,0,171,manual,2511 mm
+1,1,1,1,1,1,,1248,diesel,45,,,62 kW (85 hp),200,Alfa Romeo MiTo 1.3 JTDm Eco Distinctive,4,45,0,19.950,0,174,manual,2511 mm
+1,1,1,1,1,1,,1248,diesel,45,,,62 kW (85 hp),200,Alfa Romeo MiTo 1.3 JTDm Eco Distinctive,4,45,0,18.685,0,171,manual,2511 mm
+1,1,1,1,1,1,,875,petrol,45,,,63 kW (85 hp),145,Alfa Romeo MiTo 0.9 TwinAir 85 Progression,2,45,1,17.350,0,172,manual,2511 mm
+1,1,1,1,1,1,,875,petrol,45,,,63 kW (85 hp),145,Alfa Romeo MiTo 0.9 TwinAir 85 Distinctive,2,45,1,18.250,0,172,manual,2511 mm
+1,1,1,1,1,1,,1248,diesel,45,,,62 kW (85 hp),200,Alfa Romeo MiTo 1.3 JTDm Eco Limited Edition,4,45,1,19.950,0,174,manual,2511 mm
+1,1,1,1,0,1,,875,petrol,45,,,63 kW (85 hp),145,Alfa Romeo MiTo 0.9 TwinAir 85 Junior,2,45,0,15.950,0,172,manual,2511 mm
+1,1,1,1,1,1,,1248,diesel,45,,,62 kW (85 hp),200,Alfa Romeo MiTo 1.3 JTDm Eco Business Executive,4,45,1,19.950,0,174,manual,2511 mm
+1,1,1,1,1,1,,1248,diesel,45,,,62 kW (85 hp),200,Alfa Romeo MiTo 1.3 JTDm Eco Essential,4,45,1,17.215,0,171,manual,2511 mm
+1,1,1,1,1,1,,875,petrol,45,,,63 kW (85 hp),145,Alfa Romeo MiTo 0.9 TwinAir 85 Business Executive,2,45,1,18.250,0,172,manual,2511 mm
+1,1,1,1,1,1,,1248,diesel,45,,,62 kW (85 hp),200,Alfa Romeo MiTo 1.3 JTDm Eco Distinctive,4,45,0,19.950,0,174,manual,2511 mm
+1,1,1,1,1,1,,1248,diesel,45,,,62 kW (85 hp),200,Alfa Romeo MiTo 1.3 JTDm Eco Progression,4,45,1,19.050,0,174,manual,2511 mm
+1,1,1,1,1,1,,1368,petrol,45,,,77 kW (105 hp),130,Alfa Romeo MiTo 1.4 MultiAir S&S SBK,4,45,1,22.500,0,187,manual,2511 mm
+1,1,1,1,1,1,,875,petrol,45,,,63 kW (85 hp),145,Alfa Romeo MiTo 0.9 TwinAir 85 SBK,2,45,1,18.950,0,172,manual,2511 mm
+1,1,1,1,1,1,,1368,petrol,45,,,99 kW (135 hp),206,Alfa Romeo MiTo 1.4 Turbo MultiAir S&S SBK,4,45,1,23.850,0,207,manual,2511 mm
+1,1,1,1,1,1,,1368,petrol,45,,,99 kW (135 hp),206,Alfa Romeo MiTo 1.4 Turbo MultiAir S&S SBK,4,45,1,25.450,0,207,sequential automatic,2511 mm
+1,1,1,1,1,1,,1598,diesel,45,,,88 kW (120 hp),320,Alfa Romeo MiTo 1.6 JTDm,4,45,1,22.850,0,198,manual,2511 mm
+1,1,1,1,1,1,,1368,petrol,45,,,88 kW (120 hp),206,Alfa Romeo MiTo 1.4 Turbo 120hp Sport,4,45,1,23.445,0,198,manual,2511 mm
+1,1,1,1,1,1,,1368,petrol,45,,,114 kW (155 hp),230,Alfa Romeo MiTo 1.4 Turbo 155hp,4,45,1,21.950,0,215,manual,2511 mm
+1,1,1,1,1,1,,1368,petrol,45,,,58 kW (78 hp),120,Alfa Romeo MiTo 1.4 Progression,4,45,1,18.100,0,180,manual,2511 mm
+1,1,1,1,1,1,,1248,diesel,45,,,66 kW (90 hp),200,Alfa Romeo MiTo 1.3 JTDm,4,45,1,20.950,0,178,manual,2511 mm
+1,1,1,1,1,1,,1368,petrol,45,,,114 kW (155 hp),230,Alfa Romeo MiTo 1.4 Turbo 155hp Progression,4,45,1,22.800,0,215,manual,2511 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo Spider 2.2 JTS,4,2,0,46.990,0,222,semi-automatic,2528 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo Spider 2.4 JTDm 20v,5,2,1,50.450,0,231,manual,2528 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo Spider 3.2 JTS V6 Q4,6,2,0,57.080,0,240,sequential automatic,2528 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo Spider 3.2 JTS V6 Q4 Exclusive,6,2,1,67.615,0,240,sequential automatic,2528 mm
+1,1,1,1,1,1,,2387,diesel,70,,,147 kW (200 hp),400,Alfa Romeo Spider 2.4 JTDm 20v Exclusive,5,2,1,54.115,0,228,manual,2528 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo Spider 2.2 JTS Exclusive,4,2,1,50.615,0,222,semi-automatic,2528 mm
+1,1,1,1,1,1,,2387,diesel,70,,,147 kW (200 hp),400,Alfa Romeo Spider 2.4 JTDm 20v,5,2,0,49.440,0,228,manual,2528 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo Spider 2.2 JTS Exclusive,4,2,1,48.615,0,222,manual,2528 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo Spider 3.2 JTS V6 Q4 Exclusive,6,2,1,62.615,0,240,manual,2528 mm
+1,1,1,1,1,1,,1747,petrol,63,,,103 kW (140 hp),163,Alfa Romeo GT 1.8 T.Spark 16V Distinctive,4,5,1,33.215,0,200,manual,2596 mm
+1,1,1,1,0,1,,1910,diesel,63,,,110 kW (150 hp),305,Alfa Romeo GT 1.9 JTDm 16V Impression,4,5,1,35.580,0,209,manual,2596 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo Spider 2.2 JTS,4,2,0,44.990,0,222,manual,2528 mm
+1,1,1,1,0,1,,1747,petrol,63,,,103 kW (140 hp),163,Alfa Romeo GT 1.8 T.Spark 16V Impression,4,5,1,30.715,0,200,manual,2596 mm
+1,1,1,1,1,1,,1747,petrol,63,,,103 kW (140 hp),163,Alfa Romeo GT 1.8 T.Spark 16V Progression,4,5,1,31.715,0,200,manual,2596 mm
+1,1,1,1,1,1,,1747,petrol,63,,,103 kW (140 hp),163,Alfa Romeo GT 1.8 T.Spark 16V Collezione,4,5,1,34.860,0,200,manual,2596 mm
+1,1,1,1,1,1,,1970,petrol,63,,,121 kW (165 hp),206,Alfa Romeo GT 2.0 JTS 16V Collezione,4,5,1,37.040,0,216,manual,2596 mm
+1,1,1,1,1,1,,1910,diesel,63,,,110 kW (150 hp),305,Alfa Romeo GT 1.9 JTDm 16V Collezione,4,5,1,39.725,0,209,manual,2596 mm
+1,1,1,1,1,1,,1970,petrol,63,,,121 kW (165 hp),206,Alfa Romeo GT 2.0 JTS 16V Selespeed Collezione,4,5,1,38.440,0,216,semi-automatic,2596 mm
+1,1,1,1,1,1,,1910,diesel,63,,,110 kW (150 hp),305,Alfa Romeo GT 1.9 JTDm 16V Progression,4,5,1,36.580,0,209,manual,2596 mm
+1,1,1,1,1,1,,1970,petrol,63,,,121 kW (165 hp),206,Alfa Romeo GT 2.0 JTS 16V Selespeed Distinctive,4,5,1,36.795,0,216,semi-automatic,2596 mm
+1,1,1,1,1,1,,3179,petrol,63,,,176 kW (240 hp),300,Alfa Romeo GT 3.2 V6 24V Distinctive,6,5,1,45.515,0,243,manual,2596 mm
+1,1,1,1,1,1,,1910,diesel,63,,,110 kW (150 hp),305,Alfa Romeo GT 1.9 JTDm 16V Distinctive,4,5,1,38.080,0,209,manual,2596 mm
+1,1,1,1,1,1,,1970,petrol,63,,,121 kW (165 hp),206,Alfa Romeo GT 2.0 JTS 16V Progression,4,5,1,33.895,0,216,manual,2596 mm
+1,1,1,1,1,1,,1248,diesel,45,,,66 kW (90 hp),200,Alfa Romeo MiTo 1.3 JTDm Distinctive,4,45,1,22.650,0,178,manual,2511 mm
+1,1,1,1,1,1,,1368,petrol,45,,,114 kW (155 hp),230,Alfa Romeo MiTo 1.4 Turbo 155hp Sport,4,45,1,25.745,0,215,manual,2511 mm
+1,1,1,1,1,1,,1368,petrol,45,,,114 kW (155 hp),230,Alfa Romeo MiTo 1.4 Turbo 155hp Distinctive,4,45,1,23.650,0,215,manual,2511 mm
+1,1,1,1,1,1,,1248,diesel,45,,,66 kW (90 hp),200,Alfa Romeo MiTo 1.3 JTDm Sport,4,45,1,24.845,0,178,manual,2511 mm
+1,1,1,1,1,1,,1598,diesel,45,,,88 kW (120 hp),320,Alfa Romeo MiTo 1.6 JTDm Progression,4,45,1,22.850,0,198,manual,2511 mm
+1,1,1,1,1,1,,1248,diesel,45,,,66 kW (90 hp),200,Alfa Romeo MiTo 1.3 JTDm Progression,4,45,1,21.800,0,178,manual,2511 mm
+1,1,1,1,1,1,,1598,diesel,45,,,88 kW (120 hp),320,Alfa Romeo MiTo 1.6 JTDm Distinctive,4,45,1,23.700,0,198,manual,2511 mm
+1,1,1,1,1,1,,1368,petrol,45,,,88 kW (120 hp),206,Alfa Romeo MiTo 1.4 Turbo 120hp,4,45,1,19.650,0,198,manual,2511 mm
+1,1,1,1,1,1,,1368,petrol,45,,,58 kW (78 hp),120,Alfa Romeo MiTo 1.4,4,45,1,17.250,0,180,manual,2511 mm
+1,1,1,1,1,1,,1368,petrol,45,,,88 kW (120 hp),206,Alfa Romeo MiTo 1.4 Turbo 120hp Progression,4,45,1,20.500,0,198,manual,2511 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo Spider 3.2 JTS V6 Q4,6,2,0,54.560,0,240,manual,2528 mm
+1,1,1,1,1,1,,1598,diesel,45,,,88 kW (120 hp),320,Alfa Romeo MiTo 1.6 JTDm Sport,4,45,1,26.645,0,198,manual,2511 mm
+1,1,1,1,1,1,,1970,petrol,63,,,121 kW (165 hp),206,Alfa Romeo GT 2.0 JTS 16V Distinctive,4,5,1,35.395,0,216,manual,2596 mm
+1,1,1,1,1,1,,1368,petrol,45,,,88 kW (120 hp),206,Alfa Romeo MiTo 1.4 Turbo 120hp Distinctive,4,45,1,21.350,0,198,manual,2511 mm
+1,1,1,1,1,1,,875,petrol,45,,,74 kW (100 hp),145,Alfa Romeo MiTo Turbo TwinAir ECO,2,45,1,17.045,0,182,manual,2511 mm
+1,1,1,1,1,1,,1368,petrol,45,,,57 kW (78 hp),115,Alfa Romeo MiTo 1.4 Super,4,45,1,19.750,0,165,manual,2511 mm
+1,1,1,1,1,1,,875,petrol,45,,,74 kW (100 hp),145,Alfa Romeo MiTo Turbo TwinAir ECO Super,2,45,1,19.045,0,182,manual,2511 mm
+1,1,1,1,1,1,,1368,petrol,45,,,103 kW (140 hp),230,Alfa Romeo MiTo 1.4 Turbo MultiAir Super,4,45,1,24.450,0,209,aut. met dubb. koppeling,2511 mm
+1,1,1,1,1,1,,1368,petrol,45,,,125 kW (170 hp),250,Alfa Romeo MiTo 1.4 Turbo MultiAir Veloce,4,45,1,27.450,0,219,manual,2511 mm
+1,1,1,1,1,1,,1248,diesel,45,,,59 kW (80 hp),200,Alfa Romeo MiTo 1.3 JTDm Esclusivo,4,45,1,21.150,0,172,manual,2511 mm
+1,1,1,1,1,1,,1248,diesel,45,,,59 kW (80 hp),200,Alfa Romeo MiTo 1.3 JTDm ECO Super,4,45,1,21.950,0,178,manual,2511 mm
+1,1,1,1,1,1,,1248,diesel,45,,,59 kW (80 hp),200,Alfa Romeo MiTo 1.3 JTDm ECO,4,45,1,19.950,0,178,manual,2511 mm
+1,1,1,1,1,1,,1248,diesel,45,,,59 kW (80 hp),200,Alfa Romeo MiTo 1.3 JTDm Junior,4,45,0,20.650,0,172,manual,2511 mm
+1,1,1,1,1,1,,875,petrol,45,,,74 kW (100 hp),145,Alfa Romeo MiTo Turbo TwinAir Junior,2,45,1,19.950,0,182,manual,2511 mm
+1,1,1,1,1,1,,1368,LPG,39,,,88 kW (120 hp),206,Alfa Romeo MiTo 1.4 Turbo TwinAir Bifuel Junior,4,45,1,21.950,0,198,manual,2511 mm
+1,1,1,1,1,1,,1368,LPG,39,,,88 kW (120 hp),206,Alfa Romeo MiTo 1.4 Turbo TwinAir Bifuel Exclusive,4,45,1,22.950,0,198,manual,2511 mm
+1,1,1,1,1,1,,1248,diesel,45,,,59 kW (80 hp),200,Alfa Romeo MiTo 1.3 JTDm Exclusive,4,45,1,21.650,0,172,manual,2511 mm
+1,1,1,1,1,1,,1368,petrol,45,,,103 kW (140 hp),230,Alfa Romeo MiTo 1.4 Turbo MultiAir Exclusive,4,45,1,26.250,0,209,sequential automatic,2511 mm
+1,1,1,1,1,1,,875,petrol,45,,,74 kW (100 hp),145,Alfa Romeo MiTo Turbo TwinAir Exclusive,2,45,1,20.950,0,182,manual,2511 mm
+1,1,1,1,1,1,,875,petrol,45,,,74 kW (100 hp),145,Alfa Romeo MiTo Turbo TwinAir Progression,2,45,1,17.950,0,182,manual,2511 mm
+1,1,1,1,1,1,,1368,petrol,45,,,57 kW (78 hp),115,Alfa Romeo MiTo 1.4 8V Impression,4,45,0,16.250,0,165,manual,2511 mm
+1,1,1,1,1,1,,875,petrol,45,,,74 kW (100 hp),145,Alfa Romeo MiTo Turbo TwinAir Racer,2,5,1,20.950,0,182,manual,2511 mm
+1,1,1,1,1,1,,875,petrol,45,,,74 kW (100 hp),145,Alfa Romeo MiTo Turbo TwinAir Distinctive,2,45,1,19.150,0,182,manual,2511 mm
+1,1,1,1,1,1,,1368,petrol,45,,,125 kW (170 hp),250,Alfa Romeo MiTo 1.4 Turbo MultiAir Quadrifoglio Verde,4,45,1,27.450,0,219,manual,2511 mm
+1,1,1,1,1,1,,1368,petrol,45,,,103 kW (140 hp),230,Alfa Romeo MiTo 1.4 Turbo MultiAir Distinctive,4,45,1,24.450,0,209,sequential automatic,2511 mm
+1,1,1,1,1,1,,1248,diesel,45,,,59 kW (80 hp),200,Alfa Romeo MiTo 1.3 JTDm Progression,4,45,1,19.150,0,172,manual,2511 mm
+1,1,1,1,1,1,,1368,petrol,35,,,107 kW (145 hp),206,Abarth 595 Cabrio 1.4 T-Jet 145,4,4,1,27.730,0,210,manual,2300 mm
+1,1,1,1,1,1,,1248,diesel,45,,,59 kW (80 hp),200,Alfa Romeo MiTo 1.3 JTDm Distinctive,4,45,0,20.150,0,172,manual,2511 mm
+1,1,1,1,1,1,,1368,petrol,35,,,107 kW (145 hp),206,Abarth 595 Cabrio 1.4 T-Jet 145,4,4,1,29.430,0,210,semi-automaat,2300 mm
+0,0,0,0,0,0,,7993,benzine,100,,,n.v.t.,...,Bugatti Veyron Grand Sport,16,2,0,0,0,407,aut. met dubb. koppeling,mm
+0,0,0,0,0,0,,7993,benzine,100,,,n.v.t.,...,Bugatti Veyron Super Sport,16,2,0,0,0,415,aut. met dubb. koppeling,mm
+0,0,0,0,0,0,,7993,benzine,100,,,n.v.t.,...,Bugatti Veyron 16.4,16,2,0,0,0,407,aut. met dubb. koppeling,mm
+1,1,1,1,1,1,,3993,bio-ethanol,90,,,373 kW (507 hp),660,Bentley Flying Spur V8,8,4,1,232.264,0,295,sequential automatic,3066 mm
+1,1,1,1,1,1,,5998,petrol,90,,,467 kW (635 hp),820,Bentley Flying Spur W12 S,12,4,1,289.271,0,325,sequential automatic,3066 mm
+1,1,1,1,1,1,,3993,petrol,90,,,388 kW (528 hp),680,Bentley Flying Spur V8 S,8,4,1,241.260,0,306,sequential automatic,3066 mm
+1,1,1,1,1,1,,6752,petrol,96,,,377 kW (512 hp),1020,Bentley Mulsanne Extended Wheelbase,8,5,1,454.499,0,296,sequential automatic,3516 mm
+1,1,1,1,1,1,,1368,petrol,35,,,99 kW (135 hp),206,Abarth 500C 1.4 16v T-Jet,4,4,1,25.500,0,205,manual,2300 mm
+1,1,1,1,1,1,,1368,petrol,35,,,99 kW (135 hp),206,Abarth 500C 1.4 16v T-Jet Elaborabile 135,4,4,1,26.710,0,205,manual,2300 mm
+1,1,1,1,1,1,,6752,petrol,96,,,377 kW (512 hp),1020,Bentley Mulsanne 6.8,8,5,1,406.689,0,296,sequential automatic,3266 mm
+1,1,1,1,1,1,,1368,petrol,35,,,118 kW (160 hp),230,Abarth 500C 1.4 16v T-Jet 595 Turismo 160,4,4,1,29.730,0,209,manual,2300 mm
+1,1,1,1,1,1,,1368,petrol,35,,,118 kW (160 hp),230,Abarth 500C 1.4 16v T-Jet 595 Turismo 160,4,4,1,31.430,0,209,semi-automatic,2300 mm
+1,1,1,1,1,1,,1368,petrol,35,,,118 kW (160 hp),230,Abarth 500C 1.4 16v T-Jet 595 Competizione 160,4,4,1,31.782,0,209,manual,2300 mm
+1,1,1,1,1,1,,1368,petrol,35,,,103 kW (140 hp),206,Abarth 500C 1.4 16v T-Jet Elaborabile 140,4,4,1,28.410,0,205,semi-automatic,2300 mm
+1,1,1,1,1,1,,1368,LPG,60,,,88 kW (120 hp),206,Alfa Romeo Giulietta 1.4 Turbo 120 Bifuel,4,5,1,24.950,0,195,manual,2634 mm
+1,1,1,1,1,1,,1910,diesel,63,,,110 kW (150 hp),305,Alfa Romeo Crosswagon 1.9 JTD 16V Q4 Progression,4,5,1,38.855,0,192,manual,2595 mm
+1,1,1,1,1,1,,1598,diesel,60,,,88 kW (120 hp),320,Alfa Romeo Giulietta 1.6 JTDm 120 Exclusive,4,5,1,30.950,0,195,manual,2634 mm
+1,1,1,1,1,1,,1598,diesel,60,,,88 kW (120 hp),320,Alfa Romeo Giulietta 1.6 JTDm 120 Sprint,4,5,1,28.950,0,195,manual,2634 mm
+1,1,1,1,1,1,,1368,petrol,60,,,110 kW (150 hp),230,Alfa Romeo Giulietta 1.4 Turbo MultiAir 150 Business,4,5,1,25.950,0,210,manual,2634 mm
+1,1,1,1,1,1,,1368,petrol,60,,,110 kW (150 hp),230,Alfa Romeo Giulietta 1.4 Turbo MultiAir 150 Business Super,4,5,1,27.950,0,210,manual,2634 mm
+1,1,1,1,1,1,,1910,diesel,63,,,110 kW (150 hp),305,Alfa Romeo Crosswagon 1.9 JTD 16V Q4 Distinctive,4,5,1,40.055,0,192,manual,2595 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo Brera 3.2 JTS V6 Q4,6,4,1,54.460,0,240,sequential automatic,2525 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo Brera 3.2 JTS V6 Q4 Sky Window,6,4,1,64.995,0,240,sequential automatic,2525 mm
+0,0,0,0,0,1,,1995,diesel,50,,,60 kW (82 hp),162,Alfa Romeo Giulietta 2.0 TD,4,5,0,16.468,0,155,manual,2510 mm
+1,1,1,1,1,1,,1368,petrol,60,,,125 kW (170 hp),250,Alfa Romeo Giulietta 1.4 Turbo MultiAir Progression,4,5,1,30.250,0,218,sequential automatic,2634 mm
+0,0,0,0,0,1,,1962,petrol,50,,,96 kW (130 hp),177,Alfa Romeo Giulietta 2.0,4,5,0,15.424,0,185,manual,2510 mm
+1,1,1,1,1,1,,1368,petrol,60,,,125 kW (170 hp),250,Alfa Romeo Giulietta 1.4 Turbo MultiAir Distinctive,4,5,1,31.850,0,218,sequential automatic,2634 mm
+0,0,0,0,0,1,,1570,petrol,50,,,80 kW (109 hp),142,Alfa Romeo Giulietta 1.6,4,5,0,13.155,0,175,manual,2510 mm
+1,1,1,1,1,1,,1956,diesel,60,,,125 kW (170 hp),350,Alfa Romeo Giulietta 2.0 JTDm 170 Progression,4,5,1,33.750,0,218,sequential automatic,2634 mm
+1,1,1,1,1,1,,1956,diesel,60,,,125 kW (170 hp),350,Alfa Romeo Giulietta 2.0 JTDm 170 Distinctive,4,5,1,35.350,0,218,sequential automatic,2634 mm
+1,1,1,1,1,1,,1368,petrol,60,,,125 kW (170 hp),250,Alfa Romeo Giulietta 1.4 Turbo MultiAir Business Executive,4,5,1,31.850,0,218,sequential automatic,2634 mm
+1,1,1,1,1,1,,1598,diesel,60,,,77 kW (105 hp),320,Alfa Romeo Giulietta 1.6 JTDm 105 Business Executive,4,5,1,29.550,0,185,manual,2634 mm
+1,1,1,1,1,1,,1368,LPG,60,,,88 kW (120 hp),206,Alfa Romeo Giulietta 1.4 Turbo 120 LPG Progression,4,5,1,27.050,0,195,manual,2634 mm
+1,1,1,1,1,1,,1368,petrol,60,,,77 kW (105 hp),206,Alfa Romeo Giulietta 1.4 Turbo 105 Progression,4,5,1,23.450,0,185,manual,2634 mm
+1,1,1,1,1,1,,1368,petrol,60,,,125 kW (170 hp),250,Alfa Romeo Giulietta 1.4 Turbo MultiAir Business Executive,4,5,1,29.550,0,218,manual,2634 mm
+1,1,1,1,1,1,,1598,diesel,60,,,77 kW (105 hp),320,Alfa Romeo Giulietta 1.6 JTDm 105 Business Executive Sport,4,5,1,32.400,0,185,manual,2634 mm
+1,1,1,1,1,1,,1368,LPG,60,,,88 kW (120 hp),206,Alfa Romeo Giulietta 1.4 Turbo 120 LPG Distinctive,4,5,1,28.650,0,195,manual,2634 mm
+1,1,1,1,1,1,,1598,diesel,60,,,77 kW (105 hp),320,Alfa Romeo Giulietta 1.6 JTDm 105 Business Executive,4,5,1,29.950,0,185,manual,2634 mm
+1,1,1,1,1,1,,1598,diesel,60,,,77 kW (105 hp),320,Alfa Romeo Giulietta 1.6 JTDm 105 Distinctive,4,5,1,29.950,0,185,manual,2634 mm
+1,1,1,1,1,1,,1598,diesel,60,,,77 kW (105 hp),320,Alfa Romeo Giulietta 1.6 JTDm 105 Progression,4,5,1,28.350,0,185,manual,2634 mm
+1,1,1,1,1,1,,1368,petrol,60,,,125 kW (170 hp),250,Alfa Romeo Giulietta 1.4 Turbo MultiAir Business Executive,4,5,1,29.550,0,218,manual,2634 mm
+1,1,1,1,1,1,,1598,diesel,60,,,77 kW (105 hp),320,Alfa Romeo Giulietta 1.6 JTDm 105 Business,4,5,1,27.500,0,185,manual,2634 mm
+1,1,1,1,1,1,,1368,petrol,60,,,125 kW (170 hp),250,Alfa Romeo Giulietta 1.4 Turbo MultiAir Business Executive Sp,4,5,1,32.400,0,218,manual,2634 mm
+1,1,1,1,1,1,,1368,petrol,60,,,125 kW (170 hp),250,Alfa Romeo Giulietta 1.4 Turbo MultiAir Distinctive,4,5,1,29.950,0,218,manual,2634 mm
+1,1,1,1,1,1,,1368,petrol,60,,,125 kW (170 hp),250,Alfa Romeo Giulietta 1.4 Turbo MultiAir Business,4,5,1,27.500,0,218,manual,2634 mm
+1,1,1,1,1,1,,1368,petrol,60,,,125 kW (170 hp),250,Alfa Romeo Giulietta 1.4 Turbo MultiAir Progression,4,5,1,28.350,0,218,manual,2634 mm
+1,1,1,1,1,1,,1598,diesel,60,,,77 kW (105 hp),320,Alfa Romeo Giulietta 1.6 JTDm 105 Limited Edition,4,5,1,28.450,0,185,manual,2634 mm
+1,1,1,1,1,1,,1368,petrol,60,,,125 kW (170 hp),250,Alfa Romeo Giulietta 1.4 Turbo MultiAir Limited Edition Sport,4,5,1,30.900,0,218,manual,2634 mm
+1,1,1,1,1,1,,1368,petrol,60,,,125 kW (170 hp),250,Alfa Romeo Giulietta 1.4 Turbo MultiAir Limited Edition,4,5,1,28.450,0,218,manual,2634 mm
+1,1,1,1,1,1,,1598,diesel,60,,,77 kW (105 hp),320,Alfa Romeo Giulietta 1.6 JTDm 105 Limited Edition Sport,4,5,1,30.900,0,185,manual,2634 mm
+1,1,1,1,1,1,,1742,petrol,60,,,173 kW (235 hp),340,Alfa Romeo Giulietta 1.750 TBi Quadrifoglio Verde,4,5,1,36.650,0,242,manual,2634 mm
+1,1,1,1,1,1,,1368,petrol,60,,,77 kW (105 hp),206,Alfa Romeo Giulietta 1.4 Turbo 105 Veloce,4,5,1,24.750,0,185,manual,2634 mm
+1,1,1,1,1,1,,1956,diesel,60,,,103 kW (140 hp),350,Alfa Romeo Giulietta 2.0 JTDm 140 Progression,4,5,1,29.850,0,205,manual,2634 mm
+1,1,1,1,1,1,,1956,diesel,60,,,125 kW (170 hp),350,Alfa Romeo Giulietta 2.0 JTDm 170 Progression,4,5,1,31.850,0,218,manual,2634 mm
+1,1,1,1,1,1,,1956,diesel,60,,,125 kW (170 hp),350,Alfa Romeo Giulietta 2.0 JTDm 170 Distinctive,4,5,1,33.450,0,218,manual,2634 mm
+1,1,1,1,1,1,,1598,diesel,60,,,77 kW (105 hp),320,Alfa Romeo Giulietta 1.6 JTDm 105 Distinctive,4,5,1,29.350,0,185,manual,2634 mm
+1,1,1,1,1,1,,1598,diesel,60,,,77 kW (105 hp),320,Alfa Romeo Giulietta 1.6 JTDm 105 Progression,4,5,1,27.750,0,185,manual,2634 mm
+1,1,1,1,1,1,,1368,petrol,60,,,125 kW (170 hp),250,Alfa Romeo Giulietta 1.4 Turbo MultiAir Progression,4,5,1,27.250,0,218,manual,2634 mm
+1,1,1,1,1,1,,1368,petrol,60,,,125 kW (170 hp),250,Alfa Romeo Giulietta 1.4 Turbo MultiAir Distinctive,4,5,1,29.350,0,218,manual,2634 mm
+1,1,1,1,1,1,,1956,diesel,60,,,103 kW (140 hp),350,Alfa Romeo Giulietta 2.0 JTDm 140 Distinctive,4,5,1,31.450,0,205,manual,2634 mm
+1,1,1,1,1,1,,2143,diesel,52,,,100 kW (136 hp),380,Alfa Romeo Giulia 2.2 JTD 136hp Business,4,5,1,40.100,1,210,manual,2820 mm
+1,1,1,1,1,1,,1368,petrol,60,,,88 kW (120 hp),206,Alfa Romeo Giulietta 1.4 Turbo 120 Distinctive,4,5,1,26.850,0,195,manual,2634 mm
+1,1,1,1,1,1,,2143,diesel,52,,,132 kW (180 hp),450,Alfa Romeo Giulia 2.2 JTD 180hp Advanced Efficiency,4,5,1,43.450,1,230,sequential automatic,2820 mm
+1,1,1,1,1,1,,2143,diesel,52,,,132 kW (180 hp),450,Alfa Romeo Giulia 2.2 JTD 180hp Advanced Efficiency Super,4,5,1,45.450,1,230,sequential automatic,2820 mm
+1,1,1,1,1,1,,2143,diesel,52,,,154 kW (210 hp),470,Alfa Romeo Giulia 2.2 JTD 210hp Veloce,4,5,1,54.850,1,235,sequential automatic,2820 mm
+1,1,1,1,1,1,,1368,petrol,60,,,88 kW (120 hp),206,Alfa Romeo Giulietta 1.4 Turbo 120 Progression,4,5,1,25.250,0,195,manual,2634 mm
+1,1,1,1,1,1,,2143,diesel,52,,,110 kW (150 hp),400,Alfa Romeo Giulia 2.2 JTD 150hp Super,4,5,1,42.600,1,220,manual,2820 mm
+1,1,1,1,1,1,,2143,diesel,52,,,110 kW (150 hp),400,Alfa Romeo Giulia 2.2 JTD 150hp Eco Business,4,5,1,40.450,1,220,manual,2820 mm
+1,1,1,1,1,1,,2143,diesel,52,,,100 kW (136 hp),380,Alfa Romeo Giulia 2.2 JTD 136hp Eco Business Super,4,5,1,41.450,1,210,manual,2820 mm
+1,1,1,1,1,1,,2143,diesel,52,,,100 kW (136 hp),380,Alfa Romeo Giulia 2.2 JTD 136hp Eco Business,4,5,1,39.950,1,210,manual,2820 mm
+1,1,1,1,1,1,,2143,diesel,52,,,110 kW (150 hp),400,Alfa Romeo Giulia 2.2 JTD 150hp Eco Business Super,4,5,1,41.950,1,220,manual,2820 mm
+1,1,1,1,1,1,,2891,petrol,58,,,375 kW (510 hp),600,Alfa Romeo Giulia 2.9 V6 Quadrifoglio,6,5,1,111.850,1,307,sequential automatic,2820 mm
+1,1,1,1,1,1,,2891,petrol,58,,,375 kW (510 hp),600,Alfa Romeo Giulia 2.9 V6 Quadrifoglio,6,5,1,111.850,1,307,manual,2820 mm
+1,1,1,1,1,1,,1995,petrol,52,,,206 kW (280 hp),400,Alfa Romeo Giulia 2.0T 280hp Veloce,4,5,1,54.250,1,240,sequential automatic,2820 mm
+1,1,1,1,1,1,,1995,petrol,52,,,147 kW (200 hp),330,Alfa Romeo Giulia 2.0T 200hp Super,4,5,1,41.950,1,230,sequential automatic,2820 mm
+1,1,1,1,1,1,,2143,diesel,52,,,110 kW (150 hp),400,Alfa Romeo Giulia 2.2 JTD 150hp,4,5,1,40.950,1,220,manual,2820 mm
+1,1,1,1,1,1,,2143,diesel,52,,,110 kW (150 hp),400,Alfa Romeo Giulia 2.2 JTD 150hp,4,5,1,42.400,1,220,sequential automatic,2820 mm
+1,1,1,1,1,1,,2143,diesel,52,,,110 kW (150 hp),400,Alfa Romeo Giulia 2.2 JTD 150hp Super,4,5,1,44.400,1,220,sequential automatic,2820 mm
+1,1,1,1,1,1,,2143,diesel,52,,,132 kW (180 hp),450,Alfa Romeo Giulia 2.2 JTD 180hp Super,4,5,1,45.450,1,230,sequential automatic,2820 mm
+1,1,1,1,1,1,,2143,diesel,52,,,132 kW (180 hp),450,Alfa Romeo Giulia 2.2 JTD 180hp Eco Business,4,5,1,42.950,1,230,sequential automatic,2820 mm
+1,1,1,1,1,1,,2143,diesel,52,,,132 kW (180 hp),450,Alfa Romeo Giulia 2.2 JTD 180hp Business Super,4,5,1,44.450,1,230,sequential automatic,2820 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo Brera 2.4 JTDm 20v,5,4,1,46.820,0,230,manual,2525 mm
+1,1,1,1,1,1,,2143,diesel,52,,,132 kW (180 hp),450,Alfa Romeo Giulia 2.2 JTD 180hp Eco Business Super,4,5,1,44.450,1,230,sequential automatic,2820 mm
+1,1,1,1,1,1,,2143,diesel,52,,,132 kW (180 hp),400,Alfa Romeo Giulia 2.2 JTD 180hp Super,4,5,1,44.250,1,230,manual,2820 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo Brera 2.4 JTDm 20v Sky Window,5,4,1,51.495,0,230,manual,2525 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo Brera 3.2 JTS V6 Q4,6,4,1,51.940,0,240,manual,2525 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo Brera 2.2 JTS Sky Window,4,4,1,47.995,0,222,semi-automatic,2525 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo Brera 2.2 JTS,4,4,1,42.370,0,222,manual,2525 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo Brera 3.2 JTS V6 Q4 Sky Window,6,4,1,59.995,0,240,manual,2525 mm
+1,1,1,1,1,1,,2387,diesel,70,,,147 kW (200 hp),400,Alfa Romeo Brera 2.4 JTDm 20v Sky Window,5,4,1,48.820,0,228,manual,2525 mm
+1,1,1,1,1,1,,1956,diesel,70,,,125 kW (170 hp),360,Alfa Romeo Brera 2.0 JTDm 16v,4,4,1,43.950,0,218,manual,2525 mm
+1,1,1,1,1,1,,2387,diesel,70,,,147 kW (200 hp),400,Alfa Romeo Brera 2.4 JTDm 20v,5,4,1,46.820,0,228,manual,2525 mm
+1,1,1,1,1,1,,1742,petrol,70,,,147 kW (200 hp),320,Alfa Romeo Brera 1750 Turbo,4,4,1,40.950,0,232,manual,2525 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo Brera 2.2 JTS,4,4,1,44.370,0,222,semi-automatic,2525 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo Brera 2.2 JTS Sky Window,4,4,1,45.995,0,222,manual,2525 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo Brera 2.2 JTS,4,4,1,44.250,0,224,semi-automatic,2525 mm
+1,1,1,1,1,1,,1742,petrol,70,,,147 kW (200 hp),320,Alfa Romeo Brera 1750 Turbo Sport,4,4,1,42.950,0,232,manual,2525 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo Brera 2.2 JTS,4,4,1,47.620,0,224,manual,2525 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo Brera 3.2 JTS V6,6,4,1,54.750,0,250,manual,2525 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo Brera 2.4 JTDm 20v,5,4,1,47.950,0,231,manual,2525 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo Brera 3.2 JTS V6 Q4,6,4,1,63.940,0,250,manual,2525 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo Brera 3.2 JTS V6 Q4,6,4,1,62.750,0,244,sequential automatic,2525 mm
+1,1,1,1,1,1,,2387,diesel,70,,,147 kW (200 hp),400,Alfa Romeo Brera 2.4 JTDm 20v,5,4,1,50.450,0,225,sequential automatic,2525 mm
+1,1,1,1,1,1,,1368,petrol,60,,,125 kW (170 hp),250,Alfa Romeo Giulietta 1.4 Turbo MultiAir 170 Business Super,4,5,1,30.150,0,218,aut. met dubb. koppeling,2634 mm
+1,1,1,1,1,1,,1598,diesel,60,,,88 kW (120 hp),320,Alfa Romeo Giulietta 1.6 JTDm 120 Business Super,4,5,1,29.550,0,195,manual,2634 mm
+1,1,1,1,1,1,,1598,diesel,60,,,88 kW (120 hp),320,Alfa Romeo Giulietta 1.6 JTDm 120 Business,4,5,1,27.550,0,195,manual,2634 mm
+1,1,1,1,1,1,,1598,diesel,60,,,88 kW (120 hp),320,Alfa Romeo Giulietta 1.6 JTDm 120 Business Super,4,5,1,31.550,0,195,aut. met dubb. koppeling,2634 mm
+1,1,1,1,1,1,,1956,diesel,60,,,110 kW (150 hp),380,Alfa Romeo Giulietta 2.0 JTDm 150 Business Super,4,5,1,31.950,0,210,manual,2634 mm
+1,1,1,1,1,1,,1368,petrol,60,,,110 kW (150 hp),230,Alfa Romeo Giulietta 1.4 Turbo MultiAir 150,4,5,1,25.750,0,210,manual,2634 mm
+1,1,1,1,1,1,,1368,petrol,60,,,88 kW (120 hp),215,Alfa Romeo Giulietta 1.4 Turbo 120,4,5,1,23.750,0,195,manual,2634 mm
+1,1,1,1,1,1,,1368,petrol,60,,,110 kW (150 hp),230,Alfa Romeo Giulietta 1.4 Turbo MultiAir 150 Super,4,5,1,27.750,0,210,manual,2634 mm
+1,1,1,1,1,1,,1598,diesel,60,,,88 kW (120 hp),320,Alfa Romeo Giulietta 1.6 JTDm 120,4,5,1,27.250,0,195,manual,2634 mm
+1,1,1,1,1,1,,1598,diesel,60,,,88 kW (120 hp),320,Alfa Romeo Giulietta 1.6 JTDm 120 Super,4,5,1,29.250,0,195,manual,2634 mm
+1,1,1,1,1,1,,1956,diesel,60,,,110 kW (150 hp),380,Alfa Romeo Giulietta 2.0 JTDm 150 Super,4,5,1,31.750,0,210,manual,2634 mm
+1,1,1,1,1,1,,1956,diesel,60,,,110 kW (150 hp),380,Alfa Romeo Giulietta 2.0 JTDm 150 Exclusive,4,5,1,33.250,0,210,manual,2634 mm
+1,1,1,1,1,1,,1742,petrol,60,,,177 kW (240 hp),340,Alfa Romeo Giulietta 1.750 TBi Quadrifoglio Verde,4,5,1,38.950,0,244,manual,2634 mm
+1,1,1,1,0,1,,1368,petrol,60,,,77 kW (105 hp),206,Alfa Romeo Giulietta 1.4 Turbo 105 Impression,4,5,1,23.450,0,186,manual,2634 mm
+1,1,1,1,1,1,,1598,diesel,60,,,77 kW (105 hp),320,Alfa Romeo Giulietta 1.6 JTDm 105 Progression,4,5,1,26.950,0,185,manual,2634 mm
+1,1,1,1,1,1,,1368,petrol,60,,,125 kW (170 hp),250,Alfa Romeo Giulietta 1.4 Turbo MultiAir 170 Exclusive,4,5,1,30.450,0,218,manual,2634 mm
+1,1,1,1,1,1,,1956,diesel,60,,,110 kW (150 hp),380,Alfa Romeo Giulietta 2.0 JTDm 150 Sprint,4,5,1,31.250,0,210,manual,2634 mm
+1,1,1,1,1,1,,1368,petrol,60,,,125 kW (170 hp),250,Alfa Romeo Giulietta 1.4 Turbo MultiAir 170 Progression,4,5,1,26.950,0,218,manual,2634 mm
+1,1,1,1,1,1,,1368,petrol,60,,,77 kW (105 hp),206,Alfa Romeo Giulietta 1.4 Turbo 105 Distinctive,4,5,1,25.350,0,186,manual,2634 mm
+1,1,1,1,1,1,,1368,petrol,60,,,88 kW (120 hp),206,Alfa Romeo Giulietta 1.4 Turbo 120 Distinctive,4,5,1,26.450,0,195,manual,2634 mm
+1,1,1,1,1,1,,1368,petrol,60,,,125 kW (170 hp),250,Alfa Romeo Giulietta 1.4 Turbo MultiAir 170 Distinctive,4,5,1,28.450,0,218,manual,2634 mm
+1,1,1,1,1,1,,1598,diesel,60,,,77 kW (105 hp),320,Alfa Romeo Giulietta 1.6 JTDm 105 Exclusive,4,5,1,30.450,0,185,manual,2634 mm
+1,1,1,1,1,1,,1598,diesel,60,,,77 kW (105 hp),320,Alfa Romeo Giulietta 1.6 JTDm 105 Distinctive,4,5,1,28.450,0,185,manual,2634 mm
+1,1,1,1,1,1,,1368,petrol,60,,,77 kW (105 hp),206,Alfa Romeo Giulietta 1.4 Turbo 105 Progression,4,5,1,23.850,0,186,manual,2634 mm
+1,1,1,1,1,1,,1956,diesel,60,,,110 kW (150 hp),380,Alfa Romeo Giulietta 2.0 JTDm 150 Sprint,4,5,1,30.750,0,210,manual,2634 mm
+1,1,1,1,1,1,,1598,diesel,60,,,77 kW (105 hp),320,Alfa Romeo Giulietta 1.6 JTDm 105 Sprint,4,5,1,28.450,0,185,manual,2634 mm
+1,1,1,1,1,1,,1956,diesel,60,,,110 kW (150 hp),380,Alfa Romeo Giulietta 2.0 JTDm 150 Distinctive,4,5,1,30.750,0,210,manual,2634 mm
+1,1,1,1,1,1,,1956,diesel,60,,,110 kW (150 hp),380,Alfa Romeo Giulietta 2.0 JTDm 150 Exclusive,4,5,1,32.750,0,210,manual,2634 mm
+0,0,0,0,0,0,,1779,petrol,50,,,90 kW (122 hp),167,Alfa Romeo Giulietta 1.8,4,5,0,10.587,0,180,manual,2510 mm
+1,1,1,1,1,1,,1368,petrol,60,,,110 kW (150 hp),250,Alfa Romeo Giulietta 1.4 Turbo MultiAir 150 Sprint,4,5,1,27.950,0,210,manual,2634 mm
+0,0,0,0,0,0,,1962,petrol,50,,,96 kW (130 hp),178,Alfa Romeo Giulietta 2.0 Lusso,4,5,0,12.701,0,85,manual,2510 mm
+0,0,0,0,0,0,,1962,petrol,50,,,96 kW (130 hp),178,Alfa Romeo Giulietta 2.0,4,5,0,11.340,0,185,manual,2510 mm
+0,0,0,0,0,0,,1570,petrol,50,,,80 kW (109 hp),142,Alfa Romeo Giulietta 1.6 Lusso,4,5,0,10.750,0,175,manual,2510 mm
+0,0,0,0,0,0,,1570,petrol,50,,,80 kW (109 hp),142,Alfa Romeo Giulietta 1.6,4,5,0,9.906,0,175,manual,2510 mm
+1,1,1,1,1,1,,1368,petrol,35,,,118 kW (160 hp),230,Abarth 500C 1.4 16v T-Jet 595 Competizione 160,4,4,1,33.482,0,209,semi-automatic,2300 mm
+1,1,1,1,1,1,,1368,petrol,35,,,99 kW (135 hp),206,Abarth 500C 1.4 16v T-Jet Elaborabile 135,4,4,1,25.295,0,205,manual,2300 mm
+1,1,1,1,1,1,,1368,petrol,35,,,118 kW (160 hp),230,Abarth 500C 1.4 16v T-Jet 595 Competizione 160,4,4,1,31.795,0,209,manual,2300 mm
+1,1,1,1,1,1,,1368,petrol,35,,,99 kW (135 hp),206,Abarth 500C 1.4 16v T-Jet Elaborabile 135,4,4,1,26.995,0,205,semi-automatic,2300 mm
+1,1,1,1,1,1,,1368,petrol,35,,,103 kW (140 hp),206,Abarth 500C 1.4 16v T-Jet Elaborabile 140,4,4,1,25.710,0,205,manual,2300 mm
+1,1,1,1,1,1,,1368,petrol,35,,,118 kW (160 hp),230,Abarth 500C 1.4 16v T-Jet 595 Turismo 160,4,4,1,30.430,0,209,semi-automatic,2300 mm
+1,1,1,1,1,1,,1368,petrol,35,,,118 kW (160 hp),230,Abarth 500C 1.4 16v T-Jet 595 Competizione 160,4,4,1,33.495,0,209,semi-automatic,2300 mm
+1,1,1,1,1,1,,1368,petrol,35,,,103 kW (140 hp),206,Abarth 500C 1.4 16v T-Jet Elaborabile 140,4,4,1,27.410,0,205,semi-automatic,2300 mm
+1,1,1,1,1,1,,1368,petrol,35,,,132 kW (180 hp),230,Abarth 500C 1.4 16v T-Jet 595 Competizione 180,4,4,1,32.779,0,225,manual,2300 mm
+1,1,1,1,0,1,,1362,petrol,64,,,103 kW (140 hp),200,Chevrolet Orlando 1.4T LS,4,7,0,26.795,0,200,manual,2760 mm
+1,1,1,1,1,1,,1368,petrol,35,,,132 kW (180 hp),230,Abarth 500C 1.4 16v T-Jet 595 Competizione 180,4,4,1,34.479,0,225,semi-automatic,2300 mm
+1,1,1,1,1,1,,1368,petrol,35,,,103 kW (140 hp),206,Abarth 500C 1.4 16v T-Jet Competizione,4,4,1,26.700,0,205,semi-automatic,2300 mm
+1,1,1,1,1,1,,1998,diesel,64,,,120 kW (163 hp),360,Chevrolet Orlando 2.0D LTZ,4,7,1,37.895,0,195,automatic,2760 mm
+1,1,1,1,1,1,,1998,diesel,64,,,120 kW (163 hp),360,Chevrolet Orlando 2.0D LTZ,4,7,1,32.515,0,195,manual,2760 mm
+1,1,1,1,1,1,,1998,diesel,64,,,96 kW (130 hp),315,Chevrolet Orlando 2.0D LT,4,7,1,30.165,0,180,manual,2760 mm
+1,1,1,1,1,1,,1998,diesel,64,,,120 kW (163 hp),360,Chevrolet Orlando 2.0D LTZ+,4,7,1,39.295,0,195,automatic,2760 mm
+1,1,1,1,1,1,,1362,petrol,64,,,103 kW (140 hp),200,Chevrolet Orlando 1.4T LTZ,4,7,1,30.845,0,200,manual,2760 mm
+1,1,1,1,1,1,,1362,petrol,64,,,103 kW (140 hp),200,Chevrolet Orlando 1.4T LTZ+,4,7,1,32.245,0,200,manual,2760 mm
+1,1,1,1,1,1,,1362,petrol,64,,,103 kW (140 hp),200,Chevrolet Orlando 1.4T LT,4,7,1,29.195,0,200,manual,2760 mm
+1,1,1,1,1,1,,1368,petrol,35,,,118 kW (160 hp),230,Abarth 500C 1.4 16v T-Jet 595 Turismo 160,4,4,1,28.730,0,209,manual,2300 mm
+1,1,1,1,1,1,,1998,diesel,64,,,120 kW (163 hp),360,Chevrolet Orlando 2.0D LTZ+,4,7,1,33.915,0,195,manual,2760 mm
+1,1,1,1,1,1,,1362,petrol,64,,,103 kW (140 hp),200,Chevrolet Orlando 1.4T LTZ,4,7,1,34.845,0,200,automatic,2760 mm
+1,1,1,1,1,1,,1362,petrol,64,,,103 kW (140 hp),200,Chevrolet Orlando 1.4T LTZ+,4,7,1,36.245,0,200,automatic,2760 mm
+1,1,1,1,0,1,,1796,petrol,64,,,104 kW (141 hp),176,Chevrolet Orlando 1.8 LS,4,7,0,25.695,0,185,manual,2760 mm
+1,1,1,1,1,1,,1998,diesel,64,,,120 kW (163 hp),360,Chevrolet Orlando 2.0D LTZ,4,7,1,40.495,0,180,automatic,2760 mm
+1,1,1,1,1,1,,1796,petrol,64,,,104 kW (141 hp),176,Chevrolet Orlando 1.8 LTZ+,4,7,1,33.195,0,185,manual,2760 mm
+1,1,1,1,1,1,,1998,diesel,64,,,96 kW (130 hp),315,Chevrolet Orlando 2.0D LT,4,7,1,33.095,0,180,manual,2760 mm
+1,1,1,1,1,1,,1998,diesel,64,,,120 kW (163 hp),360,Chevrolet Orlando 2.0D LTZ,4,7,1,35.545,0,195,manual,2760 mm
+1,1,1,1,1,1,,1796,petrol,64,,,104 kW (141 hp),176,Chevrolet Orlando 1.8 LTZ,4,7,1,34.895,0,185,automatic,2760 mm
+1,1,1,1,0,1,,1998,diesel,64,,,96 kW (130 hp),315,Chevrolet Orlando 2.0D LS,4,7,0,29.395,0,180,manual,2760 mm
+1,1,1,1,1,1,,1998,diesel,64,,,120 kW (163 hp),360,Chevrolet Orlando 2.0D LTZ+,4,7,1,36.795,0,195,manual,2760 mm
+1,1,1,1,1,1,,1796,petrol,64,,,104 kW (141 hp),176,Chevrolet Orlando 1.8 LTZ,4,7,1,29.895,0,185,manual,2760 mm
+1,1,1,1,1,1,,1998,diesel,64,,,120 kW (163 hp),360,Chevrolet Orlando 2.0D LTZ+,4,7,1,38.595,0,180,automatic,2760 mm
+1,1,1,1,1,1,,1796,petrol,64,,,104 kW (141 hp),176,Chevrolet Orlando 1.8 LT,4,7,1,30.195,0,185,manual,2760 mm
+1,1,1,1,1,1,,6752,petrol,96,,,377 kW (512 hp),1020,Bentley Mulsanne,8,5,1,398.300,0,296,sequential automatic,3266 mm
+1,1,1,1,1,1,,6752,petrol,96,,,395 kW (537 hp),1100,Bentley Mulsanne Speed,8,5,1,425.477,0,305,sequential automatic,3266 mm
+1,1,1,1,1,1,,1368,petrol,35,,,118 kW (160 hp),230,Abarth 500 1.4 16v T-Jet 595 Turismo 160,4,4,1,27.230,0,210,manual,2300 mm
+1,1,1,1,1,1,,1368,petrol,35,,,103 kW (140 hp),206,Abarth 500 1.4 16v T-Jet Elaborabile 140,4,4,1,25.910,0,205,semi-automatic,2300 mm
+1,1,1,1,1,1,,1368,petrol,35,,,118 kW (160 hp),230,Abarth 500 1.4 16v T-Jet 595 Competizione 160,4,4,1,29.282,0,210,manual,2300 mm
+1,1,1,1,1,1,,1368,petrol,35,,,118 kW (160 hp),230,Abarth 500 1.4 16v T-Jet 595 Turismo 160,4,4,1,28.930,0,210,semi-automatic,2300 mm
+1,1,1,1,1,1,,1368,petrol,35,,,99 kW (135 hp),206,Abarth 500 1.4 16v T-Jet Custom 135,4,4,0,22.710,0,205,manual,2300 mm
+1,1,1,1,1,1,,1368,petrol,35,,,99 kW (135 hp),206,Abarth 500 1.4 16v T-Jet Custom 135,4,4,0,20.995,0,205,manual,2300 mm
+1,1,1,1,1,1,,1368,petrol,35,,,118 kW (160 hp),230,Abarth 500 1.4 16v T-Jet 595 Competizione 160,4,4,1,30.982,0,210,semi-automatic,2300 mm
+1,1,1,1,1,1,,1368,petrol,35,,,99 kW (135 hp),206,Abarth 500 1.4 16v T-Jet Elaborabile 135,4,4,1,24.295,0,205,manual,2300 mm
+1,1,1,1,1,1,,1368,petrol,35,,,99 kW (135 hp),206,Abarth 500 1.4 16v T-Jet Elaborabile 135,4,4,1,24.495,0,205,semi-automatic,2300 mm
+1,1,1,1,1,1,,1368,petrol,35,,,99 kW (135 hp),206,Abarth 500 1.4 16v T-Jet Elaborabile 135,4,4,1,22.795,0,205,manual,2300 mm
+1,1,1,1,1,1,,1368,petrol,35,,,140 kW (190 hp),250,Abarth 695 Biposto,4,2,1,50.750,0,230,manual,2300 mm
+1,1,1,1,1,1,,1368,petrol,35,,,132 kW (180 hp),230,Abarth 500 1.4 16v T-Jet 595 Competizione 180,4,4,1,30.279,0,225,manual,2300 mm
+1,1,1,1,1,1,,1368,petrol,35,,,103 kW (140 hp),206,Abarth 500 1.4 16v T-Jet Elaborabile 140,4,4,1,24.910,0,205,semi-automatic,2300 mm
+1,1,1,1,1,1,,1368,petrol,35,,,103 kW (140 hp),206,Abarth 500 1.4 16v T-Jet Elaborabile 140,4,4,1,23.210,0,205,manual,2300 mm
+1,1,1,1,1,1,,1368,petrol,35,,,99 kW (135 hp),206,Abarth 500 1.4 16v T-Jet,4,4,1,23.200,0,205,manual,2300 mm
+1,1,1,1,1,1,,1368,petrol,35,,,132 kW (180 hp),230,Abarth 500 1.4 16v T-Jet 595 Competizione 180,4,4,1,31.979,0,225,semi-automatic,2300 mm
+1,1,1,1,1,1,,1368,petrol,35,,,118 kW (160 hp),230,Abarth 500 1.4 16v T-Jet 595 Turismo 160,4,4,1,26.230,0,210,manual,2300 mm
+1,1,1,1,1,1,,1368,petrol,35,,,118 kW (160 hp),230,Abarth 500 1.4 16v T-Jet 595 Competizione 160,4,4,1,29.295,0,210,manual,2300 mm
+1,1,1,1,1,1,,1368,petrol,35,,,118 kW (160 hp),230,Abarth 500 1.4 16v T-Jet 595 Competizione 160,4,4,1,30.995,0,210,semi-automatic,2300 mm
+1,1,1,1,1,1,,1368,petrol,35,,,103 kW (140 hp),206,Abarth 500 1.4 16v T-Jet Custom 140,4,4,0,21.410,0,205,manual,2300 mm
+1,1,1,1,1,1,,5998,bio-ethanol,90,,,460 kW (625 hp),800,Bentley Flying Spur W12,12,4,1,289.271,0,320,sequential automatic,3066 mm
+1,1,1,1,1,1,,2143,diesel,58,,,132 kW (180 hp),450,Alfa Romeo Stelvio 2.2 JTD 180hp Super,4,5,1,57.525,1,210,sequential automatic,2818 mm
+1,1,1,1,1,1,,2143,diesel,58,,,154 kW (210 hp),470,Alfa Romeo Stelvio 2.2 JTD 210hp AWD Super,4,5,1,63.025,1,235,sequential automatic,2818 mm
+1,1,1,1,1,1,,1368,petrol,35,,,118 kW (160 hp),230,Abarth 500 1.4 16v T-Jet 595 Turismo 160,4,4,1,27.930,0,210,semi-automatic,2300 mm
+1,1,1,1,1,1,,2143,diesel,58,,,132 kW (180 hp),450,Alfa Romeo Stelvio 2.2 JTD 180hp,4,5,1,55.525,1,210,sequential automatic,2818 mm
+1,1,1,1,1,1,,2143,diesel,58,,,110 kW (150 hp),450,Alfa Romeo Stelvio 2.2 JTD 150hp,4,5,1,53.525,1,,sequential automatic,2818 mm
+1,1,1,1,1,1,,1995,petrol,64,,,147 kW (200 hp),330,Alfa Romeo Stelvio 2.0T 200hp AWD,4,5,1,54.025,1,215,sequential automatic,2818 mm
+1,1,1,1,1,1,,1995,petrol,64,,,206 kW (280 hp),400,Alfa Romeo Stelvio 2.0T 280hp AWD Super,4,5,1,60.525,1,230,sequential automatic,2818 mm
+1,1,1,1,1,1,,2143,diesel,58,,,110 kW (150 hp),450,Alfa Romeo Stelvio 2.2 JTD 150hp Super,4,5,1,55.525,1,,sequential automatic,2818 mm
+1,1,1,1,1,1,,1995,petrol,64,,,206 kW (280 hp),400,Alfa Romeo Stelvio 2.0T 280hp AWD First Edition,4,5,1,67.325,1,230,sequential automatic,2818 mm
+1,1,1,1,1,1,,1995,petrol,64,,,147 kW (200 hp),330,Alfa Romeo Stelvio 2.0T 200hp AWD Super,4,5,1,56.025,1,215,sequential automatic,2818 mm
+0,0,0,0,1,1,,1962,petrol,49,,,96 kW (130 hp),182,Alfa Romeo Alfetta 2.0i Quadrifoglio,4,5,0,18.873,0,185,manual,2510 mm
+0,0,0,0,0,0,,1570,petrol,49,,,80 kW (109 hp),142,Alfa Romeo Alfetta 1.6,4,5,0,12.429,0,174,manual,2510 mm
+0,0,0,0,0,0,,1962,petrol,49,,,94 kW (128 hp),167,Alfa Romeo 90 2.0,4,5,0,17.421,0,192,manual,2510 mm
+1,1,1,1,1,1,,4691,petrol,80,,,331 kW (450 hp),470,Alfa Romeo 8C Spider,8,2,1,315.500,0,290,semi-automaat,2646 mm
+0,0,0,0,0,1,,1995,diesel,49,,,60 kW (82 hp),162,Alfa Romeo Alfetta 2.0 Turbo Diesel,4,5,0,16.241,0,155,manual,2510 mm
+0,0,0,0,0,0,,2393,diesel,49,,,81 kW (110 hp),235,Alfa Romeo 90 2.4 Turbo D,4,5,0,21.296,0,178,manual,2510 mm
+0,0,0,0,0,1,,2492,petrol,77,,,118 kW (160 hp),219,Alfa Romeo Alfa 6 2.5 V6,6,5,0,22.004,0,200,manual,2605 mm
+0,0,0,0,0,1,,2492,petrol,49,,,115 kW (156 hp),210,Alfa Romeo 90 2.5 QO,6,5,0,24.096,0,203,manual,2510 mm
+0,0,0,0,0,1,,2492,petrol,77,,,116 kW (158 hp),211,Alfa Romeo Alfa 6 2.5 V6,6,5,0,26.356,0,195,manual,2605 mm
+0,0,0,0,0,0,,1490,petrol,53,,,70 kW (95 hp),130,Alfa Romeo 33 1.5 4x4,4,5,0,15.424,0,170,manual,2455 mm
+1,1,1,0,1,1,,1742,petrol,40,,,177 kW (240 hp),350,Alfa Romeo 4C Spider 1.750 Tbi CPZ Edition,4,2,1,90.150,0,257,sequential automatic,2380 mm
+1,1,1,0,1,1,,1742,petrol,40,,,177 kW (240 hp),350,Alfa Romeo 4C 1.750 Tbi Launch Edition,4,2,1,68.141,0,258,sequential automatic,2380 mm
+0,0,0,0,0,0,,1350,petrol,50,,,58 kW (79 hp),111,Alfa Romeo 33 1.3 Milano,4,5,0,9.071,0,167,manual,2455 mm
+0,0,0,0,0,0,,1490,petrol,50,,,70 kW (95 hp),130,Alfa Romeo 33 1.5 Milano,4,5,0,11.113,0,175,manual,2455 mm
+1,1,1,0,1,1,,1742,petrol,40,,,177 kW (240 hp),350,Alfa Romeo 4C Spider 1.750 Tbi,4,2,1,83.850,0,257,sequential automatic,2380 mm
+0,0,0,0,1,0,,1490,petrol,50,,,77 kW (105 hp),133,Alfa Romeo 33 1.5 QV,4,5,0,12.772,0,185,manual,2455 mm
+1,1,1,0,1,1,,1742,petrol,40,,,177 kW (240 hp),350,Alfa Romeo 4C 1.750 Tbi CPZ Edition,4,2,1,79.250,0,258,sequential automatic,2380 mm
+0,0,0,0,0,1,,1351,petrol,50,,,65 kW (88 hp),119,Alfa Romeo 33 1.3 VL,4,5,0,12.511,0,176,manual,2475 mm
+0,0,0,0,1,1,,1712,petrol,50,,,97 kW (132 hp),149,Alfa Romeo 33 1.7 i.e. 16V Permanent,4,5,0,23.347,0,198,manual,2470 mm
+0,0,0,0,0,1,,1490,petrol,50,,,70 kW (95 hp),125,Alfa Romeo 33 1.5 i.e.,4,5,0,14.408,0,180,manual,2475 mm
+0,0,0,0,0,1,,1351,petrol,50,,,66 kW (90 hp),113,Alfa Romeo 33 1.4 i.e. L,4,5,0,13.364,0,178,manual,2475 mm
+0,0,0,0,0,0,,1351,petrol,50,,,66 kW (90 hp),113,Alfa Romeo 33 1.4 i.e.,4,5,0,12.547,0,178,manual,2475 mm
+0,0,0,0,1,1,,1712,petrol,50,,,97 kW (132 hp),149,Alfa Romeo 33 1.7 i.e. 16V S,4,5,0,16.994,0,205,manual,2475 mm
+1,1,1,1,1,1,,1956,diesel,70,,,125 kW (170 hp),360,Alfa Romeo 159 Sportwagon 2.0 JTDm 170 Distinctive,4,5,1,39.050,0,216,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,147 kW (200 hp),400,Alfa Romeo 159 Sportwagon 2.4 JTDm 20v Distinctive,5,5,1,46.050,0,225,sequential automatic,2700 mm
+0,0,0,0,0,1,,1712,petrol,50,,,97 kW (132 hp),149,Alfa Romeo 33 1.7 i.e. 16V,4,5,0,16.740,0,205,manual,2475 mm
+0,0,0,0,0,1,,1712,petrol,50,,,79 kW (107 hp),145,Alfa Romeo 33 1.7 i.e.,4,5,0,15.406,0,188,manual,2475 mm
+1,1,1,1,1,1,,1742,petrol,70,,,147 kW (200 hp),320,Alfa Romeo 159 Sportwagon 1.750 TBi Progression,4,5,1,35.650,0,233,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,88 kW (120 hp),280,Alfa Romeo 159 Sportwagon 1.9 JTDm 8v Distinctive,4,5,1,35.350,0,192,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo 159 Sportwagon 2.4 JTDm 20v Distinctive,5,5,1,44.050,0,229,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 Sportwagon 1.9 JTDm 16v Distinctive,4,5,1,41.150,0,207,sequential automatic,2700 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo 159 Sportwagon 3.2 JTS V6 Q4 Distinctive,6,5,1,54.150,0,242,sequential automatic,2700 mm
+1,1,1,1,1,1,,1742,petrol,70,,,147 kW (200 hp),320,Alfa Romeo 159 Sportwagon 1.750 TBi Distinctive,4,5,1,37.510,0,233,manual,2700 mm
+1,1,1,1,1,1,,1742,petrol,70,,,147 kW (200 hp),320,Alfa Romeo 159 Sportwagon 1.750 TBi Centario,4,5,1,36.950,0,233,manual,2700 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo 159 Sportwagon 2.2 JTS Distinctive,4,5,1,38.150,0,222,semi-automatic,2700 mm
+1,1,1,1,1,1,,1796,petrol,70,,,103 kW (140 hp),175,Alfa Romeo 159 Sportwagon 1.8 mpi Centario,4,5,1,31.450,0,206,manual,2700 mm
+1,1,1,1,1,1,,1956,diesel,70,,,125 kW (170 hp),360,Alfa Romeo 159 Sportwagon 2.0 JTDm 170 Progression,4,5,1,36.890,0,216,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,88 kW (120 hp),280,Alfa Romeo 159 Sportwagon 1.9 JTDm 8v Centario,4,5,1,34.750,0,192,manual,2700 mm
+1,1,1,1,1,1,,1956,diesel,70,,,100 kW (136 hp),350,Alfa Romeo 159 Sportwagon 2.0 JTDm 136 Progression,4,5,1,34.440,0,200,manual,2700 mm
+1,1,1,1,1,1,,1742,petrol,70,,,147 kW (200 hp),320,Alfa Romeo 159 Sportwagon 1.750 TBi ECO Progression,4,5,1,35.650,0,233,manual,2700 mm
+1,1,1,1,1,1,,1956,diesel,70,,,100 kW (136 hp),350,Alfa Romeo 159 Sportwagon 2.0 JTDm 136 Distinctive,4,5,1,36.600,0,200,manual,2700 mm
+1,1,1,1,1,1,,1742,petrol,70,,,147 kW (200 hp),320,Alfa Romeo 159 Sportwagon 1.750 TBi ECO Distinctive,4,5,1,37.510,0,233,manual,2700 mm
+1,1,1,1,1,1,,1956,diesel,70,,,125 kW (170 hp),360,Alfa Romeo 159 Sportwagon 2.0 JTDm 170 ECO Progression,4,5,1,36.890,0,216,manual,2700 mm
+1,1,1,1,1,1,,1956,diesel,70,,,125 kW (170 hp),360,Alfa Romeo 159 Sportwagon 2.0 JTDm 170 ECO Distinctive,4,5,1,39.050,0,216,manual,2700 mm
+1,1,1,1,1,1,,1956,diesel,70,,,125 kW (170 hp),360,Alfa Romeo 159 Sportwagon 2.0 JTDm 170 TI,4,5,1,39.650,0,216,manual,2700 mm
+1,1,1,1,1,1,,1956,diesel,70,,,100 kW (136 hp),350,Alfa Romeo 159 Sportwagon 2.0 JTDm 136 TI,4,5,1,37.608,0,200,manual,2700 mm
+1,1,1,1,1,1,,1742,petrol,70,,,147 kW (200 hp),320,Alfa Romeo 159 Sportwagon 1.750 TBi TI,4,5,1,39.944,0,233,manual,2700 mm
+1,1,1,1,1,1,,1796,petrol,70,,,103 kW (140 hp),175,Alfa Romeo 159 Sportwagon 1.8 mpi Progression,4,5,1,30.450,0,206,manual,2700 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo 159 Sportwagon 3.2 JTS V6 TI,6,5,1,55.645,0,248,manual,2700 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo 159 Sportwagon 3.2 JTS V6 Q4 Progression,6,5,1,54.045,0,242,manual,2700 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo 159 Sportwagon 3.2 JTS V6 Q4 Elegante,6,5,1,58.645,0,242,sequential automatic,2700 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo 159 Sportwagon 3.2 JTS V6 Q4 Progression,6,5,1,56.895,0,242,sequential automatic,2700 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo 159 Sportwagon 3.2 JTS V6 Q4 Elegante,6,5,1,55.795,0,242,manual,2700 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo 159 Sportwagon 3.2 JTS V6 Q4 TI,6,5,1,61.645,0,242,sequential automatic,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,88 kW (120 hp),280,Alfa Romeo 159 Sportwagon 1.9 JTDm 8v,4,5,1,32.950,0,192,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,88 kW (120 hp),280,Alfa Romeo 159 Sportwagon 1.9 JTDm 8v Progression,4,5,1,33.190,0,192,manual,2700 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo 159 Sportwagon 3.2 JTS V6 Q4 TI,6,5,1,58.795,0,242,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,88 kW (120 hp),280,Alfa Romeo 159 Sportwagon 1.9 JTDm 8v Business,4,5,1,33.995,0,192,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,88 kW (120 hp),280,Alfa Romeo 159 Sportwagon 1.9 JTDm 8v Elegante,4,5,1,37.445,0,192,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,88 kW (120 hp),280,Alfa Romeo 159 Sportwagon 1.9 JTDm 8v Sport,4,5,1,36.495,0,192,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 Sportwagon 1.9 JTDm 16v,4,5,1,36.900,0,210,manual,2700 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo 159 Sportwagon 3.2 JTS V6 Elegante,6,5,1,52.645,0,248,manual,2700 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo 159 Sportwagon 3.2 JTS V6 Progression,6,5,1,50.895,0,248,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 Sportwagon 1.9 JTDm 16v Progression,4,5,1,38.150,0,210,manual,2700 mm
+1,1,1,1,1,1,,1796,petrol,70,,,103 kW (140 hp),175,Alfa Romeo 159 Sportwagon 1.8 mpi Sport,4,5,1,32.895,0,206,manual,2700 mm
+1,1,1,1,1,1,,1796,petrol,70,,,103 kW (140 hp),175,Alfa Romeo 159 Sportwagon 1.8 mpi Business,4,5,1,30.395,0,206,manual,2700 mm
+1,1,1,1,1,1,,1859,petrol,70,,,118 kW (160 hp),190,Alfa Romeo 159 Sportwagon 1.9 JTS Progression,4,5,1,33.850,0,210,manual,2700 mm
+1,1,1,1,1,1,,1796,petrol,70,,,103 kW (140 hp),175,Alfa Romeo 159 Sportwagon 1.8 mpi,4,5,1,29.650,0,206,manual,2700 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo 159 Sportwagon 2.2 JTS Sport,4,5,1,38.495,0,222,manual,2700 mm
+1,1,1,1,1,1,,1796,petrol,70,,,103 kW (140 hp),175,Alfa Romeo 159 Sportwagon 1.8 mpi Elegante,4,5,1,33.845,0,206,manual,2700 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo 159 Sportwagon 2.2 JTS Progression,4,5,1,39.985,0,222,semi-automatic,2700 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo 159 Sportwagon 2.2 JTS Progression,4,5,1,37.985,0,222,manual,2700 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo 159 Sportwagon 2.2 JTS Business,4,5,1,35.995,0,222,manual,2700 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo 159 Sportwagon 2.2 JTS Elegante,4,5,1,41.735,0,222,semi-automatic,2700 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo 159 Sportwagon 2.2 JTS Elegante,4,5,1,39.735,0,222,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 Sportwagon 1.9 JTDm 16v Progression,4,5,1,39.850,0,207,sequential automatic,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo 159 Sportwagon 2.4 JTDm 20v Q4 TI,5,5,1,56.235,0,223,manual,2700 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo 159 Sportwagon 2.2 JTS TI,4,5,1,42.735,0,222,manual,2700 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo 159 Sportwagon 2.2 JTS TI,4,5,1,44.735,0,222,semi-automatic,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,147 kW (200 hp),400,Alfa Romeo 159 Sportwagon 2.4 JTDm 20v Progression,5,5,1,45.150,0,225,sequential automatic,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo 159 Sportwagon 2.4 JTDm 20v Business,5,5,1,42.795,0,229,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,147 kW (200 hp),400,Alfa Romeo 159 Sportwagon 2.4 JTDm 20v Sport,5,5,1,49.095,0,225,sequential automatic,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo 159 Sportwagon 2.4 JTDm 20v Elegante,5,5,1,48.785,0,229,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo 159 Sportwagon 2.4 JTDm 20v Progression,5,5,1,43.150,0,229,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo 159 Sportwagon 2.4 JTDm 20v Sport,5,5,1,44.795,0,229,manual,2700 mm
+1,1,1,1,1,1,,1859,petrol,70,,,118 kW (160 hp),190,Alfa Romeo 159 Sportwagon 1.9 JTS Elegante,4,5,1,35.600,0,210,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,147 kW (200 hp),400,Alfa Romeo 159 Sportwagon 2.4 JTDm 20v Elegante,5,5,1,53.085,0,225,sequential automatic,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo 159 Sportwagon 2.4 JTDm 20v Q4 Progression,5,5,1,51.485,0,223,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,147 kW (200 hp),400,Alfa Romeo 159 Sportwagon 2.4 JTDm 20v TI,5,5,1,56.085,0,225,sequential automatic,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo 159 Sportwagon 2.4 JTDm 20v TI,5,5,1,51.785,0,229,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo 159 Sportwagon 2.4 JTDm 20v Q4 Elegante,5,5,1,53.235,0,223,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,147 kW (200 hp),400,Alfa Romeo 159 Sportwagon 2.4 JTDm 20v Business,5,5,1,47.015,0,225,sequential automatic,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 Sportwagon 1.9 JTDm 16v Business,4,5,1,41.765,0,207,sequential automatic,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 Sportwagon 1.9 JTDm 16v TI,4,5,1,42.900,0,210,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 Sportwagon 1.9 JTDm 16v TI,4,5,1,48.100,0,207,sequential automatic,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 Sportwagon 1.9 JTDm 16v Business,4,5,1,36.545,0,210,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 Sportwagon 1.9 JTDm 16v Elegante,4,5,1,45.100,0,207,sequential automatic,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 Sportwagon 1.9 JTDm 16v Sport,4,5,1,44.245,0,207,sequential automatic,2700 mm
+0,0,0,0,0,0,,1351,petrol,50,,,65 kW (88 hp),119,Alfa Romeo 33 1.3 V,4,5,0,12.111,0,176,manual,2475 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 Sportwagon 1.9 JTDm 16v Sport,4,5,1,39.045,0,210,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 Sportwagon 1.9 JTDm 16v Elegante,4,5,1,39.900,0,210,manual,2700 mm
+0,0,0,0,0,0,,1490,petrol,50,,,70 kW (95 hp),130,Alfa Romeo 33 1.5,4,5,0,11.608,0,175,manual,2455 mm
+0,0,0,0,0,1,,1712,petrol,50,,,77 kW (105 hp),149,Alfa Romeo 33 1.7 i.e.,4,5,0,14.017,0,185,manual,2455 mm
+0,0,0,0,1,1,,1712,petrol,50,,,87 kW (118 hp),152,Alfa Romeo 33 1.7 QV,4,5,0,15.610,0,196,manual,2455 mm
+0,0,0,0,0,1,,1712,petrol,50,,,81 kW (110 hp),151,Alfa Romeo 33 1.7 i.e.,4,5,0,14.335,0,190,manual,2455 mm
+0,0,0,0,0,0,,1350,petrol,50,,,63 kW (86 hp),119,Alfa Romeo 33 1.3 S,4,5,0,12.139,0,173,manual,2455 mm
+0,0,0,0,0,0,,1350,petrol,50,,,58 kW (79 hp),111,Alfa Romeo 33 1.3,4,5,0,10.705,0,167,manual,2455 mm
+0,0,0,0,0,0,,1490,petrol,50,,,77 kW (105 hp),133,Alfa Romeo 33 1.5 TI,4,5,0,12.524,0,185,manual,2455 mm
+1,1,1,0,1,1,,1742,petrol,40,,,177 kW (240 hp),350,Alfa Romeo 4C 1.750 Tbi,4,2,1,72.950,0,258,sequential automatic,2380 mm
+1,1,1,1,1,1,,2492,petrol,72,,,140 kW (190 hp),222,Alfa Romeo 166 2.5 V6 24V Progression,6,5,0,41.500,0,225,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,72,,,110 kW (150 hp),304,Alfa Romeo 166 2.4 JTD Edizione Esclusiva,5,5,0,41.650,0,210,manual,2700 mm
+0,0,0,0,0,0,,1350,petrol,50,,,58 kW (79 hp),111,Alfa Romeo 33 1.3,4,5,0,10.705,0,167,manual,2455 mm
+1,1,1,1,1,1,,1970,petrol,72,,,114 kW (155 hp),187,Alfa Romeo 166 2.0 T.Spark Edizione Esclusiva,4,5,0,37.490,0,213,manual,2700 mm
+1,1,1,1,1,1,,1970,petrol,72,,,114 kW (155 hp),187,Alfa Romeo 166 2.0 T.Spark Progression,4,5,0,35.150,0,213,manual,2700 mm
+1,1,1,1,1,1,,2959,petrol,72,,,166 kW (226 hp),275,Alfa Romeo 166 3.0 V6 24V Progression,6,5,0,46.735,0,243,manual,2700 mm
+1,1,1,1,1,1,,2492,petrol,72,,,140 kW (190 hp),222,Alfa Romeo 166 2.5 V6 24V Distinctive,6,5,0,46.050,0,225,manual,2700 mm
+1,1,1,1,1,1,,2959,petrol,72,,,166 kW (226 hp),275,Alfa Romeo 166 3.0 V6 24V Distinctive,6,5,0,51.725,0,243,manual,2700 mm
+1,1,1,1,1,1,,2959,petrol,72,,,166 kW (226 hp),275,Alfa Romeo 166 3.0 V6 24V Progression,6,5,0,48.495,0,237,automatic,2700 mm
+1,1,1,1,1,1,,2959,petrol,72,,,166 kW (226 hp),275,Alfa Romeo 166 3.0 V6 24V Distinctive,6,5,0,53.485,0,237,automatic,2700 mm
+1,1,1,1,1,1,,2387,diesel,72,,,100 kW (136 hp),304,Alfa Romeo 166 2.4 JTD,5,5,0,38.030,0,202,manual,2700 mm
+1,1,1,1,1,1,,1970,petrol,72,,,114 kW (155 hp),187,Alfa Romeo 166 2.0 T.Spark,4,5,0,33.870,0,213,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,72,,,110 kW (150 hp),304,Alfa Romeo 166 2.4 JTD Progression,5,5,0,39.310,0,210,manual,2700 mm
+1,1,1,1,1,1,,2959,petrol,72,,,166 kW (226 hp),275,Alfa Romeo 166 3.0 V6 24V Sporttronic,6,5,0,51.250,0,237,automatic,2700 mm
+1,1,1,1,1,1,,2492,petrol,72,,,140 kW (190 hp),222,Alfa Romeo 166 2.5 V6 24V,6,5,0,41.440,0,225,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,72,,,100 kW (136 hp),304,Alfa Romeo 166 2.4 JTD L,5,5,0,40.300,0,202,manual,2700 mm
+1,1,1,1,1,1,,2492,petrol,72,,,140 kW (190 hp),222,Alfa Romeo 166 2.5 V6 24V Sporttronic,6,5,0,42.156,0,220,automatic,2700 mm
+0,0,0,0,0,1,,1712,petrol,50,,,77 kW (105 hp),145,Alfa Romeo 33 SportWagon 1.7 i.e.,4,5,0,16.223,0,186,manual,2475 mm
+1,1,1,1,1,1,,2959,petrol,72,,,166 kW (226 hp),275,Alfa Romeo 166 3.0 V6 24V Super,6,5,0,48.450,0,243,manual,2700 mm
+0,0,0,0,0,0,,1351,petrol,50,,,66 kW (90 hp),113,Alfa Romeo 33 SportWagon 1.4 i.e.,4,5,0,13.818,0,177,manual,2475 mm
+0,0,0,0,0,0,,1490,petrol,50,,,70 kW (95 hp),125,Alfa Romeo 33 SportWagon 1.5 i.e.,4,5,0,14.294,0,179,manual,2475 mm
+1,1,1,1,1,1,,1970,petrol,72,,,114 kW (155 hp),187,Alfa Romeo 166 2.0 T.Spark L,4,5,0,36.190,0,213,manual,2700 mm
+0,0,0,0,1,1,,1779,petrol,49,,,114 kW (155 hp),226,Alfa Romeo 75 1.8 Turbo,4,5,0,24.953,0,210,manual,2510 mm
+0,0,0,0,1,1,,2959,petrol,68,,,138 kW (188 hp),245,Alfa Romeo 75 3.0 V6,6,5,0,25.861,0,220,manual,2510 mm
+0,0,0,0,0,0,,1995,diesel,49,,,70 kW (95 hp),192,Alfa Romeo 75 2.0 Turbo Diesel,4,5,0,20.965,0,175,manual,2510 mm
+0,0,0,0,0,0,,1962,petrol,49,,,109 kW (148 hp),186,Alfa Romeo 75 2.0 Twin Spark,4,5,0,20.416,0,205,manual,2510 mm
+0,0,0,0,0,0,,1779,petrol,49,,,85 kW (116 hp),167,Alfa Romeo 75 1.8,4,5,0,15.515,0,188,manual,2510 mm
+0,0,0,0,0,0,,1962,petrol,49,,,94 kW (128 hp),180,Alfa Romeo 75 2.0,4,5,0,17.289,0,195,manual,2510 mm
+0,0,0,0,0,0,,1570,petrol,49,,,81 kW (110 hp),146,Alfa Romeo 75 1.6,4,5,0,14.063,0,180,manual,2510 mm
+0,0,0,0,0,0,,1779,petrol,49,,,88 kW (120 hp),167,Alfa Romeo 75 1.8,4,5,0,15.360,0,190,manual,2510 mm
+0,0,0,0,1,1,,2959,petrol,49,,,141 kW (192 hp),248,Alfa Romeo 75 3.0 V6,6,5,0,27.454,0,222,manual,2510 mm
+0,0,0,0,0,1,,1962,petrol,49,,,105 kW (143 hp),186,Alfa Romeo 75 2.0 Twin Spark,4,5,0,21.595,0,204,manual,2510 mm
+0,0,0,0,0,1,,1779,petrol,49,,,88 kW (120 hp),152,Alfa Romeo 75 1.8 i.e.,4,5,0,18.560,0,190,manual,2510 mm
+0,0,0,0,0,1,,1570,petrol,49,,,78 kW (106 hp),132,Alfa Romeo 75 1.6 i.e.,4,5,0,16.558,0,180,manual,2510 mm
+0,0,0,0,0,1,,1962,petrol,49,,,109 kW (148 hp),186,Alfa Romeo 75 2.0 Twin Spark,4,5,0,20.960,0,205,manual,2510 mm
+0,0,0,0,0,1,,1779,petrol,49,,,90 kW (122 hp),157,Alfa Romeo 75 1.8 i.e.,4,5,0,17.693,0,190,manual,2510 mm
+0,0,0,0,1,1,,2959,petrol,49,,,138 kW (188 hp),245,Alfa Romeo 75 3.0 V6,6,5,0,26.587,0,220,manual,2510 mm
+0,0,0,0,0,0,,1962,petrol,49,,,94 kW (128 hp),176,Alfa Romeo 90 2.0 Motronic,4,5,0,19.921,0,192,manual,2510 mm
+1,1,1,1,1,1,,4691,petrol,80,,,331 kW (450 hp),470,Alfa Romeo 8C Competizione,8,2,1,220.000,0,292,semi-automaat,2646 mm
+0,0,0,0,0,0,,1962,petrol,49,,,96 kW (130 hp),178,Alfa Romeo Alfetta 2.0 L,4,5,0,12.883,0,187,manual,2510 mm
+0,0,0,0,0,0,,1570,petrol,49,,,79 kW (108 hp),142,Alfa Romeo Alfetta 1.6 L,4,5,0,10.886,0,173,manual,2510 mm
+0,0,0,0,0,0,,1995,diesel,49,,,60 kW (82 hp),162,Alfa Romeo Alfetta 2.0 Turbo Diesel,4,5,0,15.878,0,155,manual,2510 mm
+0,0,0,0,0,0,,1779,petrol,49,,,87 kW (118 hp),167,Alfa Romeo Alfetta 1.8 L,4,5,0,11.113,0,180,manual,2510 mm
+0,0,0,0,0,0,,1779,petrol,49,,,90 kW (122 hp),167,Alfa Romeo Alfetta 1.8,4,5,0,12.701,0,178,manual,2510 mm
+0,0,0,0,1,1,,1962,petrol,49,,,96 kW (130 hp),178,Alfa Romeo Alfetta 2.0 Quadrifoglio,4,5,0,15.787,0,185,manual,2510 mm
+0,0,0,0,0,0,,1962,petrol,49,,,96 kW (130 hp),178,Alfa Romeo Alfetta 2.0,4,5,0,14.199,0,185,manual,2510 mm
+0,0,0,0,0,0,,1962,petrol,54,,,96 kW (130 hp),178,Alfa Romeo Alfetta GTV 2000 L,4,4,0,12.552,0,196,manual,2400 mm
+0,0,0,0,0,1,,1962,petrol,49,,,96 kW (130 hp),178,Alfa Romeo Alfetta 2.0,4,5,0,16.785,0,185,manual,2510 mm
+1,1,1,1,1,1,,2387,diesel,70,,,147 kW (200 hp),400,Alfa Romeo 159 Sportwagon 2.4 JTDm 20v Progression,5,5,1,47.255,0,222,sequential automatic,2700 mm
+0,0,0,0,0,1,,1570,petrol,49,,,80 kW (109 hp),142,Alfa Romeo Alfetta 1.6,4,5,0,14.471,0,174,manual,2510 mm
+0,0,0,0,0,1,,1570,petrol,49,,,90 kW (122 hp),167,Alfa Romeo Alfetta 1.8,4,5,0,15.424,0,178,manual,2510 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo 159 Sportwagon 2.2 JTS TI,4,5,1,40.985,0,220,manual,2700 mm
+0,0,0,0,0,1,,1962,petrol,70,,,105 kW (143 hp),188,Alfa Romeo 164 2.0 Twin Spark,4,5,0,23.365,0,210,manual,2660 mm
+1,0,0,0,1,1,,2959,petrol,70,,,147 kW (200 hp),265,Alfa Romeo 164 3.0 V6 Quadrifoglio,6,5,0,41.589,0,237,manual,2660 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo 159 Sportwagon 2.2 JTS TI,4,5,1,42.985,0,220,semi-automatic,2700 mm
+0,0,0,0,0,1,,2500,diesel,70,,,86 kW (117 hp),258,Alfa Romeo 164 2.5 Turbo Diesel,4,5,0,29.582,0,200,manual,2660 mm
+1,0,0,0,1,1,,2959,petrol,70,,,135 kW (184 hp),259,Alfa Romeo 164 3.0 V6,6,5,0,34.873,0,230,manual,2660 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo 159 Sportwagon 2.2 JTS Strada,4,5,1,39.795,0,220,semi-automatic,2700 mm
+1,0,0,0,0,1,,2959,petrol,70,,,138 kW (188 hp),245,Alfa Romeo 164 3.0 V6,6,5,0,32.491,0,230,manual,2660 mm
+0,0,0,0,0,1,,1962,petrol,70,,,105 kW (143 hp),188,Alfa Romeo 164 2.0 Twin Spark (S),4,5,0,26.224,0,210,manual,2660 mm
+1,1,1,0,1,1,,1962,petrol,70,,,107 kW (146 hp),187,Alfa Romeo 164 Super 2.0 Twin Spark,4,5,0,27.204,0,210,manual,2660 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo 159 Sportwagon 2.4 JTDm 20v Distinctive,5,5,1,46.235,0,228,manual,2700 mm
+0,0,0,0,0,0,,1350,petrol,50,,,63 kW (86 hp),119,Alfa Romeo 33 SportWagon 1.3 S,4,5,0,12.955,0,172,manual,2455 mm
+0,0,0,0,0,1,,1962,petrol,70,,,109 kW (148 hp),186,Alfa Romeo 164 2.0 Twin Spark,4,5,0,25.094,0,210,manual,2660 mm
+1,1,1,1,1,1,,2387,diesel,72,,,129 kW (175 hp),385,Alfa Romeo 166 2.4 JTDm 20v Distinctive,5,5,1,48.690,0,218,sequential automatic,2700 mm
+1,1,1,0,1,1,,2959,petrol,75,,,168 kW (228 hp),280,Alfa Romeo 164 3.0 V6 24V Q4,6,5,0,51.731,0,240,manual,2660 mm
+1,1,1,1,1,1,,1970,petrol,72,,,110 kW (150 hp),181,Alfa Romeo 166 2.0 T.Spark Business Edition,4,5,1,37.220,0,211,manual,2700 mm
+1,1,1,1,1,1,,1970,petrol,72,,,110 kW (150 hp),181,Alfa Romeo 166 2.0 T.Spark Progression,4,5,1,36.720,0,211,manual,2700 mm
+1,1,1,1,1,1,,1970,petrol,72,,,110 kW (150 hp),181,Alfa Romeo 166 2.0 T.Spark Distinctive,4,5,1,39.220,0,211,manual,2700 mm
+1,1,1,1,1,1,,2492,petrol,72,,,138 kW (188 hp),221,Alfa Romeo 166 2.5 V6 24V Progression,6,5,1,42.650,0,225,manual,2700 mm
+1,1,1,1,1,1,,2959,petrol,72,,,162 kW (220 hp),265,Alfa Romeo 166 3.0 V6 24V Distinctive,6,5,1,53.390,0,236,sequential automatic,2700 mm
+1,1,1,1,1,1,,2387,diesel,72,,,110 kW (150 hp),305,Alfa Romeo 166 2.4 JTD 10v Progression,5,5,1,40.720,0,210,manual,2700 mm
+1,1,1,1,1,1,,3179,petrol,72,,,177 kW (240 hp),289,Alfa Romeo 166 3.2 V6 24V Distinctive,6,5,1,51.690,0,245,manual,2700 mm
+1,1,1,1,1,1,,3179,petrol,72,,,177 kW (240 hp),289,Alfa Romeo 166 3.2 V6 24V Progression,6,5,1,48.690,0,245,manual,2700 mm
+1,1,1,1,1,1,,2959,petrol,72,,,162 kW (220 hp),265,Alfa Romeo 166 3.0 V6 24V Progression,6,5,1,50.390,0,236,sequential automatic,2700 mm
+1,1,1,1,1,1,,2387,diesel,72,,,110 kW (150 hp),305,Alfa Romeo 166 2.4 JTD 10v Impression,5,5,1,39.220,0,210,manual,2700 mm
+1,1,1,1,1,1,,2492,petrol,72,,,138 kW (188 hp),221,Alfa Romeo 166 2.5 V6 24V Distinctive,6,5,1,45.650,0,225,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,72,,,110 kW (150 hp),305,Alfa Romeo 166 2.4 JTD 10v Business Edition,5,5,1,41.220,0,210,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,72,,,129 kW (175 hp),385,Alfa Romeo 166 2.4 JTDm 20v Progression,5,5,1,43.720,0,222,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,72,,,129 kW (175 hp),385,Alfa Romeo 166 2.4 JTDm 20v Progression,5,5,1,45.690,0,218,sequential automatic,2700 mm
+1,1,1,1,1,1,,2387,diesel,72,,,110 kW (150 hp),305,Alfa Romeo 166 2.4 JTD 10v Distinctive,5,5,1,43.220,0,210,manual,2700 mm
+1,1,1,1,1,1,,1970,petrol,72,,,110 kW (150 hp),181,Alfa Romeo 166 2.0 T.Spark Impression,4,5,1,35.220,0,211,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,72,,,129 kW (175 hp),385,Alfa Romeo 166 2.4 JTDm 20v Distinctive,5,5,1,46.720,0,222,manual,2700 mm
+0,0,0,0,0,0,,1490,petrol,50,,,70 kW (95 hp),130,Alfa Romeo 33 Giardinetta 1.5 4x4,4,5,0,19.519,0,170,manual,2455 mm
+0,0,0,0,0,0,,1490,petrol,49,,,70 kW (95 hp),130,Alfa Romeo Alfasud 1.5 TI Quadrifoglio,4,5,0,11.435,0,176,manual,2455 mm
+0,0,0,0,0,0,,1490,petrol,50,,,70 kW (95 hp),130,Alfa Romeo 33 Giardinetta 1.5,4,5,0,16.422,0,175,manual,2455 mm
+0,0,0,0,0,0,,1490,petrol,49,,,70 kW (95 hp),130,Alfa Romeo Alfasud 1.5 TI,4,5,0,9.979,0,176,manual,2455 mm
+0,0,0,0,0,0,,1490,petrol,49,,,63 kW (85 hp),121,Alfa Romeo Alfasud 1.5,4,5,0,8.481,0,170,manual,2455 mm
+0,0,0,0,0,0,,1350,petrol,49,,,58 kW (79 hp),111,Alfa Romeo Alfasud 1.3 SC,4,5,0,9.375,0,160,manual,2455 mm
+1,1,1,0,1,1,,2500,diesel,70,,,92 kW (125 hp),249,Alfa Romeo 164 Super 2.5 Turbo Diesel,4,5,0,31.515,0,202,manual,2660 mm
+1,0,0,0,0,1,,1962,petrol,70,,,107 kW (146 hp),187,Alfa Romeo 164 2.0 Twin Spark L,4,5,0,28.221,0,210,manual,2660 mm
+1,1,1,0,1,1,,2959,petrol,70,,,135 kW (184 hp),255,Alfa Romeo 164 Super 3.0 V6,6,5,0,39.910,0,230,manual,2660 mm
+0,0,0,0,0,0,,1962,petrol,70,,,107 kW (146 hp),187,Alfa Romeo 164 2.0 Twin Spark,4,5,0,24.863,0,210,manual,2660 mm
+1,1,1,0,1,1,,2959,petrol,70,,,135 kW (184 hp),255,Alfa Romeo 164 Super 3.0 V6,6,5,0,42.406,0,225,automatic,2660 mm
+1,1,1,0,1,1,,2959,petrol,70,,,152 kW (207 hp),270,Alfa Romeo 164 Super 3.0 V6 24V,6,5,0,44.107,0,240,manual,2660 mm
+1,1,1,0,1,1,,2959,petrol,75,,,168 kW (228 hp),280,Alfa Romeo 164 3.0 V6 24V Q,6,5,0,48.282,0,245,manual,2660 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo 159 Sportwagon 2.2 JTS Distinctive,4,5,1,39.985,0,220,semi-automatic,2700 mm
+1,1,1,0,1,1,,2959,petrol,70,,,152 kW (207 hp),270,Alfa Romeo 164 Super 3.0 V6 24V,6,5,0,47.057,0,235,automatic,2660 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo 159 Sportwagon 2.2 JTS Progression,4,5,1,38.485,0,220,semi-automatic,2700 mm
+1,0,0,0,0,1,,2500,diesel,70,,,92 kW (125 hp),294,Alfa Romeo 164 2.5 Turbo Diesel,4,5,0,32.332,0,202,manual,2660 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo 159 Sportwagon 3.2 JTS V6 Q4 Distinctive,6,5,1,53.115,0,237,sequential automatic,2700 mm
+0,0,0,0,0,0,,1350,petrol,49,,,58 kW (79 hp),111,Alfa Romeo Alfasud 1.3 N,4,5,0,8.436,0,160,manual,2455 mm
+1,1,1,1,1,1,,1796,petrol,70,,,103 kW (140 hp),175,Alfa Romeo 159 Sportwagon 1.8 mpi Strada,4,5,1,32.795,0,204,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo 159 Sportwagon 2.4 JTDm 20v Q4 Strada,5,5,1,44.795,0,224,manual,2700 mm
+1,1,1,1,1,1,,1859,petrol,70,,,118 kW (160 hp),190,Alfa Romeo 159 Sportwagon 1.9 JTS Strada,4,5,1,34.545,0,210,manual,2700 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo 159 Sportwagon 2.2 JTS Strada,4,5,1,37.795,0,220,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo 159 Sportwagon 2.4 JTDm 20v Q4 Progression,5,5,1,47.735,0,224,manual,2700 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo 159 Sportwagon 3.2 JTS V6 Q4 Progression,6,5,1,51.615,0,237,sequential automatic,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo 159 Sportwagon 2.4 JTDm 20v Q4 Distinctive,5,5,1,49.235,0,224,manual,2700 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo 159 Sportwagon 3.2 JTS V6 Q4 Strada,6,5,1,50.010,0,237,sequential automatic,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 Sportwagon 1.9 JTDm 16v Strada,4,5,1,38.695,0,208,manual,2700 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo 159 Sportwagon 3.2 JTS V6 Q4 Strada,6,5,1,47.490,0,237,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo 159 Sportwagon 2.4 JTDm 20v Progression,5,5,1,44.735,0,228,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 Sportwagon 1.9 JTDm 16v Strada,4,5,1,41.195,0,205,sequential automatic,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo 159 Sportwagon 2.4 JTDm 20v Strada,5,5,1,41.795,0,228,manual,2700 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo 159 Sportwagon 3.2 JTS V6 Q4 TI,6,5,1,53.595,0,237,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,147 kW (200 hp),400,Alfa Romeo 159 Sportwagon 2.4 JTDm 20v Strada,5,5,1,44.295,0,222,sequential automatic,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,88 kW (120 hp),280,Alfa Romeo 159 Sportwagon 1.9 JTDm 8v Strada,4,5,1,36.295,0,190,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,147 kW (200 hp),400,Alfa Romeo 159 Sportwagon 2.4 JTDm 20v Business Pro,5,5,1,45.515,0,222,sequential automatic,2700 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo 159 Sportwagon 3.2 JTS V6 Q4 TI,6,5,1,56.115,0,237,sequential automatic,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo 159 Sportwagon 2.4 JTDm 20v Business,5,5,1,40.995,0,228,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo 159 Sportwagon 2.4 JTDm 20v Business Pro,5,5,1,42.995,0,228,manual,2700 mm
+1,1,1,1,1,1,,1796,petrol,70,,,103 kW (140 hp),175,Alfa Romeo 159 Sportwagon 1.8 mpi Business Pro,4,5,1,32.595,0,204,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,88 kW (120 hp),280,Alfa Romeo 159 Sportwagon 1.9 JTDm 8v Business Pro,4,5,1,36.195,0,190,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,147 kW (200 hp),400,Alfa Romeo 159 Sportwagon 2.4 JTDm 20v TI,5,5,1,51.755,0,222,sequential automatic,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo 159 Sportwagon 2.4 JTDm 20v Q4 TI,5,5,1,52.235,0,224,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 Sportwagon 1.9 JTDm 16v Business Pro,4,5,1,38.650,0,208,manual,2700 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo 159 Sportwagon 2.2 JTS Business Pro,4,5,1,37.695,0,220,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo 159 Sportwagon 2.4 JTDm 20v TI,5,5,1,49.235,0,228,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,88 kW (120 hp),280,Alfa Romeo 159 Sportwagon 1.9 JTDm 8v Progression,4,5,1,34.700,0,190,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 Sportwagon 1.9 JTDm 16v Business Pro,4,5,1,41.170,0,205,sequential automatic,2700 mm
+1,1,1,1,1,1,,1796,petrol,70,,,103 kW (140 hp),175,Alfa Romeo 159 Sportwagon 1.8 mpi Progression,4,5,1,31.095,0,204,manual,2700 mm
+1,1,1,1,1,1,,1796,petrol,70,,,103 kW (140 hp),175,Alfa Romeo 159 Sportwagon 1.8 mpi Impression,4,5,1,29.850,0,204,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 Sportwagon 1.9 JTDm 16v Impression,4,5,1,35.900,0,208,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,88 kW (120 hp),280,Alfa Romeo 159 Sportwagon 1.9 JTDm 8v Business,4,5,1,33.495,0,190,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 Sportwagon 1.9 JTDm 16v Progression,4,5,1,37.150,0,208,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 Sportwagon 1.9 JTDm 16v Progression,4,5,1,39.670,0,205,sequential automatic,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 Sportwagon 1.9 JTDm 16v Business,4,5,1,36.045,0,208,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 Sportwagon 1.9 JTDm 16v Business,4,5,1,38.565,0,205,sequential automatic,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 Sportwagon 1.9 JTDm 16v TI,4,5,1,41.650,0,208,manual,2700 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo 159 Sportwagon 3.2 JTS V6 Q4 Distinctive,6,5,1,50.595,0,237,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,88 kW (120 hp),280,Alfa Romeo 159 Sportwagon 1.9 JTDm 8v Impression,4,5,1,33.450,0,190,manual,2700 mm
+1,1,1,1,1,1,,1796,petrol,70,,,103 kW (140 hp),175,Alfa Romeo 159 Sportwagon 1.8 mpi Business,4,5,1,29.895,0,204,manual,2700 mm
+1,1,1,1,1,1,,1796,petrol,70,,,103 kW (140 hp),175,Alfa Romeo 159 Sportwagon 1.8 mpi Distinctive,4,5,1,32.595,0,204,manual,2700 mm
+1,1,1,1,1,1,,1859,petrol,70,,,118 kW (160 hp),190,Alfa Romeo 159 Sportwagon 1.9 JTS Distinctive,4,5,1,34.350,0,210,manual,2700 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo 159 Sportwagon 2.2 JTS Progression,4,5,1,36.485,0,220,manual,2700 mm
+1,1,1,1,1,1,,1859,petrol,70,,,118 kW (160 hp),190,Alfa Romeo 159 Sportwagon 1.9 JTS Impression,4,5,1,31.600,0,210,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,88 kW (120 hp),280,Alfa Romeo 159 Sportwagon 1.9 JTDm 8v Distinctive,4,5,1,36.195,0,190,manual,2700 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo 159 Sportwagon 2.2 JTS Business,4,5,1,34.995,0,220,manual,2700 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo 159 Sportwagon 2.2 JTS Distinctive,4,5,1,37.985,0,220,manual,2700 mm
+1,1,1,1,1,1,,1859,petrol,70,,,118 kW (160 hp),190,Alfa Romeo 159 Sportwagon 1.9 JTS Progression,4,5,1,32.850,0,210,manual,2700 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo 159 Sportwagon 3.2 JTS V6 Q4 Progression,6,5,1,49.095,0,237,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,147 kW (200 hp),400,Alfa Romeo 159 Sportwagon 2.4 JTDm 20v Business,5,5,1,43.515,0,222,sequential automatic,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 Sportwagon 1.9 JTDm 16v Distinctive,4,5,1,38.650,0,208,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,147 kW (200 hp),400,Alfa Romeo 159 Sportwagon 2.4 JTDm 20v Distinctive,5,5,1,45.235,0,226,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,147 kW (200 hp),400,Alfa Romeo 159 Sportwagon 2.4 JTDm 20v Distinctive,5,5,1,48.755,0,222,sequential automatic,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 Sportwagon 1.9 JTDm 16v Distinctive,4,5,1,41.170,0,205,sequential automatic,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,147 kW (200 hp),400,Alfa Romeo 159 Sportwagon 2.4 JTDm 20v Business,5,5,1,39.995,0,226,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,147 kW (200 hp),400,Alfa Romeo 159 Sportwagon 2.4 JTDm 20v Progression,5,5,1,43.735,0,226,manual,2700 mm
+0,0,0,0,0,0,,1178,petrol,49,,,46 kW (63 hp),88,Alfa Romeo Alfasud 1.2 N,4,5,0,7.120,0,150,manual,2455 mm
+0,0,0,0,0,0,,1490,petrol,49,,,63 kW (85 hp),121,Alfa Romeo Alfasud 1.5,4,5,0,8.617,0,170,manual,2455 mm
+0,0,0,0,0,0,,1350,petrol,49,,,58 kW (79 hp),111,Alfa Romeo Alfasud 1.3 N,4,5,0,8.105,0,160,manual,2455 mm
+0,0,0,0,0,0,,1490,petrol,49,,,70 kW (95 hp),130,Alfa Romeo Alfasud 1.5 Quadrifoglio,4,5,0,10.795,0,176,manual,2455 mm
+1,1,1,1,1,1,,4735,petrol,80,,,313 kW (426 hp),470,Aston Martin V8 Vantage,8,2,1,177.641,0,288,semi-automatic,2600 mm
+1,1,1,1,1,1,,4735,petrol,80,,,321 kW (436 hp),490,Aston Martin V8 Vantage S,8,2,1,192.295,0,305,semi-automatic,2600 mm
+1,1,1,1,1,1,,1796,petrol,70,,,103 kW (140 hp),175,Alfa Romeo 159 1.8 mpi Progression,4,5,1,29.995,0,206,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,61,,,77 kW (105 hp),255,Alfa Romeo 146 1.9 JTD L,4,5,0,20.279,0,185,manual,2540 mm
+1,1,1,0,1,1,,1970,petrol,51,,,110 kW (150 hp),187,Alfa Romeo 145 Quadrifoglio,4,5,0,20.987,0,210,manual,2540 mm
+1,1,0,0,1,1,,1747,petrol,63,,,103 kW (140 hp),165,Alfa Romeo 155 1.8 Twin Spark 16V L,4,5,0,20.397,0,205,manual,2540 mm
+1,1,0,0,1,1,,5341,petrol,95,,,260 kW (349 hp),500,Aston Martin V8 Volante,8,4,0,322.184,0,240,automaat,2810 mm
+1,1,1,1,1,1,,3179,petrol,63,,,184 kW (250 hp),300,Alfa Romeo 156 GTA 3.2 V6 24V Selespeed,6,5,0,49.360,0,250,semi-automatic,2595 mm
+1,1,0,0,0,1,,1598,petrol,63,,,88 kW (120 hp),144,Alfa Romeo 155 1.6 Twin Spark 16V,4,5,0,17.675,0,195,manual,2540 mm
+1,1,0,0,1,1,,2500,diesel,63,,,92 kW (125 hp),294,Alfa Romeo 155 2.5 TD S,4,5,0,26.206,0,195,manual,2540 mm
+1,1,1,1,1,1,,4735,petrol,80,,,313 kW (426 hp),470,Aston Martin V8 Vantage,8,2,1,182.521,0,288,manual,2600 mm
+0,0,0,0,0,1,,1929,diesel,63,,,68 kW (92 hp),186,Alfa Romeo 155 2.0 TD,4,5,0,20.760,0,180,manual,2540 mm
+1,0,0,0,0,0,,1351,petrol,51,,,66 kW (90 hp),115,Alfa Romeo 146 1.4 i.e. Basis,4,5,0,13.591,0,179,manual,2540 mm
+1,1,0,0,1,1,,1747,petrol,63,,,103 kW (140 hp),165,Alfa Romeo 155 1.8 Twin Spark 16V S,4,5,0,20.171,0,205,manual,2540 mm
+1,1,1,0,1,1,,1970,petrol,61,,,110 kW (150 hp),187,Alfa Romeo 146 TI,4,5,0,21.532,0,215,manual,2540 mm
+1,1,0,0,1,1,,5341,petrol,105,,,410 kW (558 hp),745,Aston Martin Vantage,8,4,0,360.755,0,300,manual,2611 mm
+0,0,0,0,0,1,,1749,petrol,63,,,85 kW (116 hp),146,Alfa Romeo 155 1.7 Twin Spark,4,5,0,17.471,0,191,manual,2540 mm
+1,1,0,0,1,1,,5341,petrol,103,,,260 kW (349 hp),500,Aston Martin V8 Coupe,8,4,0,283.613,0,250,automaat,2611 mm
+1,1,1,0,1,1,,1370,petrol,51,,,76 kW (103 hp),124,Alfa Romeo 146 1.4 Twin Spark 16V L Junior,4,5,0,16.087,0,187,manual,2540 mm
+1,1,1,0,1,1,,1370,petrol,51,,,76 kW (103 hp),124,Alfa Romeo 146 1.4 Twin Spark 16V,4,5,0,14.408,0,187,manual,2540 mm
+1,1,1,0,1,1,,1747,petrol,61,,,103 kW (140 hp),165,Alfa Romeo 146 1.8 Twin Spark 16V L,4,5,0,18.355,0,207,manual,2540 mm
+0,0,0,0,1,1,,2500,diesel,63,,,92 kW (125 hp),294,Alfa Romeo 155 2.5 TD,4,5,0,25.752,0,195,manual,2540 mm
+1,1,1,0,1,1,,1598,petrol,51,,,88 kW (120 hp),144,Alfa Romeo 146 1.6 Twin Spark 16V L Junior,4,5,0,17.323,0,197,manual,2540 mm
+1,1,1,0,1,1,,1370,petrol,51,,,76 kW (103 hp),124,Alfa Romeo 146 1.4 Twin Spark 16V L,4,5,0,15.315,0,187,manual,2540 mm
+1,1,1,0,1,1,,1598,petrol,51,,,88 kW (120 hp),144,Alfa Romeo 146 1.6 Twin Spark 16V L,4,5,0,16.552,0,197,manual,2540 mm
+1,1,1,0,1,1,,1929,diesel,61,,,66 kW (90 hp),186,Alfa Romeo 146 2.0 TD,4,5,0,17.448,0,179,manual,2540 mm
+1,1,1,0,1,1,,1970,petrol,61,,,114 kW (155 hp),187,Alfa Romeo 146 TI,4,5,0,21.532,0,216,manual,2540 mm
+1,1,1,0,1,1,,1351,petrol,51,,,66 kW (90 hp),115,Alfa Romeo 146 1.4 i.e. L,4,5,0,15.315,0,179,manual,2540 mm
+1,1,1,0,0,0,,1351,petrol,51,,,66 kW (90 hp),115,Alfa Romeo 146 1.4 i.e.,4,5,0,14.408,0,179,manual,2540 mm
+1,1,1,0,1,1,,1596,petrol,51,,,76 kW (103 hp),134,Alfa Romeo 146 1.6 i.e.,4,5,0,15.871,0,187,manual,2540 mm
+1,1,1,0,1,1,,1929,diesel,61,,,66 kW (90 hp),186,Alfa Romeo 146 2.0 TD L,4,5,0,19.047,0,179,manual,2540 mm
+1,1,1,0,1,1,,1747,petrol,61,,,106 kW (144 hp),169,Alfa Romeo 146 1.8 Twin Spark 16V L,4,5,0,18.355,0,209,manual,2540 mm
+1,1,1,0,1,1,,1596,petrol,51,,,76 kW (103 hp),134,Alfa Romeo 146 1.6 i.e. L,4,5,0,16.552,0,187,manual,2540 mm
+1,0,0,0,1,1,,1995,petrol,63,,,140 kW (190 hp),291,Alfa Romeo 155 2.0 16V Turbo Q4,4,5,0,34.805,0,225,manual,2540 mm
+1,1,1,0,1,1,,1712,petrol,51,,,95 kW (129 hp),148,Alfa Romeo 146 1.7 i.e. 16V L,4,5,0,18.287,0,201,manual,2540 mm
+0,0,0,0,1,1,,1995,petrol,63,,,105 kW (143 hp),187,Alfa Romeo 155 2.0 Twin Spark,4,5,0,23.370,0,205,manual,2540 mm
+0,0,0,0,1,1,,1773,petrol,63,,,95 kW (129 hp),165,Alfa Romeo 155 1.8 Twin Spark L,4,5,0,21.055,0,200,manual,2540 mm
+1,0,0,0,1,1,,2492,petrol,63,,,122 kW (166 hp),216,Alfa Romeo 155 2.5 V6,6,5,0,30.063,0,215,manual,2540 mm
+1,1,1,1,1,1,,5935,petrol,78,,,421 kW (573 hp),620,Aston Martin Vanquish Volante,12,2,1,347.958,0,295,sequential automatic,2740 mm
+0,0,0,0,0,1,,1773,petrol,63,,,95 kW (129 hp),165,Alfa Romeo 155 1.8 Twin Spark,4,5,0,18.963,0,200,manual,2540 mm
+1,1,1,1,1,1,,4735,petrol,80,,,313 kW (426 hp),470,Aston Martin V8 Vantage Roadster,8,2,1,189.724,0,288,semi-automatic,2600 mm
+1,1,1,1,1,1,,4735,petrol,80,,,313 kW (426 hp),470,Aston Martin V8 Vantage Roadster,8,2,1,194.568,0,288,manual,2600 mm
+1,1,1,1,1,1,,5935,petrol,78,,,421 kW (573 hp),620,Aston Martin Vanquish,12,2,1,332.706,0,295,sequential automatic,2740 mm
+1,1,1,1,1,1,,4280,petrol,77,,,283 kW (380 hp),410,Aston Martin V8 Vantage Roadster,8,2,0,166.150,0,280,semi-automatic,2600 mm
+1,1,0,0,0,1,,1749,petrol,63,,,85 kW (116 hp),152,Alfa Romeo 155 1.7 Twin Spark,4,5,0,17.675,0,193,manual,2540 mm
+1,1,1,1,1,1,,4735,petrol,80,,,321 kW (436 hp),490,Aston Martin V8 Vantage S Roadster,8,2,1,204.384,0,305,semi-automatic,2600 mm
+1,1,1,1,1,1,,4280,petrol,77,,,283 kW (380 hp),410,Aston Martin V8 Vantage Roadster,8,2,0,166.150,0,280,manual,2600 mm
+1,1,0,0,1,1,,1970,petrol,63,,,110 kW (150 hp),186,Alfa Romeo 155 2.0 Twin Spark 16V S,4,5,0,22.576,0,208,manual,2540 mm
+1,1,0,0,1,1,,1773,petrol,63,,,93 kW (126 hp),165,Alfa Romeo 155 1.8 Twin Spark S,4,5,0,20.171,0,200,manual,2540 mm
+1,1,0,0,1,1,,1970,petrol,63,,,110 kW (150 hp),186,Alfa Romeo 155 2.0 Twin Spark 16V Super,4,5,0,22.576,0,208,manual,2540 mm
+1,1,0,0,1,1,,1995,petrol,63,,,137 kW (186 hp),283,Alfa Romeo 155 2.0 16V Turbo Q4,4,5,0,34.691,0,225,manual,2540 mm
+1,1,0,0,1,1,,2492,petrol,63,,,120 kW (163 hp),216,Alfa Romeo 155 2.5 V6,6,5,0,29.927,0,215,manual,2540 mm
+1,1,0,0,1,1,,1773,petrol,63,,,93 kW (126 hp),165,Alfa Romeo 155 1.8 Twin Spark L,4,5,0,20.397,0,200,manual,2540 mm
+1,1,0,0,0,1,,1929,diesel,63,,,66 kW (90 hp),186,Alfa Romeo 155 2.0 TD,4,5,0,20.965,0,180,manual,2540 mm
+1,1,1,0,0,1,,1370,petrol,51,,,76 kW (103 hp),124,Alfa Romeo 145 1.4 Twin Spark 16V,4,5,0,13.591,0,185,manual,2540 mm
+1,1,1,0,1,1,,1747,petrol,51,,,103 kW (140 hp),165,Alfa Romeo 145 1.8 Twin Spark 16V L,4,5,0,17.675,0,205,manual,2540 mm
+1,1,1,0,1,1,,1370,petrol,51,,,76 kW (103 hp),124,Alfa Romeo 145 1.4 Twin Spark 16V L,4,5,0,14.589,0,185,manual,2540 mm
+1,0,0,0,0,0,,1351,petrol,51,,,66 kW (90 hp),115,Alfa Romeo 145 1.4 i.e. Basis,4,5,0,12.910,0,178,manual,2540 mm
+1,1,1,0,1,1,,1598,petrol,51,,,88 kW (120 hp),144,Alfa Romeo 145 1.6 Twin Spark 16V L Junior,4,5,0,16.415,0,195,manual,2540 mm
+1,1,1,0,1,1,,1598,petrol,51,,,88 kW (120 hp),144,Alfa Romeo 145 1.6 Twin Spark 16V L,4,5,0,15.826,0,195,manual,2540 mm
+1,1,1,0,1,1,,1370,petrol,51,,,76 kW (103 hp),124,Alfa Romeo 145 1.4 Twin Spark 16V L Junior,4,5,0,14.589,0,185,manual,2540 mm
+1,1,1,0,1,1,,1747,petrol,51,,,106 kW (144 hp),169,Alfa Romeo 145 1.8 Twin Spark 16V L,4,5,0,17.675,0,207,manual,2540 mm
+1,1,1,0,1,1,,1970,petrol,51,,,114 kW (155 hp),187,Alfa Romeo 145 Quadrifoglio,4,5,0,20.987,0,210,manual,2540 mm
+1,1,1,0,1,1,,1929,diesel,61,,,66 kW (90 hp),186,Alfa Romeo 145 2.0 TD L,4,5,0,18.321,0,178,manual,2540 mm
+1,1,1,0,1,1,,1929,diesel,61,,,66 kW (90 hp),186,Alfa Romeo 145 2.0 TD,4,5,0,16.722,0,178,manual,2540 mm
+1,1,1,0,0,0,,1351,petrol,51,,,66 kW (90 hp),115,Alfa Romeo 145 1.4 i.e.,4,5,0,13.591,0,178,manual,2540 mm
+1,1,1,0,1,1,,1351,petrol,51,,,66 kW (90 hp),115,Alfa Romeo 145 1.4 i.e. L,4,5,0,14.589,0,178,manual,2540 mm
+1,1,1,0,1,1,,1596,petrol,51,,,76 kW (103 hp),134,Alfa Romeo 145 1.6 i.e.,4,5,0,15.145,0,185,manual,2540 mm
+1,1,1,1,0,1,,1910,diesel,61,,,77 kW (105 hp),255,Alfa Romeo 146 1.9 JTD,4,5,0,18.101,0,185,manual,2540 mm
+1,1,1,0,1,1,,1712,petrol,51,,,95 kW (129 hp),148,Alfa Romeo 145 1.7 16V,4,5,0,17.607,0,200,manual,2540 mm
+1,1,1,1,1,1,,1970,petrol,61,,,114 kW (155 hp),187,Alfa Romeo 146 TI,4,5,0,22.231,0,216,manual,2540 mm
+1,1,1,0,1,1,,1596,petrol,51,,,76 kW (103 hp),134,Alfa Romeo 145 1.6 i.e. L,4,5,0,15.826,0,185,manual,2540 mm
+1,1,1,1,0,1,,1370,petrol,51,,,76 kW (103 hp),124,Alfa Romeo 146 1.4 Twin Spark 16V,4,5,0,15.288,0,187,manual,2540 mm
+1,1,1,1,1,1,,1598,petrol,51,,,88 kW (120 hp),144,Alfa Romeo 146 1.6 Twin Spark 16V L,4,5,0,16.740,0,197,manual,2540 mm
+1,1,1,1,1,1,,1747,petrol,61,,,106 kW (144 hp),169,Alfa Romeo 146 1.8 Twin Spark 16V L,4,5,0,18.918,0,209,manual,2540 mm
+1,1,1,1,1,1,,1370,petrol,51,,,76 kW (103 hp),124,Alfa Romeo 146 1.4 Twin Spark 16V L,4,5,0,15.832,0,187,manual,2540 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 1.9 JTDm 16v Business,4,5,1,37.465,0,207,sequential automatic,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 1.9 JTDm 16v Business,4,5,1,34.945,0,210,manual,2700 mm
+1,1,1,1,1,1,,1796,petrol,70,,,103 kW (140 hp),175,Alfa Romeo 159 1.8 mpi Business,4,5,1,28.795,0,206,manual,2700 mm
+1,1,1,1,1,1,,1796,petrol,70,,,103 kW (140 hp),175,Alfa Romeo 159 1.8 mpi Distinctive,4,5,1,31.495,0,206,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,88 kW (120 hp),280,Alfa Romeo 159 1.9 JTDm 8v Business,4,5,1,32.395,0,191,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 1.9 JTDm 16v Progression,4,5,1,38.570,0,207,sequential automatic,2700 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo 159 2.2 JTS Business,4,5,1,33.895,0,222,manual,2700 mm
+1,1,1,1,1,1,,1796,petrol,70,,,103 kW (140 hp),175,Alfa Romeo 159 1.8 mpi Impression,4,5,1,28.750,0,206,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 1.9 JTDm 16v Distinctive,4,5,1,40.070,0,207,sequential automatic,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,147 kW (200 hp),400,Alfa Romeo 159 2.4 JTDm 20v Business,5,5,1,42.415,0,224,sequential automatic,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,147 kW (200 hp),400,Alfa Romeo 159 2.4 JTDm 20v Business,5,5,1,38.695,0,228,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,147 kW (200 hp),400,Alfa Romeo 159 2.4 JTDm 20v Progression,5,5,1,46.155,0,224,sequential automatic,2700 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo 159 2.2 JTS Distinctive,4,5,1,38.885,0,222,semi-automatic,2700 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo 159 2.2 JTS TI,4,5,1,41.885,0,222,semi-automatic,2700 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo 159 2.2 JTS TI,4,5,1,39.885,0,222,manual,2700 mm
+1,1,1,1,1,1,,1859,petrol,70,,,118 kW (160 hp),190,Alfa Romeo 159 1.9 JTS Strada,4,5,1,33.245,0,212,manual,2700 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo 159 2.2 JTS Strada,4,5,1,38.495,0,222,semi-automatic,2700 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo 159 2.2 JTS Strada,4,5,1,36.495,0,222,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,147 kW (200 hp),400,Alfa Romeo 159 2.4 JTDm 20v Distinctive,5,5,1,47.655,0,224,sequential automatic,2700 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo 159 2.2 JTS Progression,4,5,1,37.385,0,222,semi-automatic,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo 159 2.4 JTDm 20v Distinctive,5,5,1,45.135,0,230,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo 159 2.4 JTDm 20v Q4 Progression,5,5,1,46.635,0,226,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo 159 2.4 JTDm 20v Q4 Strada,5,5,1,43.495,0,226,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo 159 2.4 JTDm 20v Q4 Distinctive,5,5,1,48.135,0,226,manual,2700 mm
+1,1,1,1,1,1,,1796,petrol,70,,,103 kW (140 hp),175,Alfa Romeo 159 1.8 mpi Strada,4,5,1,31.495,0,206,manual,2700 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo 159 3.2 JTS V6 Q4 Progression,6,5,1,50.515,0,240,sequential automatic,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 1.9 JTDm 16v TI,4,5,1,40.550,0,210,manual,2700 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo 159 3.2 JTS V6 Q4 Distinctive,6,5,1,52.015,0,240,sequential automatic,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 1.9 JTDm 16v Strada,4,5,1,39.895,0,207,sequential automatic,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 1.9 JTDm 16v TI,4,5,1,43.070,0,207,sequential automatic,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 1.9 JTDm 16v Strada,4,5,1,37.395,0,210,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo 159 2.4 JTDm 20v Progression,5,5,1,43.635,0,230,manual,2700 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo 159 3.2 JTS V6 Q4 Strada,6,5,1,46.190,0,240,manual,2700 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo 159 3.2 JTS V6 Q4 Strada,6,5,1,48.710,0,240,sequential automatic,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo 159 2.4 JTDm 20v Strada,5,5,1,40.495,0,230,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,88 kW (120 hp),280,Alfa Romeo 159 1.9 JTDm 8v Strada,4,5,1,34.995,0,191,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo 159 2.4 JTDm 20v Business,5,5,1,39.895,0,230,manual,2700 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo 159 3.2 JTS V6 Q4 TI,6,5,1,55.015,0,240,sequential automatic,2700 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo 159 3.2 JTS V6 Q4 TI,6,5,1,52.495,0,240,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,147 kW (200 hp),400,Alfa Romeo 159 2.4 JTDm 20v TI,5,5,1,50.655,0,224,sequential automatic,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo 159 2.4 JTDm 20v Business Pro,5,5,1,41.895,0,230,manual,2700 mm
+1,1,1,1,1,1,,1796,petrol,70,,,103 kW (140 hp),175,Alfa Romeo 159 1.8 mpi Business Pro,4,5,1,31.495,0,206,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,147 kW (200 hp),400,Alfa Romeo 159 2.4 JTDm 20v Strada,5,5,1,42.995,0,224,sequential automatic,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 1.9 JTDm 16v Business Pro,4,5,1,42.070,0,207,sequential automatic,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 1.9 JTDm 16v Business Pro,4,5,1,37.750,0,210,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo 159 2.4 JTDm 20v TI,5,5,1,48.135,0,230,manual,2700 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo 159 2.2 JTS Business Pro,4,5,1,36.595,0,222,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,88 kW (120 hp),280,Alfa Romeo 159 1.9 JTDm 8v Business Pro,4,5,1,35.095,0,191,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,147 kW (200 hp),400,Alfa Romeo 159 2.4 JTDm 20v Business Pro,5,5,1,44.415,0,224,sequential automatic,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 1.9 JTDm 16v Distinctive,4,5,1,37.550,0,210,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,147 kW (200 hp),400,Alfa Romeo 159 2.4 JTDm 20v Distinctive,5,5,1,43.935,0,228,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo 159 2.4 JTDm 20v Q4 TI,5,5,1,51.135,0,226,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 1.9 JTDm 16v Impression,4,5,1,34.800,0,210,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 1.9 JTDm 16v Progression,4,5,1,36.050,0,210,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,147 kW (200 hp),400,Alfa Romeo 159 2.4 JTDm 20v Progression,5,5,1,42.435,0,228,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,61,,,77 kW (105 hp),255,Alfa Romeo 145 1.9 JTD L,4,5,0,19.508,0,185,manual,2540 mm
+1,1,1,1,0,1,,1910,diesel,61,,,77 kW (105 hp),255,Alfa Romeo 145 1.9 JTD,4,5,0,17.330,0,185,manual,2540 mm
+1,1,1,1,1,1,,1370,petrol,51,,,76 kW (103 hp),124,Alfa Romeo 145 1.4 Twin Spark 16V L,4,5,0,15.061,0,185,manual,2540 mm
+1,1,1,1,1,1,,1598,petrol,51,,,88 kW (120 hp),144,Alfa Romeo 145 1.6 Twin Spark 16V L,4,5,0,15.969,0,195,manual,2540 mm
+1,1,1,1,1,1,,1747,petrol,61,,,106 kW (144 hp),169,Alfa Romeo 145 1.8 Twin Spark 16V L,4,5,0,18.147,0,207,manual,2540 mm
+1,1,1,1,1,1,,1970,petrol,61,,,114 kW (155 hp),187,Alfa Romeo 145 Quadrifoglio,4,5,0,21.459,0,211,manual,2540 mm
+1,1,1,1,1,1,,1910,diesel,70,,,88 kW (120 hp),280,Alfa Romeo 159 1.9 JTDm 8v Progression,4,5,1,33.600,0,191,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,88 kW (120 hp),280,Alfa Romeo 159 1.9 JTDm 8v Impression,4,5,1,32.350,0,191,manual,2700 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo 159 3.2 JTS V6 Q4 Distinctive,6,5,1,49.495,0,240,manual,2700 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo 159 2.2 JTS Distinctive,4,5,1,36.885,0,222,manual,2700 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo 159 3.2 JTS V6 Q4 Progression,6,5,1,47.995,0,240,manual,2700 mm
+1,1,1,1,1,1,,1859,petrol,70,,,118 kW (160 hp),190,Alfa Romeo 159 1.9 JTS Progression,4,5,1,31.750,0,212,manual,2700 mm
+1,1,1,1,1,1,,1859,petrol,70,,,118 kW (160 hp),190,Alfa Romeo 159 1.9 JTS Impression,4,5,1,30.300,0,212,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,88 kW (120 hp),280,Alfa Romeo 159 1.9 JTDm 8v Distinctive,4,5,1,35.095,0,191,manual,2700 mm
+1,1,1,1,1,1,,1859,petrol,70,,,118 kW (160 hp),190,Alfa Romeo 159 1.9 JTS Distinctive,4,5,1,33.250,0,212,manual,2700 mm
+1,1,1,1,0,1,,1370,petrol,51,,,76 kW (103 hp),124,Alfa Romeo 145 1.4 Twin Spark 16V,4,5,0,14.516,0,185,manual,2540 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo 159 2.2 JTS Progression,4,5,1,35.385,0,222,manual,2700 mm
+1,1,1,1,1,1,,4280,petrol,77,,,283 kW (380 hp),410,Aston Martin V8 Vantage,8,2,0,151.440,0,280,semi-automatic,2600 mm
+1,1,1,1,1,1,,1910,diesel,63,,,103 kW (140 hp),305,Alfa Romeo 156 1.9 JTD 16V Disctinctive,4,5,0,32.270,0,209,manual,2595 mm
+1,1,1,1,1,1,,2387,diesel,63,,,110 kW (150 hp),305,Alfa Romeo 156 2.4 JTD Distinctive,5,5,0,34.575,0,212,manual,2595 mm
+1,1,1,1,1,1,,1747,petrol,63,,,103 kW (140 hp),163,Alfa Romeo 156 1.8 T.Spark 16V Progression,4,5,0,25.615,0,208,manual,2595 mm
+1,1,1,1,1,1,,1970,petrol,63,,,121 kW (165 hp),206,Alfa Romeo 156 2.0 JTS 16V Progression,4,5,0,28.500,0,220,manual,2595 mm
+1,1,1,1,1,1,,2492,petrol,63,,,141 kW (192 hp),218,Alfa Romeo 156 2.5 V6 24V Distinctive,6,5,0,36.500,0,230,manual,2595 mm
+1,1,1,1,1,1,,1910,diesel,63,,,103 kW (140 hp),305,Alfa Romeo 156 1.9 JTD 16V Progression,4,5,0,31.070,0,209,manual,2595 mm
+1,1,1,1,1,1,,1970,petrol,63,,,121 kW (165 hp),206,Alfa Romeo 156 2.0 JTS 16V Selespeed Distinctive,4,5,0,31.265,0,220,semi-automatic,2595 mm
+1,1,1,1,1,1,,1910,diesel,63,,,85 kW (115 hp),275,Alfa Romeo 156 1.9 JTD Progression,4,5,0,29.270,0,191,manual,2595 mm
+1,1,1,1,1,1,,2492,petrol,63,,,141 kW (192 hp),218,Alfa Romeo 156 2.5 V6 24V Q-System Distinctive,6,5,0,38.460,0,227,automatic,2595 mm
+1,1,1,1,1,1,,3179,petrol,63,,,184 kW (250 hp),300,Alfa Romeo 156 GTA 3.2 V6 24V,6,5,0,47.975,0,250,manual,2595 mm
+1,1,1,1,1,1,,1598,petrol,63,,,88 kW (120 hp),146,Alfa Romeo 156 1.6 T.Spark 16V Progression,4,5,0,24.685,0,200,manual,2595 mm
+1,1,1,1,1,1,,1970,petrol,63,,,121 kW (165 hp),206,Alfa Romeo 156 2.0 JTS 16V Distinctive,4,5,0,29.880,0,220,manual,2595 mm
+1,1,1,1,1,1,,2387,diesel,63,,,110 kW (150 hp),305,Alfa Romeo 156 2.4 JTD Progression,5,5,0,33.195,0,212,manual,2595 mm
+1,1,1,1,1,1,,4280,petrol,77,,,283 kW (380 hp),410,Aston Martin V8 Vantage,8,2,0,151.440,0,280,manual,2600 mm
+0,0,0,0,0,0,,1350,petrol,49,,,58 kW (79 hp),111,Alfa Romeo Alfasud 1.3 SC,4,5,0,9.743,0,160,manual,2455 mm
+0,0,0,0,0,0,,1490,petrol,49,,,70 kW (95 hp),130,Alfa Romeo Alfasud 1.5 TI,4,5,0,8.390,0,176,manual,2455 mm
+1,1,1,1,1,1,,1598,petrol,60,,,77 kW (105 hp),140,Alfa Romeo 147 1.6 T.Spark 16V Business Pro,4,5,1,21.495,0,185,manual,2546 mm
+1,1,1,1,1,1,,1598,petrol,60,,,77 kW (105 hp),140,Alfa Romeo 147 1.6 T.Spark 16V Collezione,4,5,1,22.630,0,185,manual,2546 mm
+1,1,1,1,1,1,,1598,petrol,60,,,77 kW (105 hp),140,Alfa Romeo 147 1.6 T.Spark 16V Business Pro,4,5,1,22.095,0,185,manual,2546 mm
+1,1,1,1,1,1,,1910,diesel,60,,,110 kW (150 hp),305,Alfa Romeo 147 1.9 JTDm 16V Business Pro,4,5,1,28.595,0,208,manual,2546 mm
+1,1,1,1,1,1,,1598,petrol,60,,,88 kW (120 hp),146,Alfa Romeo 147 1.6 T.Spark 16V Veloce Business Pro,4,5,1,23.245,0,195,manual,2546 mm
+1,1,1,1,1,1,,1910,diesel,60,,,88 kW (120 hp),280,Alfa Romeo 147 1.9 JTDm Business Pro,4,5,1,26.795,0,193,manual,2546 mm
+1,1,1,1,1,1,,1970,petrol,63,,,121 kW (165 hp),206,Alfa Romeo 156 2.0 JTS 16V Selespeed Edizione Esclusiva,4,5,1,30.680,0,220,semi-automatic,2595 mm
+1,1,1,1,1,1,,3179,petrol,63,,,184 kW (250 hp),300,Alfa Romeo 156 Sportwagon GTA 3.2 V6 24V Selespeed,6,5,0,50.860,0,250,semi-automatic,2595 mm
+1,1,1,1,1,1,,2387,diesel,63,,,103 kW (140 hp),304,Alfa Romeo 156 2.4 JTD,5,5,0,33.060,0,205,manual,2595 mm
+1,1,1,1,1,1,,1910,diesel,63,,,85 kW (115 hp),275,Alfa Romeo 156 Sportwagon 1.9 JTD,4,5,0,28.640,0,191,manual,2595 mm
+1,1,1,1,1,1,,1747,petrol,63,,,103 kW (140 hp),169,Alfa Romeo 156 Sportwagon 1.8 T.Spark 16V Lusso,4,5,0,26.875,0,208,manual,2595 mm
+1,1,1,1,1,1,,1970,petrol,63,,,121 kW (165 hp),206,Alfa Romeo 156 Sportwagon 2.0 JTS 16V Edizione Esclusiva,4,5,1,30.795,0,220,manual,2595 mm
+1,1,1,1,1,1,,2387,diesel,63,,,129 kW (175 hp),385,Alfa Romeo 156 Sportwagon 2.4 JTD 20V Edizione Esclusiva,5,5,1,36.180,0,225,manual,2595 mm
+1,1,1,1,1,1,,1910,diesel,63,,,85 kW (115 hp),275,Alfa Romeo 156 Sportwagon 1.9 JTD Edizione Esclusiva,4,5,1,31.105,0,191,manual,2595 mm
+1,1,1,1,1,1,,1598,petrol,63,,,88 kW (120 hp),146,Alfa Romeo 156 Sportwagon 1.6 T.Spark 16V Ediz. Esclusiva,4,5,1,26.495,0,200,manual,2595 mm
+1,1,1,1,1,1,,1747,petrol,63,,,103 kW (140 hp),163,Alfa Romeo 156 Sportwagon 1.8 T.Spark 16V Ediz. Esclusiva,4,5,1,27.425,0,208,manual,2595 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo 159 2.4 JTDm 20v Distinctive,5,5,1,42.850,0,231,manual,2700 mm
+1,1,1,1,1,1,,1742,petrol,70,,,147 kW (200 hp),320,Alfa Romeo 159 1.750 TBi Progression,4,5,1,34.450,0,235,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,147 kW (200 hp),400,Alfa Romeo 159 2.4 JTDm 20v Distinctive,5,5,1,44.850,0,227,sequential automatic,2700 mm
+1,1,1,1,1,1,,1910,diesel,63,,,103 kW (140 hp),305,Alfa Romeo 156 Sportwagon 1.9 JTD 16V Edizione Esclusiva,4,5,1,32.905,0,209,manual,2595 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 1.9 JTDm 16v Distinctive,4,5,1,39.950,0,209,sequential automatic,2700 mm
+1,1,1,1,1,1,,5935,petrol,80,,,422 kW (573 hp),620,Aston Martin V12 Vantage Roadster S,12,2,1,304.951,0,323,semi-automatic,2600 mm
+1,1,1,1,1,1,,1910,diesel,70,,,88 kW (120 hp),280,Alfa Romeo 159 1.9 JTDm 8v Distinctive,4,5,1,34.150,0,193,manual,2700 mm
+1,1,1,1,1,1,,1956,diesel,70,,,125 kW (170 hp),360,Alfa Romeo 159 2.0 JTDm 170 Distinctive,4,5,1,37.850,0,218,manual,2700 mm
+1,1,1,1,1,1,,1956,diesel,70,,,125 kW (170 hp),360,Alfa Romeo 159 2.0 JTDm 170 Progression,4,5,1,35.690,0,218,manual,2700 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo 159 3.2 JTS V6 Q4 Distinctive,6,5,1,52.950,0,244,sequential automatic,2700 mm
+1,1,1,1,1,1,,5935,petrol,80,,,380 kW (517 hp),570,Aston Martin V12 Vantage Roadster,12,2,1,304.951,0,305,semi-automatic,2600 mm
+1,1,1,1,1,1,,1742,petrol,70,,,147 kW (200 hp),320,Alfa Romeo 159 1.750 TBi Distinctive,4,5,1,36.310,0,235,manual,2700 mm
+1,1,1,1,1,1,,1796,petrol,70,,,103 kW (140 hp),175,Alfa Romeo 159 1.8 mpi Centario,4,5,1,30.250,0,208,manual,2700 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo 159 2.2 JTS Distinctive,4,5,1,36.950,0,224,semi-automatic,2700 mm
+1,1,1,1,1,1,,1742,petrol,70,,,147 kW (200 hp),320,Alfa Romeo 159 1.750 TBi Centario,4,5,1,35.750,0,235,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,88 kW (120 hp),280,Alfa Romeo 159 1.9 JTDm 8v Centario,4,5,1,33.550,0,193,manual,2700 mm
+1,1,1,1,1,1,,1956,diesel,70,,,100 kW (136 hp),350,Alfa Romeo 159 2.0 JTDm 136 Progression,4,5,1,33.240,0,202,manual,2700 mm
+1,1,1,1,1,1,,1742,petrol,70,,,147 kW (200 hp),320,Alfa Romeo 159 1.750 TBi ECO Distinctive,4,5,1,36.310,0,235,manual,2700 mm
+1,1,1,1,1,1,,1742,petrol,70,,,147 kW (200 hp),320,Alfa Romeo 159 1.750 TBi ECO Progression,4,5,1,34.450,0,235,manual,2700 mm
+1,1,1,1,1,1,,1956,diesel,70,,,125 kW (170 hp),360,Alfa Romeo 159 2.0 JTDm 170 ECO Distinctive,4,5,1,37.850,0,218,manual,2700 mm
+1,1,1,1,1,1,,1956,diesel,70,,,125 kW (170 hp),360,Alfa Romeo 159 2.0 JTDm 170 ECO Progression,4,5,1,35.690,0,218,manual,2700 mm
+1,1,1,1,1,1,,1956,diesel,70,,,125 kW (170 hp),360,Alfa Romeo 159 2.0 JTDm 170 TI,4,5,1,38.450,0,218,manual,2700 mm
+1,1,1,1,1,1,,1956,diesel,70,,,100 kW (136 hp),350,Alfa Romeo 159 2.0 JTDm 136 TI,4,5,1,35.950,0,202,manual,2700 mm
+1,1,1,1,1,1,,1956,diesel,70,,,100 kW (136 hp),350,Alfa Romeo 159 2.0 JTDm 136 Distinctive,4,5,1,35.400,0,202,manual,2700 mm
+1,1,1,1,1,1,,1742,petrol,70,,,147 kW (200 hp),320,Alfa Romeo 159 1.750 TBi TI,4,5,1,36.950,0,235,manual,2700 mm
+1,1,1,1,1,1,,5935,petrol,80,,,422 kW (573 hp),620,Aston Martin V12 Vantage Coupe S,12,2,1,264.243,0,328,semi-automatic,2600 mm
+1,1,1,1,1,1,,5935,petrol,80,,,380 kW (517 hp),570,Aston Martin V12 Vantage Coupe,12,2,1,264.243,0,305,semi-automatic,2600 mm
+1,1,1,1,1,1,,1796,petrol,70,,,103 kW (140 hp),175,Alfa Romeo 159 1.8 mpi Progression,4,5,1,29.250,0,208,manual,2700 mm
+1,1,1,1,1,1,,5935,petrol,80,,,380 kW (517 hp),570,Aston Martin V12 Vantage Coupe,12,2,1,264.243,0,305,semi-automatic,2600 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo 159 3.2 JTS V6 Q4 Elegante,6,5,1,54.695,0,244,manual,2700 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo 159 3.2 JTS V6 Q4 Progression,6,5,1,52.945,0,244,manual,2700 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo 159 3.2 JTS V6 Q4 Progression,6,5,1,55.795,0,244,sequential automatic,2700 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo 159 3.2 JTS V6 Q4 TI,6,5,1,57.695,0,244,manual,2700 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo 159 3.2 JTS V6 Q4 Elegante,6,5,1,57.545,0,244,sequential automatic,2700 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo 159 3.2 JTS V6 TI,6,5,1,54.545,0,250,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,88 kW (120 hp),280,Alfa Romeo 159 1.9 JTDm 8v,4,5,1,31.750,0,193,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,88 kW (120 hp),280,Alfa Romeo 159 1.9 JTDm 8v Progression,4,5,1,31.990,0,193,manual,2700 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo 159 3.2 JTS V6 Q4 TI,6,5,1,60.545,0,244,sequential automatic,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 1.9 JTDm 16v,4,5,1,35.800,0,212,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 1.9 JTDm 16v Progression,4,5,1,37.050,0,212,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,88 kW (120 hp),280,Alfa Romeo 159 1.9 JTDm 8v Elegante,4,5,1,36.345,0,193,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,88 kW (120 hp),280,Alfa Romeo 159 1.9 JTDm 8v Business,4,5,1,32.895,0,193,manual,2700 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo 159 3.2 JTS V6 Elegante,6,5,1,51.545,0,250,manual,2700 mm
+1,1,1,1,1,1,,3195,petrol,70,,,191 kW (260 hp),322,Alfa Romeo 159 3.2 JTS V6 Progression,6,5,1,49.795,0,250,manual,2700 mm
+1,1,1,1,1,1,,1796,petrol,70,,,103 kW (140 hp),175,Alfa Romeo 159 1.8 mpi Business,4,5,1,29.295,0,208,manual,2700 mm
+1,1,1,1,1,1,,1796,petrol,70,,,103 kW (140 hp),175,Alfa Romeo 159 1.8 mpi Sport,4,5,1,31.795,0,208,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,88 kW (120 hp),280,Alfa Romeo 159 1.9 JTDm 8v Sport,4,5,1,35.395,0,193,manual,2700 mm
+1,1,1,1,1,1,,1796,petrol,70,,,103 kW (140 hp),175,Alfa Romeo 159 1.8 mpi Elegante,4,5,1,32.745,0,208,manual,2700 mm
+1,1,1,1,1,1,,1859,petrol,70,,,118 kW (160 hp),190,Alfa Romeo 159 1.9 JTS Progression,4,5,1,32.750,0,214,manual,2700 mm
+1,1,1,1,1,1,,1859,petrol,70,,,118 kW (160 hp),190,Alfa Romeo 159 1.9 JTS Elegante,4,5,1,34.500,0,214,manual,2700 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo 159 2.2 JTS Sport,4,5,1,37.395,0,224,manual,2700 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo 159 2.2 JTS Progression,4,5,1,36.885,0,224,manual,2700 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo 159 2.2 JTS Business,4,5,1,34.895,0,224,manual,2700 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo 159 2.2 JTS Elegante,4,5,1,38.635,0,224,manual,2700 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo 159 2.2 JTS TI,4,5,1,43.635,0,224,semi-automatic,2700 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo 159 2.2 JTS TI,4,5,1,41.635,0,224,manual,2700 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo 159 2.2 JTS Elegante,4,5,1,40.635,0,224,semi-automatic,2700 mm
+1,1,1,1,1,1,,2198,petrol,70,,,136 kW (185 hp),230,Alfa Romeo 159 2.2 JTS Progression,4,5,1,38.885,0,224,semi-automatic,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 1.9 JTDm 16v Progression,4,5,1,38.650,0,209,sequential automatic,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo 159 2.4 JTDm 20v Q4 TI,5,5,1,55.135,0,226,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo 159 2.4 JTDm 20v Sport,5,5,1,43.695,0,231,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo 159 2.4 JTDm 20v Business,5,5,1,41.695,0,231,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,147 kW (200 hp),400,Alfa Romeo 159 2.4 JTDm 20v Sport,5,5,1,47.995,0,227,sequential automatic,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo 159 2.4 JTDm 20v Progression,5,5,1,41.950,0,231,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,147 kW (200 hp),400,Alfa Romeo 159 2.4 JTDm 20v Progression,5,5,1,43.950,0,227,sequential automatic,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo 159 2.4 JTDm 20v Elegante,5,5,1,47.685,0,231,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,147 kW (200 hp),400,Alfa Romeo 159 2.4 JTDm 20v Elegante,5,5,1,51.985,0,227,sequential automatic,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,147 kW (200 hp),400,Alfa Romeo 159 2.4 JTDm 20v Business,5,5,1,45.915,0,227,sequential automatic,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 1.9 JTDm 16v Elegante,4,5,1,44.000,0,209,sequential automatic,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo 159 2.4 JTDm 20v TI,5,5,1,50.685,0,230,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 1.9 JTDm 16v Elegante,4,5,1,38.800,0,212,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo 159 2.4 JTDm 20v Q4 Elegante,5,5,1,52.135,0,226,manual,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,147 kW (200 hp),400,Alfa Romeo 159 2.4 JTDm 20v TI,5,5,1,54.985,0,227,sequential automatic,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 1.9 JTDm 16v TI,4,5,1,41.800,0,212,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 1.9 JTDm 16v Business,4,5,1,40.665,0,209,sequential automatic,2700 mm
+1,1,1,1,1,1,,2387,diesel,70,,,154 kW (210 hp),400,Alfa Romeo 159 2.4 JTDm 20v Q4 Progression,5,5,1,50.385,0,226,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 1.9 JTDm 16v Sport,4,5,1,43.145,0,209,sequential automatic,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 1.9 JTDm 16v Business,4,5,1,35.445,0,212,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 1.9 JTDm 16v TI,4,5,1,47.000,0,209,sequential automatic,2700 mm
+1,1,1,1,1,1,,1910,diesel,70,,,110 kW (150 hp),320,Alfa Romeo 159 1.9 JTDm 16v Sport,4,5,1,37.945,0,212,manual,2700 mm
+1,1,1,1,1,1,,1910,diesel,63,,,110 kW (150 hp),305,Alfa Romeo 156 Sportwagon 1.9 JTD 16V 150hp Impression,4,5,0,32.450,0,209,manual,2595 mm
+1,1,1,1,1,1,,1910,diesel,63,,,110 kW (150 hp),305,Alfa Romeo 156 Sportwagon 1.9 JTD 16V 150hp Progression,4,5,1,33.650,0,209,manual,2595 mm
+1,1,1,1,1,1,,1910,diesel,63,,,110 kW (150 hp),305,Alfa Romeo 156 Sportwagon 1.9 JTD 16V Q4 Distinctive,4,5,1,38.150,0,200,manual,2595 mm
+1,1,1,1,1,1,,3179,petrol,63,,,184 kW (250 hp),300,Alfa Romeo 156 Sportwagon GTA 3.2 V6 24V,6,5,1,49.450,0,250,manual,2595 mm
+1,1,1,1,1,1,,1910,diesel,63,,,110 kW (150 hp),305,Alfa Romeo 156 Sportwagon 1.9 JTD 16V 150hp Distinctive,4,5,1,34.850,0,209,manual,2595 mm
+1,1,1,1,1,1,,2492,petrol,63,,,141 kW (192 hp),218,Alfa Romeo 156 Sportwagon 2.5 V6 24V Q-System Distinctive,6,5,1,41.030,0,227,automatic,2595 mm
+1,1,1,1,1,1,,2387,diesel,63,,,129 kW (175 hp),385,Alfa Romeo 156 Sportwagon 2.4 JTD 20V Distinctive,5,5,1,37.450,0,225,manual,2595 mm
+1,1,1,1,1,1,,1910,diesel,63,,,110 kW (150 hp),305,Alfa Romeo 156 Sportwagon 1.9 JTD 16V Q4 Progression,4,5,1,36.950,0,200,manual,2595 mm
+1,1,1,1,1,1,,1970,petrol,63,,,121 kW (165 hp),206,Alfa Romeo 156 Sportwagon 2.0 JTS 16V Selespeed Ediz. Escl.,4,5,1,32.180,0,220,semi-automatic,2595 mm
+1,1,1,1,1,1,,2492,petrol,63,,,141 kW (192 hp),218,Alfa Romeo 156 Sportwagon 2.5 V6 24V Distinctive,6,5,1,39.030,0,230,manual,2595 mm
+1,1,1,1,1,1,,2492,petrol,63,,,141 kW (192 hp),218,Alfa Romeo 156 Sportwagon 2.5 V6 24V Progression,6,5,1,37.505,0,230,manual,2595 mm
+1,1,1,1,1,1,,1970,petrol,63,,,121 kW (165 hp),206,Alfa Romeo 156 Sportwagon 2.0 JTS 16V Selespeed Progression,4,5,1,32.180,0,220,semi-automatic,2595 mm
+1,1,1,1,1,1,,1970,petrol,63,,,121 kW (165 hp),206,Alfa Romeo 156 Sportwagon 2.0 JTS 16V Selespeed Distinctive,4,5,1,33.850,0,220,semi-automatic,2595 mm
+1,1,1,1,1,1,,1970,petrol,63,,,121 kW (165 hp),206,Alfa Romeo 156 Sportwagon 2.0 JTS 16V Progression,4,5,1,31.250,0,220,manual,2595 mm
+1,1,1,1,1,1,,1747,petrol,63,,,103 kW (140 hp),163,Alfa Romeo 156 Sportwagon 1.8 T.Spark 16V Progression,4,5,1,27.880,0,208,manual,2595 mm
+1,1,1,1,1,1,,1747,petrol,63,,,103 kW (140 hp),163,Alfa Romeo 156 Sportwagon 1.8 T.Spark 16V Distinctive,4,5,1,29.080,0,208,manual,2595 mm
+1,1,1,1,1,1,,1747,petrol,63,,,103 kW (140 hp),163,Alfa Romeo 156 Sportwagon 1.8 T.Spark 16V Impression,4,5,0,26.280,0,208,manual,2595 mm
+1,1,1,1,1,1,,1970,petrol,63,,,121 kW (165 hp),206,Alfa Romeo 156 Sportwagon 2.0 JTS 16V Distinctive,4,5,1,32.450,0,220,manual,2595 mm
+1,1,1,1,1,1,,1598,petrol,63,,,88 kW (120 hp),146,Alfa Romeo 156 Sportwagon 1.6 T.Spark 16V Distinctive,4,5,1,28.150,0,200,manual,2595 mm
+1,1,1,1,1,1,,1598,petrol,63,,,88 kW (120 hp),146,Alfa Romeo 156 Sportwagon 1.6 T.Spark 16V Progression,4,5,1,26.950,0,200,manual,2595 mm
+1,1,1,1,1,1,,3179,petrol,63,,,184 kW (250 hp),300,Alfa Romeo 156 Sportwagon GTA 3.2 V6 24V Selespeed,6,5,1,50.850,0,250,semi-automatic,2595 mm
+1,1,1,1,1,1,,1970,petrol,63,,,121 kW (165 hp),206,Alfa Romeo 156 Sportwagon 2.0 JTS 16V Impression,4,5,0,29.650,0,220,manual,2595 mm
+1,1,1,1,1,1,,2387,diesel,63,,,129 kW (175 hp),385,Alfa Romeo 156 Sportwagon 2.4 JTD 20V Progression,5,5,1,36.250,0,225,manual,2595 mm
+1,1,1,1,1,1,,1910,diesel,63,,,103 kW (140 hp),305,Alfa Romeo 156 Sportwagon 1.9 JTD 16V Progression,4,5,1,32.905,0,209,manual,2595 mm
+1,1,1,1,1,1,,1910,diesel,63,,,85 kW (115 hp),275,Alfa Romeo 156 Sportwagon 1.9 JTD Impression,4,5,0,30.050,0,191,manual,2595 mm
+1,1,1,1,1,1,,1598,petrol,63,,,88 kW (120 hp),146,Alfa Romeo 156 Sportwagon 1.6 T.Spark 16V Impression,4,5,0,25.750,0,200,manual,2595 mm
+1,1,1,1,1,1,,1910,diesel,63,,,103 kW (140 hp),305,Alfa Romeo 156 Sportwagon 1.9 JTD 16V Distinctive,4,5,1,34.105,0,209,manual,2595 mm
+1,1,1,1,1,1,,1910,diesel,63,,,85 kW (115 hp),275,Alfa Romeo 156 Sportwagon 1.9 JTD Progression,4,5,1,31.250,0,191,manual,2595 mm
+1,1,1,1,1,1,,1910,diesel,63,,,85 kW (115 hp),275,Alfa Romeo 156 Sportwagon 1.9 JTD Distinctive,4,5,1,32.450,0,191,manual,2595 mm
+1,1,1,1,1,1,,1910,diesel,63,,,103 kW (140 hp),305,Alfa Romeo 156 Sportwagon 1.9 JTD 16V Impression,4,5,0,31.760,0,209,manual,2595 mm
+1,1,1,1,1,1,,1910,diesel,63,,,85 kW (115 hp),275,Alfa Romeo 156 Sportwagon 1.9 JTD Lusso,4,5,0,29.890,0,191,manual,2595 mm
+1,1,1,1,1,1,,1747,petrol,63,,,106 kW (144 hp),169,Alfa Romeo 156 Sportwagon 1.8 T.Spark 16V,4,5,0,23.710,0,210,manual,2595 mm
+1,1,1,1,1,1,,2387,diesel,63,,,103 kW (140 hp),304,Alfa Romeo 156 Sportwagon 2.4 JTD,5,5,0,34.585,0,205,manual,2595 mm
+1,1,1,1,1,1,,1970,petrol,63,,,114 kW (155 hp),187,Alfa Romeo 156 Sportwagon 2.0 T.Spark 16V,4,5,0,27.340,0,216,manual,2595 mm
+1,1,1,1,1,1,,1970,petrol,63,,,110 kW (150 hp),181,Alfa Romeo 156 Sportwagon 2.0 T.Spark 16V Selespeed,4,5,0,31.675,0,214,semi-automatic,2595 mm
+1,1,1,1,1,1,,1747,petrol,63,,,103 kW (140 hp),169,Alfa Romeo 156 Sportwagon 1.8 T.Spark 16V,4,5,0,25.625,0,208,manual,2595 mm
+1,1,1,1,1,1,,1970,petrol,63,,,110 kW (150 hp),181,Alfa Romeo 156 Sportwagon 2.0 T.Spark 16V,4,5,0,30.275,0,214,manual,2595 mm
+1,1,1,1,1,1,,1910,diesel,63,,,77 kW (105 hp),255,Alfa Romeo 156 Sportwagon 1.9 JTD,4,5,0,26.886,0,188,manual,2595 mm
+1,1,1,1,1,1,,2492,petrol,63,,,140 kW (190 hp),222,Alfa Romeo 156 Sportwagon 2.5 V6 24V,6,5,0,37.225,0,230,manual,2595 mm
+1,1,1,1,1,1,,2492,petrol,63,,,140 kW (190 hp),222,Alfa Romeo 156 Sportwagon 2.5 V6 24V Q-System,6,5,0,39.225,0,227,automatic,2595 mm
+1,1,1,1,1,1,,1970,petrol,63,,,114 kW (155 hp),187,Alfa Romeo 156 Sportwagon 2.0 T.Spark 16V Selespeed,4,5,0,29.609,0,216,semi-automatic,2595 mm
+1,1,1,1,1,1,,1910,diesel,63,,,81 kW (110 hp),275,Alfa Romeo 156 Sportwagon 1.9 JTD,4,5,0,28.611,0,188,manual,2595 mm
+1,1,1,1,1,1,,1598,petrol,63,,,88 kW (120 hp),144,Alfa Romeo 156 Sportwagon 1.6 T.Spark 16V,4,5,0,24.500,0,200,manual,2595 mm
+1,1,1,1,1,1,,1910,diesel,63,,,85 kW (115 hp),275,Alfa Romeo 156 1.9 JTD,4,5,0,27.115,0,191,manual,2595 mm
+1,1,1,1,1,1,,1970,petrol,63,,,110 kW (150 hp),181,Alfa Romeo 156 2.0 T.Spark 16V Selespeed,4,5,0,30.150,0,214,semi-automatic,2595 mm
+1,1,1,1,1,1,,2387,diesel,63,,,100 kW (136 hp),304,Alfa Romeo 156 Sportwagon 2.4 JTD,5,5,0,32.786,0,203,manual,2595 mm
+1,1,1,1,1,1,,1747,petrol,63,,,103 kW (140 hp),169,Alfa Romeo 156 1.8 T.Spark 16V,4,5,0,24.100,0,208,manual,2595 mm
+1,1,1,1,1,1,,1910,diesel,63,,,81 kW (110 hp),275,Alfa Romeo 156 1.9 JTD,4,5,0,27.113,0,188,manual,2595 mm
+1,1,1,1,1,1,,1970,petrol,63,,,110 kW (150 hp),181,Alfa Romeo 156 2.0 T.Spark 16V,4,5,0,28.750,0,214,manual,2595 mm
+1,1,1,1,1,1,,1910,diesel,63,,,85 kW (115 hp),275,Alfa Romeo 156 1.9 JTD Lusso,4,5,0,28.365,0,191,manual,2595 mm
+1,1,1,1,1,1,,1970,petrol,63,,,114 kW (155 hp),187,Alfa Romeo 156 2.0 T.Spark 16V Selespeed,4,5,0,28.112,0,216,semi-automatic,2595 mm
+1,1,1,1,1,1,,2492,petrol,63,,,140 kW (190 hp),222,Alfa Romeo 156 2.5 V6 24V Q-System,6,5,0,37.700,0,227,automatic,2595 mm
+1,1,1,1,1,1,,2492,petrol,63,,,140 kW (190 hp),222,Alfa Romeo 156 2.5 V6 24V,6,5,0,35.700,0,230,manual,2595 mm
+1,1,1,1,1,1,,1970,petrol,63,,,114 kW (155 hp),187,Alfa Romeo 156 2.0 T.Spark 16V,4,5,0,25.843,0,216,manual,2595 mm
+1,1,1,1,1,1,,1910,diesel,63,,,103 kW (140 hp),305,Alfa Romeo 156 Sportwagon 1.9 JTD 16V Distinctive,4,5,0,33.770,0,209,manual,2595 mm
+1,1,1,1,1,1,,1747,petrol,63,,,106 kW (144 hp),169,Alfa Romeo 156 1.8 T.Spark 16V,4,5,0,22.213,0,210,manual,2595 mm
+1,1,1,1,1,1,,1598,petrol,63,,,88 kW (120 hp),144,Alfa Romeo 156 1.6 T.Spark 16V,4,5,0,23.100,0,200,manual,2595 mm
+1,1,1,1,1,1,,1747,petrol,63,,,103 kW (140 hp),163,Alfa Romeo 156 Sportwagon 1.8 T.Spark 16V Progression,4,5,0,27.115,0,208,manual,2595 mm
+1,1,1,1,1,1,,1910,diesel,63,,,103 kW (140 hp),305,Alfa Romeo 156 Sportwagon 1.9 JTD 16V Progression,4,5,0,32.570,0,209,manual,2595 mm
+1,1,1,1,1,1,,1970,petrol,63,,,121 kW (165 hp),206,Alfa Romeo 156 Sportwagon 2.0 JTS 16V Progression,4,5,0,30.000,0,220,manual,2595 mm
+1,1,1,1,1,1,,2387,diesel,63,,,110 kW (150 hp),305,Alfa Romeo 156 Sportwagon 2.4 JTD Distinctive,5,5,0,36.075,0,212,manual,2595 mm
+1,1,1,1,1,1,,1970,petrol,63,,,121 kW (165 hp),206,Alfa Romeo 156 Sportwagon 2.0 JTS 16V Distinctive,4,5,0,31.380,0,220,manual,2595 mm
+1,1,1,1,1,1,,2492,petrol,63,,,141 kW (192 hp),218,Alfa Romeo 156 Sportwagon 2.5 V6 24V Q-System Distinctive,6,5,0,39.960,0,227,automatic,2595 mm
+1,1,1,1,1,1,,1598,petrol,63,,,88 kW (120 hp),146,Alfa Romeo 156 Sportwagon 1.6 T.Spark 16V Progression,4,5,0,26.185,0,200,manual,2595 mm
+1,1,1,1,1,1,,2492,petrol,63,,,141 kW (192 hp),218,Alfa Romeo 156 Sportwagon 2.5 V6 24V Distinctive,6,5,0,38.000,0,230,manual,2595 mm
+1,1,1,1,1,1,,2387,diesel,63,,,110 kW (150 hp),305,Alfa Romeo 156 Sportwagon 2.4 JTD Progression,5,5,0,34.695,0,212,manual,2595 mm
+1,1,1,1,1,1,,1970,petrol,63,,,121 kW (165 hp),206,Alfa Romeo 156 Sportwagon 2.0 JTS 16V Selespeed Distinctive,4,5,0,32.765,0,220,semi-automatic,2595 mm
+1,1,1,1,1,1,,2387,diesel,63,,,129 kW (175 hp),385,Alfa Romeo 156 2.4 JTD 20V Edizione Esclusiva,5,5,1,34.680,0,225,manual,2595 mm
+1,1,1,1,1,1,,1598,petrol,63,,,88 kW (120 hp),146,Alfa Romeo 156 1.6 T.Spark 16V Edizione Esclusiva,4,5,1,24.995,0,200,manual,2595 mm
+1,1,1,1,1,1,,1910,diesel,63,,,85 kW (115 hp),275,Alfa Romeo 156 1.9 JTD Edizione Esclusiva,4,5,1,29.605,0,191,manual,2595 mm
+1,1,1,1,1,1,,3179,petrol,63,,,184 kW (250 hp),300,Alfa Romeo 156 Sportwagon GTA 3.2 V6 24V,6,5,0,49.475,0,250,manual,2595 mm
+1,1,1,1,1,1,,1747,petrol,63,,,103 kW (140 hp),163,Alfa Romeo 156 1.8 T.Spark 16V Edizione Esclusiva,4,5,1,25.925,0,208,manual,2595 mm
+1,1,1,1,1,1,,1970,petrol,63,,,121 kW (165 hp),206,Alfa Romeo 156 2.0 JTS 16V Edizione Esclusiva,4,5,1,29.295,0,220,manual,2595 mm
+1,1,1,1,1,1,,1910,diesel,63,,,103 kW (140 hp),305,Alfa Romeo 156 1.9 JTD 16V Edizione Esclusiva,4,5,1,31.405,0,209,manual,2595 mm
+1,1,1,1,1,1,,2387,diesel,63,,,129 kW (175 hp),385,Alfa Romeo 156 2.4 JTD 20V Distinctive,5,5,1,35.950,0,225,manual,2595 mm
+1,1,1,1,1,1,,1910,diesel,63,,,110 kW (150 hp),305,Alfa Romeo 156 1.9 JTD 16V 150hp Distinctive,4,5,1,33.350,0,209,manual,2595 mm
+1,1,1,1,1,1,,1910,diesel,63,,,110 kW (150 hp),305,Alfa Romeo 156 1.9 JTD 16V 150hp Progression,4,5,1,32.150,0,209,manual,2595 mm
+1,1,1,1,1,1,,2492,petrol,63,,,141 kW (192 hp),218,Alfa Romeo 156 2.5 V6 24V Q-System Distinctive,6,5,1,39.530,0,227,automatic,2595 mm
+1,1,1,1,1,1,,1910,diesel,63,,,110 kW (150 hp),305,Alfa Romeo 156 1.9 JTD 16V 150hp Impression,4,5,0,30.950,0,209,manual,2595 mm
+1,1,1,1,1,1,,2492,petrol,63,,,141 kW (192 hp),218,Alfa Romeo 156 2.5 V6 24V Progression,6,5,1,36.005,0,230,manual,2595 mm
+1,1,1,1,1,1,,2492,petrol,63,,,141 kW (192 hp),218,Alfa Romeo 156 2.5 V6 24V Distinctive,6,5,1,37.530,0,230,manual,2595 mm
+1,1,1,1,1,1,,1970,petrol,63,,,121 kW (165 hp),206,Alfa Romeo 156 2.0 JTS 16V Selespeed Distinctive,4,5,1,32.350,0,220,semi-automatic,2595 mm
+1,1,1,1,1,1,,1970,petrol,63,,,121 kW (165 hp),206,Alfa Romeo 156 2.0 JTS 16V Selespeed Progression,4,5,1,30.680,0,220,semi-automatic,2595 mm
+1,1,1,1,1,1,,1970,petrol,63,,,121 kW (165 hp),206,Alfa Romeo 156 2.0 JTS 16V Distinctive,4,5,1,30.950,0,220,manual,2595 mm
+1,1,1,1,1,1,,1970,petrol,63,,,121 kW (165 hp),206,Alfa Romeo 156 2.0 JTS 16V Progression,4,5,1,29.750,0,220,manual,2595 mm
+1,1,1,1,1,1,,1970,petrol,63,,,121 kW (165 hp),206,Alfa Romeo 156 2.0 JTS 16V Impression,4,5,0,28.150,0,220,manual,2595 mm
+1,1,1,1,1,1,,1747,petrol,63,,,103 kW (140 hp),163,Alfa Romeo 156 1.8 T.Spark 16V Progression,4,5,1,26.380,0,208,manual,2595 mm
+1,1,1,1,1,1,,1747,petrol,63,,,103 kW (140 hp),163,Alfa Romeo 156 1.8 T.Spark 16V Impression,4,5,0,24.780,0,208,manual,2595 mm
+1,1,1,1,1,1,,1747,petrol,63,,,103 kW (140 hp),163,Alfa Romeo 156 1.8 T.Spark 16V Distinctive,4,5,1,27.580,0,208,manual,2595 mm
+1,1,1,1,1,1,,3179,petrol,63,,,184 kW (250 hp),300,Alfa Romeo 156 GTA 3.2 V6 24V,6,5,1,47.950,0,250,manual,2595 mm
+1,1,1,1,1,1,,1598,petrol,63,,,88 kW (120 hp),146,Alfa Romeo 156 1.6 T.Spark 16V Distinctive,4,5,1,26.650,0,200,manual,2595 mm
+1,1,1,1,1,1,,1598,petrol,63,,,88 kW (120 hp),146,Alfa Romeo 156 1.6 T.Spark 16V Progression,4,5,1,25.450,0,200,manual,2595 mm
+1,1,1,1,1,1,,1910,diesel,63,,,85 kW (115 hp),275,Alfa Romeo 156 Sportwagon 1.9 JTD Progression,4,5,0,30.770,0,191,manual,2595 mm
+1,1,1,1,1,1,,3179,petrol,63,,,184 kW (250 hp),300,Alfa Romeo 156 GTA 3.2 V6 24V Selespeed,6,5,1,49.350,0,250,semi-automatic,2595 mm
+1,1,1,1,1,1,,1910,diesel,63,,,103 kW (140 hp),305,Alfa Romeo 156 1.9 JTD 16V Distinctive,4,5,1,32.605,0,209,manual,2595 mm
+1,1,1,1,1,1,,2387,diesel,63,,,129 kW (175 hp),385,Alfa Romeo 156 2.4 JTD 20V Progression,5,5,1,34.750,0,225,manual,2595 mm
+1,1,1,1,1,1,,1910,diesel,63,,,103 kW (140 hp),305,Alfa Romeo 156 1.9 JTD 16V Impression,4,5,0,30.260,0,209,manual,2595 mm
+1,1,1,1,1,1,,1910,diesel,63,,,85 kW (115 hp),275,Alfa Romeo 156 1.9 JTD Impression,4,5,0,28.550,0,191,manual,2595 mm
+1,1,1,1,1,1,,1598,petrol,63,,,88 kW (120 hp),146,Alfa Romeo 156 1.6 T.Spark 16V Impression,4,5,0,24.250,0,200,manual,2595 mm
+1,1,1,1,1,1,,1910,diesel,63,,,103 kW (140 hp),305,Alfa Romeo 156 1.9 JTD 16V Progression,4,5,1,31.405,0,209,manual,2595 mm
+1,1,1,1,1,1,,1910,diesel,63,,,85 kW (115 hp),275,Alfa Romeo 156 1.9 JTD Distinctive,4,5,1,30.950,0,191,manual,2595 mm
+1,1,1,1,1,1,,1910,diesel,60,,,85 kW (115 hp),275,Alfa Romeo 147 1.9 JTD 115hp Progression,4,5,0,24.540,0,191,manual,2546 mm
+1,1,1,1,1,1,,1598,petrol,60,,,88 kW (120 hp),146,Alfa Romeo 147 1.6 T.Spark 16V Veloce Edizione Esclusiva,4,5,0,22.775,0,195,manual,2546 mm
+1,1,1,1,1,1,,1910,diesel,60,,,85 kW (115 hp),275,Alfa Romeo 147 1.9 JTD 115hp Distinctive,4,5,0,25.690,0,191,manual,2546 mm
+1,1,1,1,1,1,,1598,petrol,60,,,77 kW (105 hp),140,Alfa Romeo 147 1.6 T.Spark 16V Edizione Esclusiva,4,5,0,21.575,0,185,manual,2546 mm
+1,1,1,1,1,1,,1598,petrol,60,,,77 kW (105 hp),140,Alfa Romeo 147 1.6 T.Spark 16V Edizione Sportiva,4,5,0,18.995,0,185,manual,2546 mm
+1,1,1,1,1,1,,1598,petrol,60,,,88 kW (120 hp),146,Alfa Romeo 147 1.6 T.Spark 16V Veloce Impression,4,5,0,19.940,0,195,manual,2546 mm
+1,1,1,1,1,1,,1910,diesel,63,,,85 kW (115 hp),275,Alfa Romeo 156 1.9 JTD Progression,4,5,1,29.750,0,191,manual,2595 mm
+1,1,1,1,1,1,,1598,petrol,60,,,77 kW (105 hp),140,Alfa Romeo 147 1.6 T.Spark 16V Impression,4,5,0,18.790,0,185,manual,2546 mm
+1,1,1,1,1,1,,1910,diesel,60,,,103 kW (140 hp),305,Alfa Romeo 147 1.9 JTD 16V Distinctive,4,5,0,27.540,0,206,manual,2546 mm
+1,1,1,1,1,1,,1970,petrol,60,,,110 kW (150 hp),181,Alfa Romeo 147 2.0 T.Spark 16V Distinctive,4,5,0,25.255,0,208,manual,2546 mm
+1,1,1,1,1,1,,1598,petrol,60,,,88 kW (120 hp),146,Alfa Romeo 147 1.6 T.Spark 16V Veloce Edizione Sportiva,4,5,0,20.145,0,195,manual,2546 mm
+1,1,1,1,1,1,,1910,diesel,60,,,85 kW (115 hp),275,Alfa Romeo 147 1.9 JTD 115hp Impression,4,5,0,23.490,0,191,manual,2546 mm
+1,1,1,1,1,1,,1910,diesel,60,,,103 kW (140 hp),305,Alfa Romeo 147 1.9 JTD 16V Progression,4,5,0,26.960,0,206,manual,2546 mm
+1,1,1,1,1,1,,1910,diesel,60,,,103 kW (140 hp),305,Alfa Romeo 147 1.9 JTD 16V Lusso,4,5,0,28.595,0,206,manual,2546 mm
+1,1,1,1,1,1,,1598,petrol,60,,,77 kW (105 hp),140,Alfa Romeo 147 1.6 T.Spark 16V Trofeo,4,5,0,19.995,0,185,manual,2546 mm
+1,1,1,1,1,1,,1910,diesel,60,,,74 kW (100 hp),200,Alfa Romeo 147 1.9 JTD 100hp Impression,4,5,0,22.990,0,183,manual,2546 mm
+1,1,1,1,1,1,,3179,petrol,63,,,184 kW (250 hp),300,Alfa Romeo 147 3.2 V6 24V GTA,6,5,0,39.990,0,246,manual,2546 mm

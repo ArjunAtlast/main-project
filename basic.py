@@ -1,7 +1,6 @@
 """
 Twitter Sentiment Analysis
 """
-from twitter import Twitter, OAuth
 from textblob import TextBlob
 import re
 

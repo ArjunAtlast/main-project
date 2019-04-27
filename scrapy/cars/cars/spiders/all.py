@@ -53,7 +53,7 @@ class AllSpider(CrawlSpider):
         # print("Models", len(item_links))
         # print("Types", len(internal_links))
 
-        for link in item_links[:2]:
+        for link in item_links:
             yield scrapy.Request(link, callback=self.parse_item)
         
         for link in internal_links:

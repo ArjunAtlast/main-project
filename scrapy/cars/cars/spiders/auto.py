@@ -33,7 +33,7 @@ class CarsItem(scrapy.Item):
 class AutoSpider(CrawlSpider):
     name = 'auto'
     allowed_domains = ['www.auto-data.net']
-    start_urls = ['http://www.auto-data.net/en/']
+    start_urls = ['https://www.auto-data.net/en/allbrands']
     
     def parse(self, response):
         """
